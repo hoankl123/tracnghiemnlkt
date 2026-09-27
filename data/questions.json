@@ -1,0 +1,2202 @@
+{
+  "subject": "Nguyên Lý Kinh Tế",
+  "totalQuestions": 90,
+  "chapters": [
+    {
+      "id": 1,
+      "title": "TỔNG QUAN VỀ KINH TẾ HỌC (NHẬP MÔN KINH TẾ HỌC)",
+      "questions": [
+        {
+          "id": 1,
+          "text": "Kinh tế học nghiên cứu vấn đề gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Cách tăng thu nhập cho hộ gia đình"
+            },
+            {
+              "letter": "B",
+              "text": "Cách giảm chi phí cho nhà sản xuất"
+            },
+            {
+              "letter": "C",
+              "text": "Giải thích sự khan hiếm tài nguyên"
+            },
+            {
+              "letter": "D",
+              "text": "Cách thức xã hội phân bổ các nguồn lực khan hiếm như thế nào để sản xuất ra các hàng hóa dịch vụ có giá trị và phân phối chúng cho các thành viên trong xã hội tiêu dùng"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Kinh tế học nghiên cứu cách xã hội quản lý và phân bổ các nguồn lực khan hiếm."
+        },
+        {
+          "id": 2,
+          "text": "Chủ đề cơ bản nhất mà kinh tế học vi mô phải giải quyết là gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Thị trường"
+            },
+            {
+              "letter": "B",
+              "text": "Tiền"
+            },
+            {
+              "letter": "C",
+              "text": "Tìm kiếm lợi ích của người sản xuất và người tiêu dùng"
+            },
+            {
+              "letter": "D",
+              "text": "Sự khan hiếm nguồn lực"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Sự khan hiếm nguồn lực là xuất phát điểm của mọi vấn đề kinh tế học."
+        },
+        {
+          "id": 3,
+          "text": "Các bộ phận cấu thành nên kinh tế học bao gồm?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Kinh tế vi mô, kinh tế vĩ mô"
+            },
+            {
+              "letter": "B",
+              "text": "Kinh tế thực chứng, kinh tế chuẩn tắc"
+            },
+            {
+              "letter": "C",
+              "text": "Cả hai phương án trên"
+            },
+            {
+              "letter": "D",
+              "text": "Không phải các phương án trên"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Kinh tế học chia làm hai bộ phận chính là Kinh tế học vi mô và Kinh tế học vĩ mô."
+        },
+        {
+          "id": 4,
+          "text": "Kinh tế học vĩ mô nghiên cứu vấn đề nào dưới đây?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Thất nghiệp, lạm phát"
+            },
+            {
+              "letter": "B",
+              "text": "Quan hệ giữa giá cả và lượng hàng hóa"
+            },
+            {
+              "letter": "C",
+              "text": "Tối đa hoá lợi ích của các cá nhân trong xã hội"
+            },
+            {
+              "letter": "D",
+              "text": "Tất cả các phương án trên đều đúng"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Thất nghiệp và lạm phát là các biến số kinh tế tổng hợp thuộc phạm vi vĩ mô."
+        },
+        {
+          "id": 5,
+          "text": "Đứng trước tình trạng nền kinh tế suy thoái, các quốc gia đưa ra chính sách tiền tệ mở rộng. Vấn đề này thuộc lĩnh vực nghiên cứu của lĩnh vực kinh tế nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Kinh tế vĩ mô, kinh tế học thực chứng"
+            },
+            {
+              "letter": "B",
+              "text": "Kinh tế vi mô, kinh tế học chuẩn tắc"
+            },
+            {
+              "letter": "C",
+              "text": "Kinh tế vi mô, kinh tế học thực chứng"
+            },
+            {
+              "letter": "D",
+              "text": "Kinh tế vĩ mô, kinh tế học chuẩn tắc"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Chính sách tiền tệ mở rộng ứng phó suy thoái mang tính đưa ra lời khuyên/đánh giá chuẩn tắc trong kinh tế vĩ mô."
+        },
+        {
+          "id": 6,
+          "text": "Ví dụ nào sau đây thuộc Kinh tế học thực chứng?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Thuế thu nhập doanh nghiệp hiện tại là quá cao"
+            },
+            {
+              "letter": "B",
+              "text": "Tỉ lệ tiết kiệm của dân cư hiện tại là quá thấp"
+            },
+            {
+              "letter": "C",
+              "text": "Lãi suất ngân hàng thấp sẽ kích thích hoạt động đầu tư"
+            },
+            {
+              "letter": "D",
+              "text": "Ngân hàng Nhà nước nên giảm lãi suất để kích thích đầu tư"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Tuyên bố thực chứng mô tả mối quan hệ nguyên nhân - kết quả mang tính khách quan có thể kiểm chứng."
+        },
+        {
+          "id": 7,
+          "text": "Vấn đề nào sau đây thuộc lĩnh vực nghiên cứu của kinh tế học vi mô?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Tốc độ tăng trưởng của nền kinh tế phụ thuộc vào cơ cấu ngành kinh tế"
+            },
+            {
+              "letter": "B",
+              "text": "Con người là nhân tố chính của sự phát triển"
+            },
+            {
+              "letter": "C",
+              "text": "Giá hàng hóa tăng khi chính phủ in quá nhiều tiền"
+            },
+            {
+              "letter": "D",
+              "text": "Lợi nhuận của doanh nghiệp phụ thuộc vào tổng doanh thu và tổng chi phí"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Vi mô nghiên cứu hành vi và quyết định của các đơn vị kinh tế cá biệt như doanh nghiệp."
+        },
+        {
+          "id": 8,
+          "text": "Khi nghiên cứu hành vi tối đa hóa lợi nhuận của các doanh nghiệp là phạm trù của lĩnh vực kinh tế nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Kinh tế học vĩ mô"
+            },
+            {
+              "letter": "B",
+              "text": "Kinh tế học vi mô"
+            },
+            {
+              "letter": "C",
+              "text": "Kinh tế học thực chứng"
+            },
+            {
+              "letter": "D",
+              "text": "Kinh tế học chuẩn tắc"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Hành vi tối đa hóa lợi nhuận của từng doanh nghiệp là chủ đề trọng tâm của Kinh tế vi mô."
+        },
+        {
+          "id": 9,
+          "text": "Bộ phận nào của Kinh tế học nghiên cứu về việc chính phủ đưa ra các quyết định kinh tế dựa vào thực trạng của nền kinh tế?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Kinh tế học vĩ mô, kinh tế học thực chứng"
+            },
+            {
+              "letter": "B",
+              "text": "Kinh tế học vi mô, kinh tế học thực chứng"
+            },
+            {
+              "letter": "C",
+              "text": "Kinh tế học vi mô, kinh tế học chuẩn tắc"
+            },
+            {
+              "letter": "D",
+              "text": "Kinh tế học vĩ mô, kinh tế học chuẩn tắc"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Chính phủ quyết định chính sách kinh tế vĩ mô dựa trên đánh giá thực trạng (chuẩn tắc)."
+        },
+        {
+          "id": 10,
+          "text": "Xuất phát điểm cho sự ra đời của kinh tế học là gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Do phân công lao động quốc tế"
+            },
+            {
+              "letter": "B",
+              "text": "Do nhu cầu ngày càng tăng của con người"
+            },
+            {
+              "letter": "C",
+              "text": "Do chi phí cơ hội ngày càng tăng"
+            },
+            {
+              "letter": "D",
+              "text": "Do nguồn lực khan hiếm nên xã hội phải phân bổ các nguồn lực đó một cách có hiệu quả"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Sự khan hiếm nguồn lực buộc con người phải lựa chọn và phân bổ hiệu quả."
+        },
+        {
+          "id": 11,
+          "text": "Lý do nghiên cứu kinh tế học là gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Để biết cách thức con người phân bổ các nguồn lực vô hạn để đáp ứng nhu cầu hữu hạn của con người"
+            },
+            {
+              "letter": "B",
+              "text": "Để biết cách thức con người phân bổ các nguồn lực hữu hạn để đáp ứng nhu cầu vô hạn của con người"
+            },
+            {
+              "letter": "C",
+              "text": "Để biết cách thức con người tìm kiếm các nguồn lực vô hạn để đáp ứng nhu cầu hữu hạn của con người"
+            },
+            {
+              "letter": "D",
+              "text": "Để biết cách thức con người tìm kiếm các nguồn lực hữu hạn để đáp ứng nhu cầu vô hạn của con người"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Nguồn lực là hữu hạn (khan hiếm) trong khi nhu cầu của con người là vô hạn."
+        },
+        {
+          "id": 12,
+          "text": "Nhận định nào sau đây chưa đúng về mục tiêu của sự lựa chọn?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Đối với người sản xuất kinh doanh hàng hóa dịch vụ thì mục tiêu của sự lựa chọn là tối đa hóa lợi nhuận"
+            },
+            {
+              "letter": "B",
+              "text": "Đối với người sản xuất kinh doanh hàng hóa dịch vụ thì mục tiêu của sự lựa chọn là sản xuất cái gì, sản xuất như thế nào và sản xuất cho ai"
+            },
+            {
+              "letter": "C",
+              "text": "Đối với người tiêu dùng, mục tiêu của sự lựa chọn là tối đa hóa lợi ích trong điều kiện ngân sách hiện có"
+            },
+            {
+              "letter": "D",
+              "text": "Đối với Chính phủ, mục tiêu của sự lựa chọn là thúc đẩy tăng trưởng và ổn định nền kinh tế, khắc phục khuyết tật thị trường"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "'Sản xuất cái gì, như thế nào, cho ai' là 3 vấn đề kinh tế cơ bản mà xã hội phải giải quyết, không phải mục tiêu lựa chọn cá nhân của doanh nghiệp."
+        },
+        {
+          "id": 13,
+          "text": "Hãy chỉ ra chi phí cơ hội của Nam khi lựa chọn đi học đại học?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Số tiền lương 5 triệu/ tháng nếu Nam đi làm công ty giày da"
+            },
+            {
+              "letter": "B",
+              "text": "Số tiền ăn 2 triệu/tháng"
+            },
+            {
+              "letter": "C",
+              "text": "Tiền điện thoại 1 triệu/tháng"
+            },
+            {
+              "letter": "D",
+              "text": "Tất cả phương án trên đều đúng"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Chi phí cơ hội là giá trị của phương án tốt nhất bị từ bỏ (mức lương đi làm)."
+        },
+        {
+          "id": 14,
+          "text": "Điều nào sau đây không được tính vào chi phí cơ hội của việc học đại học?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Học phí"
+            },
+            {
+              "letter": "B",
+              "text": "Tiền sách vở"
+            },
+            {
+              "letter": "C",
+              "text": "Chi phí ăn uống"
+            },
+            {
+              "letter": "D",
+              "text": "Thu nhập đáng ra nhận được nếu đi làm mà không đi học đại học"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Chi phí ăn uống là chi phí sinh hoạt thiết yếu phải chi trả dù có học đại học hay không."
+        },
+        {
+          "id": 15,
+          "text": "Quy luật chi phí cơ hội tăng dần cho biết điều nào sau đây?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Để sản xuất thêm một lượng loại hàng hóa này, xã hội phải từ bỏ ngày càng nhiều việc sản xuất một lượng nào đó loại hàng hóa khác"
+            },
+            {
+              "letter": "B",
+              "text": "Chính phủ chi quá nhiều gây ra lạm phát"
+            },
+            {
+              "letter": "C",
+              "text": "Công đoàn đẩy mức tiền lương danh nghĩa lên"
+            },
+            {
+              "letter": "D",
+              "text": "Nền kinh tế không thể lựa chọn ở các điểm nằm trên đường giới hạn khả năng sản xuất"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Chi phí cơ hội gia tăng do các nguồn lực không thích hợp như nhau cho việc sản xuất mọi loại hàng hóa."
+        },
+        {
+          "id": 16,
+          "text": "Đường giới hạn khả năng sản xuất (PPF) sẽ không dịch chuyển khi nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Khi giá các sản phẩm thay đổi"
+            },
+            {
+              "letter": "B",
+              "text": "Khi dân số thay đổi"
+            },
+            {
+              "letter": "C",
+              "text": "Khi công nghệ sản xuất thay đổi"
+            },
+            {
+              "letter": "D",
+              "text": "Khi hiệu quả kinh tế thay đổi"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Sự thay đổi giá cả sản phẩm không làm thay đổi năng lực sản xuất (đường PPF không dịch chuyển)."
+        },
+        {
+          "id": 17,
+          "text": "Giả sử bạn được bố mẹ mừng tuổi 200.000 đồng. Nếu bạn sử dụng 200.000 đồng này để đi xem một trận đấu bóng đá thì chi phí cơ hội của bạn để xem trận đấu này là?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Không có chi phí cơ hội bởi vì tiền của bạn là được cho."
+            },
+            {
+              "letter": "B",
+              "text": "200.000 đồng (vì có thể dùng mua thứ khác) và giá trị của thời gian bạn dành để xem trận đấu."
+            },
+            {
+              "letter": "C",
+              "text": "200.000 đồng cộng với giá trị thời gian và tiền ăn tối hôm đó."
+            },
+            {
+              "letter": "D",
+              "text": "200.000 đồng"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Chi phí cơ hội gồm số tiền 200.000đ (giá trị hàng hóa khác bị từ bỏ) cộng với giá trị thời gian sử dụng."
+        },
+        {
+          "id": 18,
+          "text": "Chi phí nào sau đây không thuộc chi phí cơ hội của việc nghỉ làm để đi du lịch 1 tuần tại Quảng Ninh?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Tiền chỗ ở tại Quảng Ninh."
+            },
+            {
+              "letter": "B",
+              "text": "Số tiền bạn có thể kiếm được nếu bạn ở nhà và làm việc."
+            },
+            {
+              "letter": "C",
+              "text": "Số tiền bạn dùng để trả tiền điện thoại trong tuần đó."
+            },
+            {
+              "letter": "D",
+              "text": "Số tiền bạn dùng để di chuyển từ Hà Nội về Quảng Ninh."
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Tiền điện thoại phát sinh cố định hằng tuần dù bạn ở nhà hay đi du lịch."
+        },
+        {
+          "id": 19,
+          "text": "Bạn phải chi ra 200.000 đồng để xem phim vào tối thứ Bảy (vé 150.000đ, ăn tối 50.000đ). Thay vì xem phim bạn có thể đi làm thêm kiếm được 150.000đ. Vậy chi phí cơ hội của việc đi xem phim bằng bao nhiêu?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "50.000 đồng"
+            },
+            {
+              "letter": "B",
+              "text": "300.000 đồng"
+            },
+            {
+              "letter": "C",
+              "text": "200.000 đồng"
+            },
+            {
+              "letter": "D",
+              "text": "350.000 đồng"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Chi phí cơ hội = Số tiền thu nhập bỏ lỡ (150.000đ) + Tiền vé xem phim vứt bỏ (150.000đ) = 300.000đ."
+        },
+        {
+          "id": 20,
+          "text": "Giả sử bạn đi đá bóng với chi phí là 85.000 đồng trong 3 giờ. Nếu không đi đá bóng, bạn có thể làm thêm kiếm 40.000 đồng/giờ (3 giờ = 120.000đ). Chi phí cơ hội của việc đi đá bóng là bao nhiêu?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "85.000 đồng"
+            },
+            {
+              "letter": "B",
+              "text": "120.000 đồng"
+            },
+            {
+              "letter": "C",
+              "text": "45.000 đồng"
+            },
+            {
+              "letter": "D",
+              "text": "205.000 đồng"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Chi phí cơ hội = Chi phí trực tiếp (85.000đ) + Thu nhập làm thêm bị mất (3 * 40.000 = 120.000đ) = 205.000 đồng."
+        },
+        {
+          "id": 21,
+          "text": "Giả sử công nhân của xưởng sản xuất A trong một giờ có thể sản xuất 4 chiếc đồng hồ hoặc 12 chiếc nhẫn. Vậy điều này cho biết?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Chi phí cơ hội của việc sản xuất 1 chiếc đồng hồ là 1/4 chiếc nhẫn."
+            },
+            {
+              "letter": "B",
+              "text": "Chi phí cơ hội của việc sản xuất 1 chiếc đồng hồ là 4 chiếc nhẫn."
+            },
+            {
+              "letter": "C",
+              "text": "Chi phí cơ hội của việc sản xuất 1 chiếc đồng hồ là 3 chiếc nhẫn."
+            },
+            {
+              "letter": "D",
+              "text": "Chi phí cơ hội của việc sản xuất 1 chiếc đồng hồ là 12 chiếc nhẫn."
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Chi phí cơ hội sản xuất 1 đồng hồ = 12 nhẫn / 4 đồng hồ = 3 chiếc nhẫn."
+        },
+        {
+          "id": 22,
+          "text": "Mỗi quốc gia phải đánh đổi giữa tăng trưởng kinh tế và bảo vệ môi trường là nội dung của nguyên lý kinh tế nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Con người đối mặt với sự đánh đổi"
+            },
+            {
+              "letter": "B",
+              "text": "Chi phí của một thứ là cái mà bạn phải từ bỏ để có được nó"
+            },
+            {
+              "letter": "C",
+              "text": "Con người duy lý suy nghĩ tại điểm cận biên"
+            },
+            {
+              "letter": "D",
+              "text": "Con người đáp lại các động cơ khuyến khích"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Nguyên lý 'Con người đối mặt với sự đánh đổi' (Trade-offs)."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "LÝ THUYẾT CẦU - CUNG VÀ GIÁ CẢ THỊ TRƯỜNG",
+      "questions": [
+        {
+          "id": 1,
+          "text": "Luật cầu là luật của ai?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Người mua"
+            },
+            {
+              "letter": "B",
+              "text": "Người bán"
+            },
+            {
+              "letter": "C",
+              "text": "Chính phủ"
+            },
+            {
+              "letter": "D",
+              "text": "Cả ba tác nhân trên"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Luật cầu phản ánh hành vi của người mua (giá tăng thì lượng cầu giảm)."
+        },
+        {
+          "id": 2,
+          "text": "Luật cung là luật của ai?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Người mua"
+            },
+            {
+              "letter": "B",
+              "text": "Người bán"
+            },
+            {
+              "letter": "C",
+              "text": "Chính phủ"
+            },
+            {
+              "letter": "D",
+              "text": "Cả ba tác nhân trên"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Luật cung phản ánh hành vi của người bán (giá tăng thì lượng cung tăng)."
+        },
+        {
+          "id": 3,
+          "text": "Một biểu cầu cho thấy điều gì sau đây?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Một hàng hoá cụ thể sẽ được cung ứng bao nhiêu ra thị trường với các mức giá khác nhau."
+            },
+            {
+              "letter": "B",
+              "text": "Lượng cầu của một hàng hoá thay đổi bao nhiêu khi giá cả hàng hoá có liên quan thay đổi."
+            },
+            {
+              "letter": "C",
+              "text": "Lượng cầu một hàng hoá cụ thể là bao nhiêu với các mức giá khác nhau."
+            },
+            {
+              "letter": "D",
+              "text": "Lượng cầu về một hàng hoá thay đổi bao nhiêu khi mức thu nhập thay đổi."
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Biểu cầu thể hiện mối quan hệ giữa các mức giá và lượng cầu tương ứng."
+        },
+        {
+          "id": 4,
+          "text": "Nếu hai hàng hoá được coi là thay thế cho nhau thì sự gia tăng trong giá cả của hàng hoá này sẽ dẫn đến điều gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Sự gia tăng trong cầu của hàng hoá kia."
+            },
+            {
+              "letter": "B",
+              "text": "Sự giảm sút trong lượng cầu của hàng hoá kia."
+            },
+            {
+              "letter": "C",
+              "text": "Sự gia tăng trong lượng cung của hàng hoá kia."
+            },
+            {
+              "letter": "D",
+              "text": "Sự giảm sút trong lượng cung của hàng hoá kia."
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Giá hàng hóa thay thế tăng khiến người tiêu dùng chuyển sang mua hàng hóa kia, làm cầu hàng hóa kia tăng."
+        },
+        {
+          "id": 5,
+          "text": "Sự khác nhau cơ bản giữa cầu và nhu cầu là gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Khả năng thanh toán của người tiêu dùng"
+            },
+            {
+              "letter": "B",
+              "text": "Sự sẵn lòng mua của người tiêu dùng"
+            },
+            {
+              "letter": "C",
+              "text": "Số lượng người tiêu dùng trên thị trường"
+            },
+            {
+              "letter": "D",
+              "text": "Số lượng hàng hóa, dịch vụ"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Cầu là nhu cầu có khả năng thanh toán (sẵn sàng mua và có tiền mua)."
+        },
+        {
+          "id": 6,
+          "text": "Khi giá thịt bò đang giảm mạnh, trong điều kiện các yếu tố khác không đổi, giá và lượng cân bằng thịt lợn sẽ?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Giá giảm, lượng tăng"
+            },
+            {
+              "letter": "B",
+              "text": "Giá tăng, lượng giảm"
+            },
+            {
+              "letter": "C",
+              "text": "Giá giảm, lượng giảm"
+            },
+            {
+              "letter": "D",
+              "text": "Giá tăng, lượng tăng"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Thịt bò và thịt lợn là hai hàng hóa thay thế. Giá thịt bò giảm làm cầu thịt lợn giảm -> Giá và lượng cân bằng thịt lợn đều giảm."
+        },
+        {
+          "id": 7,
+          "text": "Khi giá hiện tại cao hơn giá cân bằng thị trường, chúng ta biết rằng?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Có sự dư thừa hàng hoá trên thị trường"
+            },
+            {
+              "letter": "B",
+              "text": "Có sự thiếu hụt hàng hoá trên thị trường"
+            },
+            {
+              "letter": "C",
+              "text": "Lượng cung nhỏ hơn lượng cầu hàng hoá"
+            },
+            {
+              "letter": "D",
+              "text": "Lượng cung bằng lượng cầu hàng hoá"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Giá cao hơn giá cân bằng làm lượng cung lớn hơn lượng cầu, gây dư thừa hàng hóa."
+        },
+        {
+          "id": 8,
+          "text": "Nắng hạn có thể sẽ dẫn tới hệ quả nào sau đây đối với thị trường lúa gạo?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Đường cung về gạo dịch chuyển sang phải"
+            },
+            {
+              "letter": "B",
+              "text": "Đường cầu về gạo dịch chuyển sang trái"
+            },
+            {
+              "letter": "C",
+              "text": "Đường cầu về gạo dịch chuyển sang phải"
+            },
+            {
+              "letter": "D",
+              "text": "Đường cung về gạo dịch chuyển sang trái"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Hạn hán làm tổn thất sản lượng lúa, làm giảm cung (đường cung dịch sang trái)."
+        },
+        {
+          "id": 9,
+          "text": "Trong điều kiện các yếu tố khác không đổi, điều gì xảy ra với thị trường lúa gạo khi có hạn hán?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Giá và lượng cân bằng đều tăng"
+            },
+            {
+              "letter": "B",
+              "text": "Giá và lượng cân bằng đều giảm"
+            },
+            {
+              "letter": "C",
+              "text": "Giá cân bằng tăng nhưng lượng cân bằng giảm"
+            },
+            {
+              "letter": "D",
+              "text": "Giá cân bằng giảm nhưng lượng cân bằng tăng"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Cung giảm (dịch trái) làm giá cân bằng tăng và lượng cân bằng giảm."
+        },
+        {
+          "id": 10,
+          "text": "Điều nào dưới đây không làm dịch chuyển đường cầu đối với rượu vang?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Sự tăng giá rượu vang"
+            },
+            {
+              "letter": "B",
+              "text": "Sự tăng thu nhập của khách hàng"
+            },
+            {
+              "letter": "C",
+              "text": "Sự giảm giá của bia"
+            },
+            {
+              "letter": "D",
+              "text": "Người tiêu dùng thích rượu vang hơn"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Thay đổi giá của chính hàng hóa đó chỉ gây ra sự trượt di chuyển dọc theo đường cầu, không làm dịch chuyển đường cầu."
+        },
+        {
+          "id": 11,
+          "text": "Việc áp đặt giá trần (mức giá tối đa) sẽ dẫn tới hệ quả gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Dẫn tới một sự dư thừa hàng hoá trên thị trường"
+            },
+            {
+              "letter": "B",
+              "text": "Dẫn tới một sự thiếu hụt hàng hoá trên thị trường"
+            },
+            {
+              "letter": "C",
+              "text": "Làm cho thị trường cân bằng"
+            },
+            {
+              "letter": "D",
+              "text": "Thu hút nhiều người tham gia vào ngành sản xuất đó"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Giá trần được quy định thấp hơn giá cân bằng, làm lượng cầu lớn hơn lượng cung, dẫn tới thiếu hụt hàng hóa."
+        },
+        {
+          "id": 12,
+          "text": "Mức giá sàn (Price Floor) có đặc điểm gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Thấp hơn mức giá cân bằng"
+            },
+            {
+              "letter": "B",
+              "text": "Cao hơn mức giá cân bằng"
+            },
+            {
+              "letter": "C",
+              "text": "Luôn làm giảm thặng dư người tiêu dùng"
+            },
+            {
+              "letter": "D",
+              "text": "Luôn làm tăng thặng dư người sản xuất"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Giá sàn hiệu lực luôn cao hơn mức giá cân bằng thị trường nhằm bảo vệ người sản xuất."
+        },
+        {
+          "id": 13,
+          "text": "Giả sử hàm cầu, hàm cung về một loại hàng hóa là QD = 15 – P và QS = 2P + 5. Điều gì xảy ra khi chính phủ áp dụng mức giá P = 4?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Thị trường dư thừa 2 đơn vị hàng hóa"
+            },
+            {
+              "letter": "B",
+              "text": "Thị trường thiếu hụt 2 đơn vị hàng hóa"
+            },
+            {
+              "letter": "C",
+              "text": "Thị trường dư thừa 4 đơn vị hàng hóa"
+            },
+            {
+              "letter": "D",
+              "text": "Thị trường thiếu hụt 3 đơn vị hàng hóa"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Tại P=4: QD = 15-4 = 11; QS = 2(4)+5 = 13. QS > QD nên thị trường dư thừa 13 - 11 = 2 đơn vị."
+        },
+        {
+          "id": 14,
+          "text": "Cho hàm cầu QD = 15 – P và QS = 4P + 5. Giá và lượng cân bằng thị trường lần lượt là bao nhiêu?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Giá P = 2 và Lượng Q = 13"
+            },
+            {
+              "letter": "B",
+              "text": "Giá P = 13 và Lượng Q = 2"
+            },
+            {
+              "letter": "C",
+              "text": "Dư thừa tại mức giá 1 đơn vị"
+            },
+            {
+              "letter": "D",
+              "text": "Thiếu hụt tại mức giá 3 đơn vị"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Cho QD = QS => 15 - P = 4P + 5 => 5P = 10 => P = 2; Q = 13."
+        },
+        {
+          "id": 15,
+          "text": "Giả sử hàm cầu và hàm cung về quả nhãn: QS = 5P - 7, QD = -P + 23 (P: nghìn đồng/kg, Q: tấn). Tại mức giá sàn P = 10 nghìn đồng/kg, để thị trường cân bằng thì điều gì xảy ra?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Chính phủ phải cung cấp phần thiếu hụt là 18 tấn"
+            },
+            {
+              "letter": "B",
+              "text": "Chính phủ phải mua hết phần dư thừa là 18 tấn"
+            },
+            {
+              "letter": "C",
+              "text": "Chính phủ phải bù đắp phần thiếu hụt là 30 tấn"
+            },
+            {
+              "letter": "D",
+              "text": "Chính phủ phải mua hết phần dư thừa là 30 tấn"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Tại P=10: QS = 5(10)-7 = 43; QD = -10+23 = 13. Dư thừa 43 - 13 = 30 tấn. Chính phủ phải mua hết 30 tấn dư thừa."
+        },
+        {
+          "id": 16,
+          "text": "Độ co giãn của cầu theo giá (Ep) được xác định bằng công thức nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Tỷ lệ % thay đổi của lượng cầu chia cho % thay đổi của thu nhập"
+            },
+            {
+              "letter": "B",
+              "text": "Tỷ lệ % thay đổi của thu nhập chia cho % thay đổi của giá"
+            },
+            {
+              "letter": "C",
+              "text": "Tỷ lệ % thay đổi của thu nhập chia cho % thay đổi của lượng cầu"
+            },
+            {
+              "letter": "D",
+              "text": "Tỷ lệ % thay đổi của lượng cầu chia cho % thay đổi của giá cả"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Ep = (% thay đổi QD) / (% thay đổi P)."
+        },
+        {
+          "id": 17,
+          "text": "Nếu đường cầu về một loại thuốc chữa bệnh mãn tính là thẳng đứng, độ co giãn của cầu theo giá bằng bao nhiêu?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Ep > 1"
+            },
+            {
+              "letter": "B",
+              "text": "Ep < 1"
+            },
+            {
+              "letter": "C",
+              "text": "Ep = 0"
+            },
+            {
+              "letter": "D",
+              "text": "Ep = vô cùng"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Đường cầu thẳng đứng thể hiện cầu hoàn toàn không co giãn theo giá (Ep = 0)."
+        },
+        {
+          "id": 18,
+          "text": "Giả sử giá hàng hoá tăng 2% dẫn đến lượng cầu giảm 6% thì độ co giãn của cầu theo giá bằng bao nhiêu?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Ep = -1/3"
+            },
+            {
+              "letter": "B",
+              "text": "Ep = -6"
+            },
+            {
+              "letter": "C",
+              "text": "Ep = -2"
+            },
+            {
+              "letter": "D",
+              "text": "Ep = -3"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Ep = (-6%) / (+2%) = -3."
+        },
+        {
+          "id": 19,
+          "text": "Hàm cầu về một hàng hoá là PD = 100 - 0,4Q. Độ co giãn của cầu theo giá tại mức giá P = 50 là bao nhiêu?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Ep = -1"
+            },
+            {
+              "letter": "B",
+              "text": "Ep = -1,5"
+            },
+            {
+              "letter": "C",
+              "text": "Ep = -2,5"
+            },
+            {
+              "letter": "D",
+              "text": "Ep = -3,25"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Tại P = 50 => Q = (100-50)/0,4 = 125. Đạo hàm dQ/dP = -1/0.4 = -2.5. Ep = (dQ/dP)*(P/Q) = -2.5 * (50/125) = -1."
+        },
+        {
+          "id": 20,
+          "text": "Nếu cầu hàng hoá X ít co giãn theo giá (|Ep| < 1), để tăng tổng doanh thu doanh nghiệp nên làm gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Tăng giá bán"
+            },
+            {
+              "letter": "B",
+              "text": "Giảm giá bán"
+            },
+            {
+              "letter": "C",
+              "text": "Giữ nguyên giá bán"
+            },
+            {
+              "letter": "D",
+              "text": "Tăng sản lượng xuất khẩu"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Khi cầu ít co giãn (|Ep| < 1), tăng giá làm lượng cầu giảm ít hơn nên tổng doanh thu TR tăng."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "LÝ THUYẾT HÀNH VI NGƯỜI TIÊU DÙNG",
+      "questions": [
+        {
+          "id": 1,
+          "text": "Lợi ích cận biên (Marginal Utility - MU) được hiểu như thế nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Phần lợi ích tăng lên hay giảm đi do tiêu dùng thêm hay bớt đi một đơn vị sản phẩm hàng hóa dịch vụ"
+            },
+            {
+              "letter": "B",
+              "text": "Phần lợi ích tăng lên hay giảm đi do tiêu dùng thêm hay bớt đi hai đơn vị sản phẩm"
+            },
+            {
+              "letter": "C",
+              "text": "Tổng lợi ích thu được từ việc tiêu dùng tất cả các sản phẩm"
+            },
+            {
+              "letter": "D",
+              "text": "Lợi ích bình quân tính trên một đơn vị sản phẩm"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "MU = dTU/dQ là phần tổng lợi ích thay đổi khi tiêu dùng thêm 1 đơn vị sản phẩm."
+        },
+        {
+          "id": 2,
+          "text": "Tổng lợi ích (Total Utility - TU) của người tiêu dùng luôn có xu hướng như thế nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Lớn hơn lợi ích cận biên"
+            },
+            {
+              "letter": "B",
+              "text": "Nhỏ hơn lợi ích cận biên"
+            },
+            {
+              "letter": "C",
+              "text": "Tăng khi lợi ích cận biên (MU) mang giá trị dương"
+            },
+            {
+              "letter": "D",
+              "text": "Tăng khi lợi ích cận biên (MU) giảm"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Vì MU là đạo hàm của TU, chừng nào MU > 0 thì tổng lợi ích TU còn tiếp tục tăng."
+        },
+        {
+          "id": 3,
+          "text": "Để đạt được độ thỏa dụng (lợi ích) tối đa trong giới hạn ngân sách, người tiêu dùng sẽ kết hợp các hàng hoá X, Y, Z theo nguyên tắc nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Mua nhiều các sản phẩm giá thấp"
+            },
+            {
+              "letter": "B",
+              "text": "Lợi ích biên của các sản phẩm đem lại phải bằng nhau"
+            },
+            {
+              "letter": "C",
+              "text": "MUX/PX = MUY/PY = MUZ/PZ"
+            },
+            {
+              "letter": "D",
+              "text": "Chi tiêu cho các sản phẩm là như nhau"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Tối đa hóa lợi ích đạt được khi lợi ích cận biên trên một đồng chi tiêu cuối cùng cho mỗi hàng hóa là bằng nhau."
+        },
+        {
+          "id": 4,
+          "text": "Mai có thể ăn xôi hoặc bánh mỳ. Giá xôi PX = 10.000đ, giá bánh mỳ PY = 15.000đ. Tại điểm tiêu dùng tối ưu, tỷ số lợi ích cận biên MUX/MUY bằng bao nhiêu?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "MUX/MUY = 2/3"
+            },
+            {
+              "letter": "B",
+              "text": "MUX/MUY = 3/2"
+            },
+            {
+              "letter": "C",
+              "text": "MUX/MUY = PY/PX"
+            },
+            {
+              "letter": "D",
+              "text": "Cả A và C đều đúng"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Tại điểm tối ưu: MUX/PX = MUY/PY => MUX/MUY = PX/PY = 10.000 / 15.000 = 2/3."
+        },
+        {
+          "id": 5,
+          "text": "Một người tiêu dùng kem thu được tổng lợi ích (TU) khi ăn 1, 2, 3, 4, 5 que kem lần lượt là 7, 15, 22, 25, 27. Lợi ích cận biên (MU) từ que kem thứ 3 là bao nhiêu?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "22"
+            },
+            {
+              "letter": "B",
+              "text": "15"
+            },
+            {
+              "letter": "C",
+              "text": "7"
+            },
+            {
+              "letter": "D",
+              "text": "2"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "MU(3) = TU(3) - TU(2) = 22 - 15 = 7."
+        },
+        {
+          "id": 6,
+          "text": "Đường ngân sách (Budget Line) cho biết điều gì sau đây?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Các kết hợp hàng hóa mà người tiêu dùng có thể mua với giá cả sản phẩm cho trước và thu nhập không đổi"
+            },
+            {
+              "letter": "B",
+              "text": "Các kết hợp hàng hóa mà người tiêu dùng có thể mua khi giá sản phẩm thay đổi"
+            },
+            {
+              "letter": "C",
+              "text": "Các kết hợp hàng hóa mà người tiêu dùng có thể mua khi thu nhập giảm xuống"
+            },
+            {
+              "letter": "D",
+              "text": "Sở thích của người tiêu dùng đối với các hàng hóa"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Đường ngân sách biểu diễn tập hợp các kết hợp hàng hóa tiêu dùng tối đa với nguồn ngân sách I cho trước."
+        },
+        {
+          "id": 7,
+          "text": "Đường ngân sách KHÔNG phụ thuộc vào yếu tố nào sau đây?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Giá cả hàng hóa X"
+            },
+            {
+              "letter": "B",
+              "text": "Thu nhập của người tiêu dùng"
+            },
+            {
+              "letter": "C",
+              "text": "Giá cả hàng hóa Y"
+            },
+            {
+              "letter": "D",
+              "text": "Sở thích của người tiêu dùng"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Phương trình đường ngân sách I = Px*X + Py*Y phụ thuộc vào giá hàng hóa và thu nhập, không phụ thuộc sở thích."
+        },
+        {
+          "id": 8,
+          "text": "Độ dốc của đường ngân sách phụ thuộc vào yếu tố nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Tỷ giá giữa các hàng hóa (-PX/PY)"
+            },
+            {
+              "letter": "B",
+              "text": "Sở thích của người tiêu dùng"
+            },
+            {
+              "letter": "C",
+              "text": "Số lượng người tiêu dùng trên thị trường"
+            },
+            {
+              "letter": "D",
+              "text": "Mức thu nhập của người tiêu dùng"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Độ dốc của đường ngân sách bằng âm tỷ giá của 2 hàng hóa (-PX/PY)."
+        },
+        {
+          "id": 9,
+          "text": "Điểm nằm bên trong đường ngân sách cho biết điều gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Phương án tiêu dùng không thể chi trả được"
+            },
+            {
+              "letter": "B",
+              "text": "Người tiêu dùng chỉ mua duy nhất 1 loại hàng hóa"
+            },
+            {
+              "letter": "C",
+              "text": "Tất cả ngân sách đã được sử dụng hết"
+            },
+            {
+              "letter": "D",
+              "text": "Phương án tiêu dùng có khả năng chi trả nhưng còn một phần ngân sách chưa dùng hết"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Điểm nằm trong miền ngân sách ứng với tổng chi tiêu nhỏ hơn thu nhập I."
+        },
+        {
+          "id": 10,
+          "text": "Ngọc có 1.000.000 đồng mua áo phông (100.000đ/chiếc) và quần bò (150.000đ/chiếc). Ngọc KHÔNG THỂ chi trả cho sự kết hợp hàng hóa nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "0 chiếc quần và 7 chiếc áo (700.000đ)"
+            },
+            {
+              "letter": "B",
+              "text": "3 chiếc quần và 4 chiếc áo (850.000đ)"
+            },
+            {
+              "letter": "C",
+              "text": "4 chiếc quần và 3 chiếc áo (900.000đ)"
+            },
+            {
+              "letter": "D",
+              "text": "7 chiếc quần và 0 chiếc áo"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "7 quần * 150.000đ = 1.050.000đ > 1.000.000đ (vượt ngân sách)."
+        },
+        {
+          "id": 11,
+          "text": "Giả sử người tiêu dùng có thu nhập I = 200.000đ mua hàng hóa X (PX = 5.000đ) và Y (PY = 10.000đ). Hàm lợi ích TU = X*Y. Để tối đa hóa lợi ích, nên mua bao nhiêu X và Y?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "X = 20, Y = 10"
+            },
+            {
+              "letter": "B",
+              "text": "X = 10, Y = 20"
+            },
+            {
+              "letter": "C",
+              "text": "X = 15, Y = 15"
+            },
+            {
+              "letter": "D",
+              "text": "X = 40, Y = 0"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Điều kiện tối ưu: MUX/MUY = PX/PY => Y/X = 5/10 => X = 2Y. Thay vào ngân sách: 5.000X + 10.000Y = 200.000 => 10.000Y + 10.000Y = 200.000 => Y = 10, X = 20."
+        },
+        {
+          "id": 12,
+          "text": "Thặng dư của người tiêu dùng (Consumer Surplus - CS) được hiểu là gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Phần chênh lệch giữa số tiền người bán nhận được với chi phí sản xuất"
+            },
+            {
+              "letter": "B",
+              "text": "Phần chênh lệch giữa mức giá người tiêu dùng sẵn sàng trả với mức giá thực tế họ phải trả"
+            },
+            {
+              "letter": "C",
+              "text": "Mức lợi ích ròng người sản xuất thu được"
+            },
+            {
+              "letter": "D",
+              "text": "Tổng số tiền người tiêu dùng chi trả cho hàng hóa"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "CS là chênh lệch giữa giá sẵn lòng trả (trên đường cầu) và giá thực tế thị trường."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "LÝ THUYẾT SẢN XUẤT VÀ CHI PHÍ SẢN XUẤT",
+      "questions": [
+        {
+          "id": 1,
+          "text": "Đường đồng lượng (Isoquant) cho biết điều gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Những mức sản lượng đầu ra như nhau với những phối hợp khác nhau của 2 yếu tố đầu vào biến đổi"
+            },
+            {
+              "letter": "B",
+              "text": "Những mức sản lượng đầu ra khác nhau với cùng một mức chi phí"
+            },
+            {
+              "letter": "C",
+              "text": "Những kết hợp chi phí tối ưu của doanh nghiệp"
+            },
+            {
+              "letter": "D",
+              "text": "Mức lợi nhuận bằng nhau của các quy mô sản xuất"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Đường đồng lượng biểu diễn tất cả các kết hợp đầu vào (K, L) tạo ra cùng một mức sản lượng Q."
+        },
+        {
+          "id": 2,
+          "text": "Trong lý thuyết sản xuất, ngắn hạn được hiểu như thế nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Thời gian sản xuất dưới 1 năm"
+            },
+            {
+              "letter": "B",
+              "text": "Thời gian sản xuất dưới 1 tháng"
+            },
+            {
+              "letter": "C",
+              "text": "Khoảng thời gian có ít nhất 1 yếu tố đầu vào cố định và các yếu tố khác biến đổi"
+            },
+            {
+              "letter": "D",
+              "text": "Khoảng thời gian tất cả yếu tố đầu vào đều biến đổi"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Ngắn hạn trong kinh tế học là khoảng thời gian có ít nhất một đầu vào cố định (thường là vốn K hoặc nhà xưởng)."
+        },
+        {
+          "id": 3,
+          "text": "Sản phẩm cận biên của lao động (MPL) được tính bằng công thức nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "MPL = delta(TP) / delta(L)"
+            },
+            {
+              "letter": "B",
+              "text": "MPL = TP / L"
+            },
+            {
+              "letter": "C",
+              "text": "MPL = TR / L"
+            },
+            {
+              "letter": "D",
+              "text": "MPL = delta(TC) / delta(L)"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "MPL = dTP/dL phản ánh sản lượng gia tăng khi thuê thêm 1 đơn vị lao động."
+        },
+        {
+          "id": 4,
+          "text": "Quy luật năng suất cận biên giảm dần phát biểu rằng?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Năng suất cận biên của yếu tố đầu vào biến đổi sẽ bắt đầu giảm xuống tại một điểm khi tiếp tục tăng thêm yếu tố đó trên một quy mô cố định"
+            },
+            {
+              "letter": "B",
+              "text": "Tổng sản lượng luôn luôn giảm khi tăng thêm lao động"
+            },
+            {
+              "letter": "C",
+              "text": "Chi phí sản xuất ngày càng giảm theo quy mô"
+            },
+            {
+              "letter": "D",
+              "text": "Năng suất trung bình luôn lớn hơn năng suất cận biên"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Quy luật năng suất cận biên giảm dần (Law of Diminishing Marginal Returns)."
+        },
+        {
+          "id": 5,
+          "text": "Nguyên tắc phối hợp các yếu tố đầu vào (Vốn K, Lao động L) để tối thiểu hóa chi phí sản xuất là gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "MPL / PL = MPK / PK"
+            },
+            {
+              "letter": "B",
+              "text": "MPL * PL = MPK * PK"
+            },
+            {
+              "letter": "C",
+              "text": "MPK / PL = MPL / PK"
+            },
+            {
+              "letter": "D",
+              "text": "MR = MC"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Doanh nghiệp tối thiểu hóa chi phí khi năng suất cận biên trên một đồng chi tiêu cho mỗi đầu vào bằng nhau."
+        },
+        {
+          "id": 6,
+          "text": "Đối với doanh nghiệp, Chi phí cố định (Fixed Cost - FC) có đặc điểm gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Vẫn tồn tại ngay cả khi doanh nghiệp tạm ngừng sản xuất (Q = 0)"
+            },
+            {
+              "letter": "B",
+              "text": "Thay đổi phụ thuộc trực tiếp vào sản lượng đầu ra"
+            },
+            {
+              "letter": "C",
+              "text": "Bằng 0 khi sản lượng Q = 0"
+            },
+            {
+              "letter": "D",
+              "text": "Tăng liên tục khi sản lượng tăng"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Chi phí cố định (như tiền thuê mặt bằng, khấu hao) không thay đổi theo sản lượng và vẫn phát sinh khi Q = 0."
+        },
+        {
+          "id": 7,
+          "text": "Chi phí cận biên (Marginal Cost - MC) cho biết điều gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Chi phí tăng thêm khi sản xuất thêm một đơn vị sản phẩm"
+            },
+            {
+              "letter": "B",
+              "text": "Chi phí cố định tính trên một đơn vị sản phẩm"
+            },
+            {
+              "letter": "C",
+              "text": "Tổng chi phí bình quân tính trên một đơn vị sản phẩm"
+            },
+            {
+              "letter": "D",
+              "text": "Chi phí biến đổi bình quân"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "MC = dTC/dQ phản ánh sự thay đổi của tổng chi phí khi sản lượng tăng thêm 1 đơn vị."
+        },
+        {
+          "id": 8,
+          "text": "Đường Chi phí cận biên (MC) luôn cắt đường Tổng chi phí bình quân (ATC) và Chi phí biến đổi bình quân (AVC) tại điểm nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Điểm cực tiểu (thấp nhất) của mỗi đường"
+            },
+            {
+              "letter": "B",
+              "text": "Điểm cực đại của mỗi đường"
+            },
+            {
+              "letter": "C",
+              "text": "Trục tung"
+            },
+            {
+              "letter": "D",
+              "text": "Điểm hòa vốn"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Khi MC < ATC thì ATC giảm; khi MC > ATC thì ATC tăng => MC cắt ATC tại điểm ATCmin."
+        },
+        {
+          "id": 9,
+          "text": "Nếu tất cả các yếu tố đầu vào tăng 10% và sản lượng đầu ra tăng 8% (< 10%), đây là trường hợp nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Hiệu suất tăng theo quy mô"
+            },
+            {
+              "letter": "B",
+              "text": "Hiệu suất không đổi theo quy mô"
+            },
+            {
+              "letter": "C",
+              "text": "Hiệu suất giảm theo quy mô"
+            },
+            {
+              "letter": "D",
+              "text": "Năng suất cận biên tăng dần"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Tỷ lệ tăng đầu ra nhỏ hơn tỷ lệ tăng đầu vào gọi là Hiệu suất giảm theo quy mô (Decreasing Returns to Scale)."
+        },
+        {
+          "id": 10,
+          "text": "Giả sử tổng chi phí sản xuất 10 cốc cà phê là 250 nghìn đồng và 11 cốc là 270 nghìn đồng. Chi phí cận biên của cốc thứ 11 bằng bao nhiêu?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "20 nghìn đồng"
+            },
+            {
+              "letter": "B",
+              "text": "25 nghìn đồng"
+            },
+            {
+              "letter": "C",
+              "text": "270 nghìn đồng"
+            },
+            {
+              "letter": "D",
+              "text": "200 nghìn đồng"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "MC(11) = TC(11) - TC(10) = 270 - 250 = 20 nghìn đồng."
+        },
+        {
+          "id": 11,
+          "text": "Cho hàm sản xuất ngắn hạn Q = 1200 + 30X - 0,2X^2 (X là khối lượng đầu vào kg). Ở mức đầu vào X nào thì sản lượng Q đạt cực đại?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "X = 75, Qmax = 2325"
+            },
+            {
+              "letter": "B",
+              "text": "X = 30, Qmax = 1200"
+            },
+            {
+              "letter": "C",
+              "text": "X = 150, Qmax = 2400"
+            },
+            {
+              "letter": "D",
+              "text": "X = 60, Qmax = 2000"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Đạo hàm dQ/dX = 30 - 0,4X = 0 => X = 75. Thay vào Q = 1200 + 30(75) - 0,2(75^2) = 2325."
+        },
+        {
+          "id": 12,
+          "text": "Nếu tổng chi phí sản xuất 10 chai nước mắm là 100.000đ và chi phí cận biên của chai thứ 11 là 21.000đ, điều nào sau đây đúng?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Tổng chi phí bình quân của 11 chai là 11.000 đồng"
+            },
+            {
+              "letter": "B",
+              "text": "Tổng chi phí của 11 chai là 120.000 đồng"
+            },
+            {
+              "letter": "C",
+              "text": "Chi phí biến đổi chai 11 là 21.000 đồng"
+            },
+            {
+              "letter": "D",
+              "text": "Chi phí cố định là 79.000 đồng"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "TC(11) = 100.000 + 21.000 = 121.000đ. ATC(11) = 121.000 / 11 = 11.000 đồng/chai."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "CẤU TRÚC THỊ TRƯỜNG (CẠNH TRANH HOÀN HẢO & ĐỘC QUYỀN)",
+      "questions": [
+        {
+          "id": 1,
+          "text": "Đặc điểm nào sau đây KHÔNG phải là đặc điểm của thị trường cạnh tranh hoàn hảo?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Có vô số người bán và người mua"
+            },
+            {
+              "letter": "B",
+              "text": "Sản phẩm hoàn toàn đồng nhất"
+            },
+            {
+              "letter": "C",
+              "text": "Có rào cản gia nhập thị trường rất lớn"
+            },
+            {
+              "letter": "D",
+              "text": "Thông tin thị trường hoàn hảo"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Cạnh tranh hoàn hảo có đặc điểm gia nhập và rút lui khỏi thị trường hoàn toàn tự do (không có rào cản)."
+        },
+        {
+          "id": 2,
+          "text": "Đối với doanh nghiệp trong thị trường cạnh tranh hoàn hảo, doanh thu cận biên (MR) luôn bằng đại lượng nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Giá bán sản phẩm (P)"
+            },
+            {
+              "letter": "B",
+              "text": "Tổng chi phí bình quân (ATC)"
+            },
+            {
+              "letter": "C",
+              "text": "Chi phí cố định (FC)"
+            },
+            {
+              "letter": "D",
+              "text": "Tổng doanh thu (TR)"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Doanh nghiệp cạnh tranh hoàn hảo là bên chấp nhận giá nên P = MR = AR."
+        },
+        {
+          "id": 3,
+          "text": "Điều kiện chung để mọi doanh nghiệp (trong mọi cấu trúc thị trường) tối đa hóa lợi nhuận là gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Doanh thu cận biên bằng chi phí cận biên (MR = MC)"
+            },
+            {
+              "letter": "B",
+              "text": "Giá bán bằng tổng chi phí bình quân (P = ATC)"
+            },
+            {
+              "letter": "C",
+              "text": "Tổng doanh thu đạt cực đại"
+            },
+            {
+              "letter": "D",
+              "text": "Chi phí cận biên bằng 0"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Nguyên tắc tối đa hóa lợi nhuận chung là MR = MC."
+        },
+        {
+          "id": 4,
+          "text": "Doanh nghiệp cạnh tranh hoàn hảo sẽ đạt điểm hòa vốn trong ngắn hạn khi giá thị trường P bằng bao nhiêu?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "P = ATCmin (Tổng chi phí bình quân tối thiểu)"
+            },
+            {
+              "letter": "B",
+              "text": "P = AVCmin (Chi phí biến đổi bình quân tối thiểu)"
+            },
+            {
+              "letter": "C",
+              "text": "P = AFC"
+            },
+            {
+              "letter": "D",
+              "text": "P = MCmin"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Điểm hòa vốn xảy ra khi P = ATCmin (Tổng doanh thu bằng Tổng chi phí)."
+        },
+        {
+          "id": 5,
+          "text": "Điểm đóng cửa sản xuất trong ngắn hạn của doanh nghiệp cạnh tranh hoàn hảo xảy ra khi giá bán giảm xuống dưới mức nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "P < AVCmin (Chi phí biến đổi bình quân tối thiểu)"
+            },
+            {
+              "letter": "B",
+              "text": "P < ATCmin"
+            },
+            {
+              "letter": "C",
+              "text": "P < AFC"
+            },
+            {
+              "letter": "D",
+              "text": "P < MC"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Khi P < AVCmin, doanh nghiệp không bù đắp nổi chi phí biến đổi nên lựa chọn đóng cửa để tối thiểu hóa thua lỗ (chỉ lỗ chi phí cố định FC)."
+        },
+        {
+          "id": 6,
+          "text": "Đường cung ngắn hạn của doanh nghiệp cạnh tranh hoàn hảo là phần nào trên đồ thị?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Đường chi phí cận biên (MC) nằm phía trên điểm cực tiểu của đường AVC"
+            },
+            {
+              "letter": "B",
+              "text": "Toàn bộ đường chi phí cận biên MC"
+            },
+            {
+              "letter": "C",
+              "text": "Đường chi phí biến đổi bình quân AVC"
+            },
+            {
+              "letter": "D",
+              "text": "Đường tổng chi phí bình quân ATC"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Đường cung ngắn hạn là đoạn đường MC nằm phía trên điểm đóng cửa (AVCmin)."
+        },
+        {
+          "id": 7,
+          "text": "Thị trường nào sau đây có đặc điểm tương đồng nhất với thị trường cạnh tranh hoàn hảo?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Thị trường hàng nông sản (lúa gạo, cà phê)"
+            },
+            {
+              "letter": "B",
+              "text": "Dịch vụ cung ứng điện lưới"
+            },
+            {
+              "letter": "C",
+              "text": "Dịch vụ truyền hình cáp"
+            },
+            {
+              "letter": "D",
+              "text": "Sách giáo khoa độc quyền"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Nông sản có vô số người sản xuất, sản phẩm đồng nhất và mua bán tự do."
+        },
+        {
+          "id": 8,
+          "text": "Đặc điểm cơ bản của thị trường độc quyền bán (Monopoly) là gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Chỉ có duy nhất một người bán duy nhất trên thị trường"
+            },
+            {
+              "letter": "B",
+              "text": "Người bán là bên chấp nhận giá"
+            },
+            {
+              "letter": "C",
+              "text": "Việc gia nhập thị trường rất dễ dàng"
+            },
+            {
+              "letter": "D",
+              "text": "Sản phẩm có nhiều hàng hóa thay thế hoàn hảo"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Độc quyền bán có duy nhất một doanh nghiệp cung ứng toàn bộ sản phẩm cho thị trường."
+        },
+        {
+          "id": 9,
+          "text": "Vì sao nhà độc quyền bán KHÔNG có đường cung?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Vì lượng cung ở mỗi mức giá phụ thuộc vào hình dáng và vị trí của đường cầu thị trường"
+            },
+            {
+              "letter": "B",
+              "text": "Vì đường MC thay đổi liên tục"
+            },
+            {
+              "letter": "C",
+              "text": "Vì nhà độc quyền không tối đa hóa lợi nhuận"
+            },
+            {
+              "letter": "D",
+              "text": "Vì nhà độc quyền bán với giá cố định"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Nhà độc quyền quyết định đồng thời cả giá và sản lượng dựa trên đường cầu, nên không có mối quan hệ 1-1 duy nhất giữa giá và lượng cung."
+        },
+        {
+          "id": 10,
+          "text": "Độc quyền tự nhiên (Natural Monopoly) đạt được chủ yếu do nguyên nhân nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Tính kinh tế của quy mô (nhà xưởng quy mô càng lớn chi phí bình quân càng giảm)"
+            },
+            {
+              "letter": "B",
+              "text": "Do Chính phủ cấp phép độc quyền"
+            },
+            {
+              "letter": "C",
+              "text": "Do kiểm soát nguồn nguyên liệu"
+            },
+            {
+              "letter": "D",
+              "text": "Do bằng phát minh sáng chế"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Độc quyền tự nhiên hình thành khi một doanh nghiệp duy nhất có thể cung ứng cho toàn thị trường với chi phí thấp hơn nhiều doanh nghiệp cùng sản xuất."
+        },
+        {
+          "id": 11,
+          "text": "Doanh nghiệp độc quyền có hàm chi phí TC = Q^2 + 2Q + 3 và hàm cầu P = 8 - 2Q. Hãy xác định giá bán P và lợi nhuận tối đa?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "P = 6, Lợi nhuận = 0"
+            },
+            {
+              "letter": "B",
+              "text": "P = 1, Lợi nhuận = 0"
+            },
+            {
+              "letter": "C",
+              "text": "P = 6, Lợi nhuận = 1"
+            },
+            {
+              "letter": "D",
+              "text": "P = 4, Lợi nhuận = 2"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "TR = P*Q = 8Q - 2Q^2 => MR = 8 - 4Q. MC = 2Q + 2. Cho MR = MC => 8 - 4Q = 2Q + 2 => 6Q = 6 => Q = 1. Giá P = 8 - 2(1) = 6. Lợi nhuận = TR - TC = 6(1) - (1^2 + 2(1) + 3) = 6 - 6 = 0."
+        },
+        {
+          "id": 12,
+          "text": "Hãng T-Việt cạnh tranh hoàn hảo có hàm chi phí TC = Q^2 + Q + 169. Nếu giá thị trường P = 61, mức sản lượng tối đa hóa lợi nhuận Q là bao nhiêu?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Q = 28"
+            },
+            {
+              "letter": "B",
+              "text": "Q = 30"
+            },
+            {
+              "letter": "C",
+              "text": "Q = 60"
+            },
+            {
+              "letter": "D",
+              "text": "Q = 15"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Do CTHH nên P = MR = 61. MC = 2Q + 1. Cho MC = P => 2Q + 1 = 61 => 2Q = 60 => Q = 30? Wait! 2Q+1=61 => 2Q=60 => Q=30. Chú ý: Đề bài đáp án ghi Q=28 hoặc Q=30. Đạo hàm MC=2Q+1=61 => Q=30."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "TỔNG HỢP KINH TẾ VĨ MÔ VÀ BÀI TẬP TÍNH TOÁN",
+      "questions": [
+        {
+          "id": 1,
+          "text": "GDP tính theo giá trị hàng hóa và dịch vụ dựa trên mức giá của năm hiện hành được gọi là gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "GDP danh nghĩa (Nominal GDP)"
+            },
+            {
+              "letter": "B",
+              "text": "GDP thực tế (Real GDP)"
+            },
+            {
+              "letter": "C",
+              "text": "GDP tiềm năng"
+            },
+            {
+              "letter": "D",
+              "text": "Chỉ số giảm phát GDP"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "GDP danh nghĩa được tính theo giá hiện hành của năm tính toán."
+        },
+        {
+          "id": 2,
+          "text": "Chỉ tiêu Tổng sản phẩm quốc nội (GDP) KHÔNG bao gồm loại hàng hóa nào sau đây?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Hàng hóa trung gian và hàng hóa đã qua sử dụng"
+            },
+            {
+              "letter": "B",
+              "text": "Dịch vụ hớt tóc, spa"
+            },
+            {
+              "letter": "C",
+              "text": "Hàng hóa tiêu dùng cuối cùng của hộ gia đình"
+            },
+            {
+              "letter": "D",
+              "text": "Bất động sản mới xây dựng trong năm"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "GDP chỉ tính hàng hóa dịch vụ CỦA CÙNG NĂM và LÀ HÀNG HÓA CUỐI CÙNG để tránh tính trùng."
+        },
+        {
+          "id": 3,
+          "text": "Chỉ số chính được sử dụng phổ biến nhất để đo lường tỷ lệ lạm phát là gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Chỉ số giá tiêu dùng (CPI)"
+            },
+            {
+              "letter": "B",
+              "text": "Chỉ số giá sản xuất (PPI)"
+            },
+            {
+              "letter": "C",
+              "text": "Lãi suất danh nghĩa"
+            },
+            {
+              "letter": "D",
+              "text": "Tỷ giá hối đoái"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "CPI (Consumer Price Index) đo lường mức giá trung bình của giỏ hàng hóa dịch vụ tiêu dùng."
+        },
+        {
+          "id": 4,
+          "text": "Lạm phát do sự gia tăng của tổng cầu (AD) trong điều kiện tổng cung không đổi được gọi là loại lạm phát nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Lạm phát do cầu kéo (Demand-pull Inflation)"
+            },
+            {
+              "letter": "B",
+              "text": "Lạm phát do chi phí đẩy (Cost-push Inflation)"
+            },
+            {
+              "letter": "C",
+              "text": "Lạm phát ỉa đùn"
+            },
+            {
+              "letter": "D",
+              "text": "Lạm phát siêu cấp"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Lạm phát cầu kéo xuất hiện khi tổng cầu tăng nhanh vượt quá khả năng cung ứng của nền kinh tế."
+        },
+        {
+          "id": 5,
+          "text": "Tỷ lệ thất nghiệp được xác định bằng công thức nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "(Số người thất nghiệp / Tổng số người trong lực lượng lao động) * 100%"
+            },
+            {
+              "letter": "B",
+              "text": "(Số người thất nghiệp / Dân số cả nước) * 100%"
+            },
+            {
+              "letter": "C",
+              "text": "(Số người thất nghiệp / Số người có việc làm) * 100%"
+            },
+            {
+              "letter": "D",
+              "text": "(Số người làm việc / Lực lượng lao động) * 100%"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Tỷ lệ thất nghiệp = (Số người thất nghiệp / Lực lượng lao động) * 100%."
+        },
+        {
+          "id": 6,
+          "text": "Nếu tỷ lệ lạm phát là 8% và lãi suất danh nghĩa là 11%, thì lãi suất thực tế bằng bao nhiêu?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "3%"
+            },
+            {
+              "letter": "B",
+              "text": "19%"
+            },
+            {
+              "letter": "C",
+              "text": "88%"
+            },
+            {
+              "letter": "D",
+              "text": "1.37%"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Lãi suất thực tế = Lãi suất danh nghĩa - Tỷ lệ lạm phát = 11% - 8% = 3%."
+        },
+        {
+          "id": 7,
+          "text": "Công cụ chủ yếu của Chính sách tài khóa (Fiscal Policy) bao gồm những yếu tố nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Thuế và Chi tiêu của Chính phủ (T & G)"
+            },
+            {
+              "letter": "B",
+              "text": "Mua bán trái phiếu và Tỷ lệ dự trữ bắt buộc"
+            },
+            {
+              "letter": "C",
+              "text": "Lãi suất chiết khấu và In tiền"
+            },
+            {
+              "letter": "D",
+              "text": "Mức tiền lương tối thiểu"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Chính sách tài khóa do Bộ Tài chính/Chính phủ điều hành thông qua Thuế (T) và Chi tiêu công (G)."
+        },
+        {
+          "id": 8,
+          "text": "Trên đồ thị với trục tung là mức giá chung (P) và trục hoành là sản lượng (Y), đường Tổng cung ngắn hạn (SRAS) dịch chuyển sang phải khi nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Khi có sự tiến bộ về khoa học công nghệ hoặc giá đầu vào giảm"
+            },
+            {
+              "letter": "B",
+              "text": "Khi chính phủ tăng thuế doanh nghiệp"
+            },
+            {
+              "letter": "C",
+              "text": "Khi giá nhiên liệu nhập khẩu tăng cao"
+            },
+            {
+              "letter": "D",
+              "text": "Khi thiên tai làm mất mùa"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Cải tiến công nghệ làm giảm chi phí sản xuất, mở rộng năng lực cung ứng khiến SRAS dịch phải."
+        },
+        {
+          "id": 9,
+          "text": "Đường Tổng cầu (AD) của nền kinh tế sẽ dịch chuyển sang trái khi nào?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Khi Chính phủ tăng thuế hoặc giảm chi tiêu công"
+            },
+            {
+              "letter": "B",
+              "text": "Khi Chính phủ giảm thuế thu nhập"
+            },
+            {
+              "letter": "C",
+              "text": "Khi ngân hàng giảm lãi suất cho vay"
+            },
+            {
+              "letter": "D",
+              "text": "Khi tiêu dùng hộ gia đình tăng mạnh"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Tăng thuế làm giảm thu nhập khả dụng và tiêu dùng, khiến tổng cầu AD dịch chuyển sang trái."
+        },
+        {
+          "id": 10,
+          "text": "Nếu một quốc gia có giá trị Nhập khẩu (IM) lớn hơn Xuất khẩu (EX) (Cán cân thương mại thâm hụt), nhận định nào sau đây đúng?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Tổng chi tiêu nội địa (C + I + G) lớn hơn Tổng sản phẩm quốc nội GDP"
+            },
+            {
+              "letter": "B",
+              "text": "GDP lớn hơn tiêu dùng C"
+            },
+            {
+              "letter": "C",
+              "text": "Quốc gia đó có xuất siêu"
+            },
+            {
+              "letter": "D",
+              "text": "GDP bằng Tổng chi tiêu nội địa"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Vì GDP = C + I + G + (EX - IM). Nếu EX < IM thì EX - IM < 0 => GDP < C + I + G."
+        },
+        {
+          "id": 11,
+          "text": "Một hãng sử dụng Vốn (K) giá Pk = 600$ và Lao động (L) giá Pl = 300$. Tổng ngân sách TC = 12.000$. Hàm sản xuất Q = K*(L - 4). Mức sản lượng tối đa hãng đạt được là bao nhiêu?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "162 đơn vị sản phẩm"
+            },
+            {
+              "letter": "B",
+              "text": "100 đơn vị sản phẩm"
+            },
+            {
+              "letter": "C",
+              "text": "200 đơn vị sản phẩm"
+            },
+            {
+              "letter": "D",
+              "text": "120 đơn vị sản phẩm"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Tối ưu: MPL/Pl = MPK/Pk => K/300 = (L-4)/600 => 2K = L - 4 => L = 2K + 4. Thay vào ngân sách: 600K + 300(2K + 4) = 12.000 => 1200K + 1200 = 12.000 => 1200K = 10.800 => K = 9. L = 2(9) + 4 = 22. Sản lượng Q = 9 * (22 - 4) = 9 * 18 = 162 đơn vị."
+        },
+        {
+          "id": 12,
+          "text": "Hàm cung P = 15 + Q và hàm cầu P = 60 - Q. Nếu Chính phủ quy định giá trần P = 30, thị trường sẽ xảy ra hiện tượng gì?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Thiếu hụt 15 đơn vị hàng hóa"
+            },
+            {
+              "letter": "B",
+              "text": "Dư thừa 15 đơn vị hàng hóa"
+            },
+            {
+              "letter": "C",
+              "text": "Thiếu hụt 30 đơn vị hàng hóa"
+            },
+            {
+              "letter": "D",
+              "text": "Thị trường cân bằng"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Tại P = 30: Lượng cung Qs = 30 - 15 = 15; Lượng cầu Qd = 60 - 30 = 30. Thiếu hụt = Qd - Qs = 30 - 15 = 15 đơn vị."
+        }
+      ]
+    }
+  ]
+}

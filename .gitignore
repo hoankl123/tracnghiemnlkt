@@ -1,0 +1,5 @@
+node_modules/
+raw-text.txt
+read-docx.js
+parse-to-json.js
+package-lock.json
