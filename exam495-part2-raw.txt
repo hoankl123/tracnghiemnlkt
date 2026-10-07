@@ -1,0 +1,432 @@
+BẢN GIẢI CHI TIẾT CÂU 24 ĐẾN CÂU 37 (MÃ ĐỀ 495)
+
+Học phần: Nguyên lý kinh tế | Kèm đồ thị minh họa cho Câu 29
+
+
+
+Câu 24. Đâu là dấu hiệu nhận biết nền kinh tế rơi vào trạng thái suy thoái?
+
+A. Sản lượng thực tế cao hơn sản lượng tiềm năng, tỷ lệ thất nghiệp thực tế thấp hơn tỷ lệ thất nghiệp tự nhiên
+
+B. Sản lượng thực tế thấp hơn sản lượng tiềm năng, tỷ lệ thất nghiệp thực tế cao hơn tỷ lệ thất nghiệp tự nhiên
+
+C. Sản lượng thực tế bằng mức sản lượng tiềm năng, tỷ lệ thất nghiệp thực tế bằng tỷ lệ thất nghiệp tự nhiên
+
+D. Sản lượng thực tế cao hơn sản lượng tiềm năng, tỷ lệ thất nghiệp thực tế cao hơn tỷ lệ thất nghiệp tự nhiên
+
+=> ĐÁP ÁN ĐÚNG: B. Sản lượng thực tế thấp hơn sản lượng tiềm năng, tỷ lệ thất nghiệp thực tế cao hơn tỷ lệ thất nghiệp tự nhiên
+
+📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT:
+
+- Trạng thái suy thoái kinh tế (Recession) xuất hiện khi tổng cầu hoặc tổng cung bị sụt giảm mạnh trong ngắn hạn.
+
+- Sản lượng thực tế (Y) giảm xuống dưới mức sản lượng tiềm năng (Y*) -> Tạo ra khoảng trống suy thoái (Recessionary gap: Y < Y*).
+
+- Do sản xuất thu hẹp, các doanh nghiệp cắt giảm lao động làm xuất hiện thất nghiệp chu kỳ (u_b > 0), dẫn đến tỷ lệ thất nghiệp thực tế (u) cao hơn tỷ lệ thất nghiệp tự nhiên (u_n), tức u > u_n.
+
+💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG
+
+• Dấu hiệu nền kinh tế phát triển nóng / lạm phát: Y > Y* và u < u_n (Đáp án A).
+
+• Dấu hiệu nền kinh tế cân bằng toàn dụng nhân công: Y = Y* và u = u_n (Đáp án C).
+
+
+
+Câu 25. Tỷ lệ thay thế kỹ thuật biên, MRTS, của lao động cho vốn có đặc điểm nào sau đây?
+
+A. MRTSL/K càng lớn thì 1 đơn vị lao động càng thay thế được ít đơn vị vốn mà sản lượng đầu ra không đổi
+
+B. Khi sử dụng càng nhiều lao động thay thế cho vốn thì tỷ lệ MRTSL/K là tăng lên
+
+C. MRTSL/K càng lớn thì 1 đơn vị lao động càng thay thế được nhiều đơn vị vốn hơn mà sản lượng đầu ra không đổi
+
+D. Khi sử dụng càng nhiều lao động thay thế cho vốn thì tỷ lệ MRTSL/K là không đổi
+
+=> ĐÁP ÁN ĐÚNG: C. MRTSL/K càng lớn thì 1 đơn vị lao động càng thay thế được nhiều đơn vị vốn hơn mà sản lượng đầu ra không đổi
+
+📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT:
+
+- Tỷ lệ thay thế kỹ thuật biên của Lao động cho Vốn (MRTS_L/K) đo lường lượng vốn (K) giảm xuống khi sử dụng thêm 1 đơn vị lao động (L) để sản lượng đầu ra (Q) giữ nguyên không đổi.
+
+- Công thức: MRTS_L/K = -ΔK / ΔL = MP_L / MP_K.
+
+- Bản chất: MRTS_L/K phản ánh khả năng thay thế của lao động cho vốn. Do đó, MRTS_L/K càng lớn thì 1 đơn vị lao động bổ sung sẽ giảm bớt (thay thế) được nhiều đơn vị vốn hơn.
+
+💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG
+
+• Quy luật tỷ lệ thay thế kỹ thuật biên giảm dần: Khi tăng dần số lượng lao động L để thay thế cho vốn K, MRTS_L/K có xu hướng giảm dần (làm cho đường đồng lượng lồi về gốc tọa độ).
+
+
+
+Câu 26. Hãng sản xuất áo thun T-Việt kinh doanh trong thị trường cạnh tranh hoàn hảo, có hàm chi phí là TC = Q² + Q + 169. Nếu giá thị trường là P = 55$ thì T-Việt sẽ sản xuất tại mức sản lượng tối đa hoá lợi nhuận là:
+
+A. Q = 28
+
+B. Q = 26
+
+C. Q = 29
+
+D. Q = 27
+
+=> ĐÁP ÁN ĐÚNG: D. Q = 27
+
+📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT:
+
+- Doanh nghiệp cạnh tranh hoàn hảo tối đa hóa lợi nhuận khi chọn mức sản lượng Q thỏa mãn: P = MC.
+
+- Tính chi phí biên MC: MC = d(TC)/dQ = (Q² + Q + 169)' = 2Q + 1.
+
+- Cho P = MC: 55 = 2Q + 1 <=> 2Q = 54 <=> Q = 27 sản phẩm.
+
+💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG
+
+• Tính lợi nhuận tối đa thu được tại Q = 27: TR = P * Q = 55 * 27 = 1485$; TC = 27² + 27 + 169 = 729 + 27 + 169 = 925$.
+
+• Lợi nhuận π = TR - TC = 1485 - 925 = 560$.
+
+
+
+Câu 27. Yếu tố nào làm dịch chuyển tổng cầu trong ngắn hạn?
+
+A. Mức giá hàng hoá nhập khẩu (b)
+
+B. Mức thuế suất thuế nhập khẩu (c)
+
+C. Mức giá chung của nền kinh tế trong nước (a)
+
+D. Cả b và c
+
+=> ĐÁP ÁN ĐÚNG: D. Cả b và c
+
+📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT:
+
+- Tổng cầu AD = C + I + G + NX.
+
+- Sự thay đổi của Mức giá chung (a) gây ra sự di chuyển dọc (movement) trên cùng một đường AD.
+
+- Sự thay đổi của các yếu tố ngoại thương như Mức giá hàng hóa nhập khẩu (b) và Thuế suất thuế nhập khẩu (c) làm thay đổi Xuất khẩu ròng NX, từ đó làm dịch chuyển (shift) toàn bộ đường tổng cầu AD.
+
+💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG
+
+• Các yếu tố khác gây dịch chuyển đường AD bao gồm: Thay đổi niềm tin tiêu dùng (C), kỳ vọng đầu tư (I), chính sách chi tiêu phủ (G), thuế (T) và cung tiền (MS).
+
+
+
+Câu 28. Nhân tố nào sau đây có thể loại trừ được vấn đề khan hiếm?
+
+A. Phân bổ đầu tư đều cho mọi lĩnh vực
+
+B. Tính kinh tế
+
+C. Sự hợp tác
+
+D. Không phải các yếu tố trên
+
+=> ĐÁP ÁN ĐÚNG: D. Không phải các yếu tố trên
+
+📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT:
+
+- Sự khan hiếm (Scarcity) là mâu thuẫn vĩnh cửu giữa nhu cầu vô hạn của con người và nguồn lực hữu hạn của xã hội.
+
+- Đây là vấn đề cơ bản của mọi nền kinh tế và không một chính sách, công nghệ hay sự hợp tác nào có thể loại trừ hoàn toàn sự khan hiếm.
+
+💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG
+
+• Kinh tế học ra đời chính là để giải quyết bài toán phân bổ tối ưu các nguồn lực khan hiếm đó.
+
+
+
+Câu 29. Nếu giá của hàng hóa X tăng dẫn tới đường cầu về hàng hóa Y dịch chuyển từ D1 sang D2 thì hai hàng hóa đó có mối quan hệ với nhau như thế nào?
+
+A. Bổ sung
+
+B. Đều là hàng hóa thông thường
+
+C. Thay thế
+
+D. Đều là hàng hóa thứ cấp
+
+=> ĐÁP ÁN ĐÚNG: C. Thay thế
+
+📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT:
+
+- Khi giá hàng hóa X tăng (P_X ↑), người tiêu dùng sẽ giảm lượng cầu đối với X và chuyển sang mua hàng hóa Y để thay thế.
+
+- Điều này khiến lượng cầu hàng hóa Y tăng lên ở mọi mức giá, làm đường cầu hàng hóa Y dịch chuyển sang phải (từ D1 sang D2).
+
+- Do đó, X và Y có mối quan hệ thay thế (Substitutes, độ co giãn chéo E_XY > 0).
+
+
+
+Hình 29: Đồ thị thể hiện sự dịch chuyển đường cầu D1 -> D2 của hàng hóa Y khi giá hàng hóa X tăng
+
+💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG
+
+• Xem đồ thị dịch chuyển đường cầu D1 sang D2 chi tiết phía dưới.
+
+• Trường hợp hàng hóa bổ sung (Composites, E_XY < 0): Giá X tăng làm đường cầu Y dịch chuyển sang trái (giảm cầu).
+
+
+
+Câu 30. Cả 2 quốc gia X và Y đều sản xuất được 2 sản phẩm là M và N. Theo lý thuyết Lợi thế so sánh (tương đối) của Ricardo, quốc gia X có lợi thế so sánh trong sản xuất sản phẩm M so với quốc gia Y khi:
+
+A. chi phí sản xuất ra M và N của X đều thấp hơn so với của Y
+
+B. chi phí cơ hội trong sản xuất sản phẩm M của X cao hơn so với của Y
+
+C. chi phí cơ hội trong sản xuất sản phẩm N của Y thấp hơn so với của X
+
+D. chi phí cơ hội trong sản xuất sản phẩm M của X thấp hơn so với của Y
+
+=> ĐÁP ÁN ĐÚNG: D. chi phí cơ hội trong sản xuất sản phẩm M của X thấp hơn so với của Y
+
+📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT:
+
+- Theo lý thuyết Lợi thế so sánh của David Ricardo, một quốc gia có lợi thế so sánh trong việc sản xuất một sản phẩm khi quốc gia đó có chi phí cơ hội (Opportunity Cost) để sản xuất ra sản phẩm đó thấp hơn so với quốc gia khác.
+
+- Do đó, quốc gia X có lợi thế so sánh về sản phẩm M khi chi phí cơ hội sản xuất M của X thấp hơn của Y.
+
+💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG
+
+• Chi phí tuyệt đối (Adam Smith): So sánh chi phí thực tế/số giờ lao động trực tiếp để sản xuất 1 sản phẩm.
+
+
+
+Câu 31. Đâu là biện pháp giúp cải thiện cán cân thương mại của một quốc gia?
+
+A. Giảm thuế nhập khẩu
+
+B. Giảm xuất khẩu
+
+C. Tăng giá trị đồng nội tệ
+
+D. Tăng thuế nhập khẩu
+
+=> ĐÁP ÁN ĐÚNG: D. Tăng thuế nhập khẩu
+
+📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT:
+
+- Cán cân thương mại NX = Xuất khẩu (EX) - Nhập khẩu (IM).
+
+- Tăng thuế nhập khẩu sẽ làm tăng giá hàng hóa nhập khẩu, khiến người tiêu dùng trong nước giảm mua hàng ngoại (IM ↓).
+
+- Nhập khẩu IM giảm làm tăng xuất khẩu ròng NX, giúp cải thiện cán cân thương mại (giảm thâm hụt hoặc tăng thặng dư).
+
+💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG
+
+• Giảm giá đồng nội tệ (phá giá tiền tệ) cũng giúp kích thích xuất khẩu và hạn chế nhập khẩu.
+
+
+
+Câu 32. Điều nào dưới đây phát biểu đúng về lạm phát chi phí đẩy?
+
+A. Việt Nam chưa từng trải qua lạm phát chi phí đẩy
+
+B. Lạm phát chi phí đẩy xảy ra khi Chính phủ in quá nhiều tiền ra nền kinh tế
+
+C. Lạm phát chi phí đẩy bắt đầu từ một sự gia tăng trong tổng cầu đẩy mức giá tăng lên cao hơn
+
+D. Lạm phát chi phí đẩy có thể được bắt đầu với việc tăng lên trong giá cả các nguyên vật liệu
+
+=> ĐÁP ÁN ĐÚNG: D. Lạm phát chi phí đẩy có thể được bắt đầu với việc tăng lên trong giá cả các nguyên vật liệu
+
+📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT:
+
+- Lạm phát chi phí đẩy (Cost-push inflation) xảy ra do sự gia tăng chi phí sản xuất (như giá nguyên nhiên vật liệu, tiền lương công nhân, thuế...)
+
+- Sự gia tăng chi phí đẩy đường tổng cung ngắn hạn (AS) dịch chuyển sang trái, gây ra hiện tượng vừa lạm phát vừa suy thoái (Stagflation: P ↑ và Y ↓).
+
+💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG
+
+• Lạm phát cầu kéo (Demand-pull inflation): Do tổng cầu AD tăng quá mức.
+
+
+
+Câu 33. Một người tiêu dùng uống bia với tổng lợi ích thu được khi uống 1, 2, 3, 4, 5 cốc bia lần lượt như sau: 10, 18, 24, 28, 30. Lợi ích cận biên thu được từ cốc bia thứ 3 là?
+
+A. 2
+
+B. 4
+
+C. 6
+
+D. 10
+
+=> ĐÁP ÁN ĐÚNG: C. 6
+
+📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT:
+
+- Lợi ích cận biên MU_n = TU_n - TU_(n-1).
+
+- Với cốc thứ 3: MU_3 = TU_3 - TU_2 = 24 - 18 = 6 đơn vị lợi ích.
+
+💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG
+
+• Bảng tính MU từng cốc: Cốc 1 = 10; Cốc 2 = 8; Cốc 3 = 6; Cốc 4 = 4; Cốc 5 = 2. (Minh họa quy luật lợi ích cận biên giảm dần).
+
+
+
+Câu 34. Năng suất biên (sản phẩm biên, MPL) của lao động là gì?
+
+A. Sản lượng tăng thêm khi sử dụng thêm một đơn vị lao động
+
+B. Sản lượng bình quân trên một lao động
+
+C. Sản lượng bình quân tăng thêm khi sử dụng thêm một đơn vị lao động
+
+D. Không ý nào đúng
+
+=> ĐÁP ÁN ĐÚNG: A. Sản lượng tăng thêm khi sử dụng thêm một đơn vị lao động
+
+📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT:
+
+- Năng suất cận biên của lao động MP_L = ΔQ / ΔL = dQ / dL.
+
+- Phản ánh lượng sản lượng tăng thêm khi doanh nghiệp thuê thêm 1 đơn vị lao động (giữ nguyên các yếu tố khác như vốn).
+
+💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG
+
+• Năng suất trung bình AP_L = Q / L: Là sản lượng bình quân trên 1 đơn vị lao động.
+
+
+
+Câu 35. Giả sử một người tiêu dùng có thu nhập I = 200.000 đồng để mua hai hàng hóa X và Y với giá tương ứng Px = 5.000 đồng/sản phẩm và Py = 10.000 đồng/sản phẩm. Biết hàm lợi ích của người tiêu dùng là TUX,Y = XY. Khi lựa chọn kết hợp tối ưu giữa hai hàng hóa, hãy tính tổng lợi ích tối đa mà người tiêu dùng đạt được?
+
+A. 600 đơn vị lợi ích
+
+B. 500 đơn vị lợi ích
+
+C. 300 đơn vị lợi ích
+
+D. 200 đơn vị lợi ích
+
+=> ĐÁP ÁN ĐÚNG: D. 200 đơn vị lợi ích
+
+📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT:
+
+- Tính MU_X = Y và MU_Y = X.
+
+- Điều kiện tối ưu: MU_X / P_X = MU_Y / P_Y <=> Y / 5.000 = X / 10.000 <=> X = 2Y.
+
+- Thay vào phương trình ngân sách: 5.000X + 10.000Y = 200.000
+
+- <=> 5.000(2Y) + 10.000Y = 200.000 <=> 20.000Y = 200.000 => Y = 10 sản phẩm.
+
+- Suy ra X = 2(10) = 20 sản phẩm.
+
+- Tổng lợi ích tối đa: TU_max = X * Y = 20 * 10 = 200 đơn vị lợi ích.
+
+💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG
+
+• Phương trình đường ngân sách: 5X + 10Y = 200 <=> Y = 20 - 0.5X.
+
+
+
+Câu 36. Đặc điểm nào sau đây KHÔNG phải là đặc điểm của thị trường cạnh tranh hoàn hảo?
+
+A. Không có sự phân biệt giữa đường cầu cá nhân của doanh nghiệp (d) với đường cầu của thị trường (D)
+
+B. Có vô số người mua và người bán tham gia thị trường
+
+C. Các sản phẩm trên thị trường là hoàn toàn đồng nhất và người mua có đầy đủ thông tin về sản phẩm
+
+D. Việc gia nhập và rút lui khỏi thị trường là hoàn toàn tự do
+
+=> ĐÁP ÁN ĐÚNG: A. Không có sự phân biệt giữa đường cầu cá nhân của doanh nghiệp (d) với đường cầu của thị trường (D)
+
+📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT:
+
+- Trong thị trường cạnh tranh hoàn hảo:
+
+- - Đường cầu cá nhân của doanh nghiệp (d) là đường nằm ngang hoàn toàn co giãn tại mức giá thị trường P.
+
+- - Đường cầu của toàn bộ thị trường (D) là đường dốc xuống từ trái sang phải.
+
+- Do đó, đường d và đường D hoàn toàn phân biệt nhau. Nhận định A là sai.
+
+💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG
+
+• Trong thị trường cạnh tranh hoàn hảo: P = MR = AR = d.
+
+
+
+Câu 37. Lạm phát có thể được đo lường bằng tất cả các chỉ số sau đây trừ:
+
+A. Chỉ số giá hàng hóa thành phẩm
+
+B. Chỉ số giá cả sản xuất (PPI)
+
+C. Chỉ số giá tiêu dùng (CPI)
+
+D. Chỉ số điều chỉnh GDP (D)
+
+=> ĐÁP ÁN ĐÚNG: A. Chỉ số giá hàng hóa thành phẩm
+
+📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT:
+
+- Các chỉ số đo lường lạm phát chính thống trong kinh tế học bao gồm:
+
+- 1. Chỉ số giá tiêu dùng (CPI - Consumer Price Index).
+
+- 2. Chỉ số giá sản xuất (PPI - Producer Price Index).
+
+- 3. Chỉ số giảm phát / điều chỉnh GDP (GDP Deflator).
+
+- Chỉ số giá hàng hóa thành phẩm không nằm trong các chỉ số đo lường lạm phát tiêu chuẩn.
+
+💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG
+
+• Công thức tính tỷ lệ lạm phát theo CPI: π_t = [(CPI_t - CPI_(t-1)) / CPI_(t-1)] * 100%.
+
+
+
+BẢNG TỔNG HỢP ĐÁP ÁN NHANH (CÂU 24 - CÂU 37)
+
+Câu
+
+Đáp án
+
+Câu
+
+Đáp án
+
+Câu
+
+Đáp án
+
+Câu
+
+Đáp án
+
+24
+
+B
+
+25
+
+C
+
+26
+
+D
+
+27
+
+D
+
+28
+
+D
+
+29
+
+C
+
+30
+
+D
+
+31
+
+D
+

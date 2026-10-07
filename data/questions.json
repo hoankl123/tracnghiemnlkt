@@ -1,6 +1,6 @@
 {
   "subject": "Nguyên Lý Kinh Tế",
-  "totalQuestions": 224,
+  "totalQuestions": 238,
   "chapters": [
     {
       "id": 1,
@@ -4895,6 +4895,410 @@
             {
               "letter": "D",
               "text": "Không ý nào đúng"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "text": "Đâu là dấu hiệu nhận biết nền kinh tế rơi vào trạng thái suy thoái?",
+          "correctAnswer": null,
+          "explanationHTML": "<div style=\"border-left: 4px solid #1e40af; background-color: #eff6ff; padding: 12px; margin-top: 12px; border-radius: 4px; font-size: 0.9em; color: #1e3a8a;\"><strong>💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:</strong><br>💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG<br>• Dấu hiệu nền kinh tế phát triển nóng / lạm phát: Y > Y* và u < u_n (Đáp án A).<br>• Dấu hiệu nền kinh tế cân bằng toàn dụng nhân công: Y = Y* và u = u_n (Đáp án C).</div>",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Sản lượng thực tế cao hơn sản lượng tiềm năng, tỷ lệ thất nghiệp thực tế thấp hơn tỷ lệ thất nghiệp tự nhiên"
+            },
+            {
+              "letter": "B",
+              "text": "Sản lượng thực tế thấp hơn sản lượng tiềm năng, tỷ lệ thất nghiệp thực tế cao hơn tỷ lệ thất nghiệp tự nhiên"
+            },
+            {
+              "letter": "C",
+              "text": "Sản lượng thực tế bằng mức sản lượng tiềm năng, tỷ lệ thất nghiệp thực tế bằng tỷ lệ thất nghiệp tự nhiên"
+            },
+            {
+              "letter": "D",
+              "text": "Sản lượng thực tế cao hơn sản lượng tiềm năng, tỷ lệ thất nghiệp thực tế cao hơn tỷ lệ thất nghiệp tự nhiên => ĐÁP ÁN ĐÚNG:"
+            },
+            {
+              "letter": "B",
+              "text": "Sản lượng thực tế thấp hơn sản lượng tiềm năng, tỷ lệ thất nghiệp thực tế cao hơn tỷ lệ thất nghiệp tự nhiên 📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT: - Trạng thái suy thoái kinh tế (Recession) xuất hiện khi tổng cầu hoặc tổng cung bị sụt giảm mạnh trong ngắn hạn. - Sản lượng thực tế (Y) giảm xuống dưới mức sản lượng tiềm năng (Y*) -> Tạo ra khoảng trống suy thoái (Recessionary gap: Y < Y*). - Do sản xuất thu hẹp, các doanh nghiệp cắt giảm lao động làm xuất hiện thất nghiệp chu kỳ (u_b > 0), dẫn đến tỷ lệ thất nghiệp thực tế (u) cao hơn tỷ lệ thất nghiệp tự nhiên (u_n), tức u > u_n."
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "text": "Tỷ lệ thay thế kỹ thuật biên, MRTS, của lao động cho vốn có đặc điểm nào sau đây?",
+          "correctAnswer": null,
+          "explanationHTML": "<div style=\"border-left: 4px solid #1e40af; background-color: #eff6ff; padding: 12px; margin-top: 12px; border-radius: 4px; font-size: 0.9em; color: #1e3a8a;\"><strong>💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:</strong><br>💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG<br>• Quy luật tỷ lệ thay thế kỹ thuật biên giảm dần: Khi tăng dần số lượng lao động L để thay thế cho vốn K, MRTS_L/K có xu hướng giảm dần (làm cho đường đồng lượng lồi về gốc tọa độ).</div>",
+          "options": [
+            {
+              "letter": "A",
+              "text": "MRTSL/K càng lớn thì 1 đơn vị lao động càng thay thế được ít đơn vị vốn mà sản lượng đầu ra không đổi"
+            },
+            {
+              "letter": "B",
+              "text": "Khi sử dụng càng nhiều lao động thay thế cho vốn thì tỷ lệ MRTSL/K là tăng lên"
+            },
+            {
+              "letter": "C",
+              "text": "MRTSL/K càng lớn thì 1 đơn vị lao động càng thay thế được nhiều đơn vị vốn hơn mà sản lượng đầu ra không đổi"
+            },
+            {
+              "letter": "D",
+              "text": "Khi sử dụng càng nhiều lao động thay thế cho vốn thì tỷ lệ MRTSL/K là không đổi => ĐÁP ÁN ĐÚNG:"
+            },
+            {
+              "letter": "C",
+              "text": "MRTSL/K càng lớn thì 1 đơn vị lao động càng thay thế được nhiều đơn vị vốn hơn mà sản lượng đầu ra không đổi 📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT: - Tỷ lệ thay thế kỹ thuật biên của Lao động cho Vốn (MRTS_L/K) đo lường lượng vốn (K) giảm xuống khi sử dụng thêm 1 đơn vị lao động (L) để sản lượng đầu ra (Q) giữ nguyên không đổi. - Công thức: MRTS_L/K = -ΔK / ΔL = MP_L / MP_K. - Bản chất: MRTS_L/K phản ánh khả năng thay thế của lao động cho vốn. Do đó, MRTS_L/K càng lớn thì 1 đơn vị lao động bổ sung sẽ giảm bớt (thay thế) được nhiều đơn vị vốn hơn."
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "text": "Hãng sản xuất áo thun T-Việt kinh doanh trong thị trường cạnh tranh hoàn hảo, có hàm chi phí là TC = Q² + Q + 169. Nếu giá thị trường là P = 55$ thì T-Việt sẽ sản xuất tại mức sản lượng tối đa hoá lợi nhuận là:",
+          "correctAnswer": null,
+          "explanationHTML": "<div style=\"border-left: 4px solid #1e40af; background-color: #eff6ff; padding: 12px; margin-top: 12px; border-radius: 4px; font-size: 0.9em; color: #1e3a8a;\"><strong>💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:</strong><br>💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG<br>• Tính lợi nhuận tối đa thu được tại Q = 27: TR = P * Q = 55 * 27 = 1485$; TC = 27² + 27 + 169 = 729 + 27 + 169 = 925$.<br>• Lợi nhuận π = TR - TC = 1485 - 925 = 560$.</div>",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Q = 28"
+            },
+            {
+              "letter": "B",
+              "text": "Q = 26"
+            },
+            {
+              "letter": "C",
+              "text": "Q = 29"
+            },
+            {
+              "letter": "D",
+              "text": "Q = 27 => ĐÁP ÁN ĐÚNG:"
+            },
+            {
+              "letter": "D",
+              "text": "Q = 27 📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT: - Doanh nghiệp cạnh tranh hoàn hảo tối đa hóa lợi nhuận khi chọn mức sản lượng Q thỏa mãn: P = M"
+            },
+            {
+              "letter": "C",
+              "text": "- Tính chi phí biên MC: MC = d(TC)/dQ = (Q² + Q + 169)' = 2Q + 1. - Cho P = MC: 55 = 2Q + 1 <=> 2Q = 54 <=> Q = 27 sản phẩm."
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "text": "Yếu tố nào làm dịch chuyển tổng cầu trong ngắn hạn?",
+          "correctAnswer": null,
+          "explanationHTML": "<div style=\"border-left: 4px solid #1e40af; background-color: #eff6ff; padding: 12px; margin-top: 12px; border-radius: 4px; font-size: 0.9em; color: #1e3a8a;\"><strong>💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:</strong><br>💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG<br>• Các yếu tố khác gây dịch chuyển đường AD bao gồm: Thay đổi niềm tin tiêu dùng (C), kỳ vọng đầu tư (I), chính sách chi tiêu phủ (G), thuế (T) và cung tiền (MS).</div>",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Mức giá hàng hoá nhập khẩu (b)"
+            },
+            {
+              "letter": "B",
+              "text": "Mức thuế suất thuế nhập khẩu (c)"
+            },
+            {
+              "letter": "C",
+              "text": "Mức giá chung của nền kinh tế trong nước (a)"
+            },
+            {
+              "letter": "D",
+              "text": "Cả b và c => ĐÁP ÁN ĐÚNG:"
+            },
+            {
+              "letter": "D",
+              "text": "Cả b và c 📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT: - Tổng cầu AD = C + I + G + NX. - Sự thay đổi của Mức giá chung (a) gây ra sự di chuyển dọc (movement) trên cùng một đường A"
+            },
+            {
+              "letter": "D",
+              "text": "- Sự thay đổi của các yếu tố ngoại thương như Mức giá hàng hóa nhập khẩu (b) và Thuế suất thuế nhập khẩu (c) làm thay đổi Xuất khẩu ròng NX, từ đó làm dịch chuyển (shift) toàn bộ đường tổng cầu AD."
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "text": "Nhân tố nào sau đây có thể loại trừ được vấn đề khan hiếm?",
+          "correctAnswer": null,
+          "explanationHTML": "<div style=\"border-left: 4px solid #1e40af; background-color: #eff6ff; padding: 12px; margin-top: 12px; border-radius: 4px; font-size: 0.9em; color: #1e3a8a;\"><strong>💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:</strong><br>💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG<br>• Kinh tế học ra đời chính là để giải quyết bài toán phân bổ tối ưu các nguồn lực khan hiếm đó.</div>",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Phân bổ đầu tư đều cho mọi lĩnh vực"
+            },
+            {
+              "letter": "B",
+              "text": "Tính kinh tế"
+            },
+            {
+              "letter": "C",
+              "text": "Sự hợp tác"
+            },
+            {
+              "letter": "D",
+              "text": "Không phải các yếu tố trên => ĐÁP ÁN ĐÚNG:"
+            },
+            {
+              "letter": "D",
+              "text": "Không phải các yếu tố trên 📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT: - Sự khan hiếm (Scarcity) là mâu thuẫn vĩnh cửu giữa nhu cầu vô hạn của con người và nguồn lực hữu hạn của xã hội. - Đây là vấn đề cơ bản của mọi nền kinh tế và không một chính sách, công nghệ hay sự hợp tác nào có thể loại trừ hoàn toàn sự khan hiếm."
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "text": "Nếu giá của hàng hóa X tăng dẫn tới đường cầu về hàng hóa Y dịch chuyển từ D1 sang D2 thì hai hàng hóa đó có mối quan hệ với nhau như thế nào?",
+          "correctAnswer": null,
+          "explanationHTML": "<div style=\"border-left: 4px solid #1e40af; background-color: #eff6ff; padding: 12px; margin-top: 12px; border-radius: 4px; font-size: 0.9em; color: #1e3a8a;\"><strong>💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:</strong><br>💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG<br>• Xem đồ thị dịch chuyển đường cầu D1 sang D2 chi tiết phía dưới.<br>• Trường hợp hàng hóa bổ sung (Composites, E_XY < 0): Giá X tăng làm đường cầu Y dịch chuyển sang trái (giảm cầu).</div>",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Bổ sung"
+            },
+            {
+              "letter": "B",
+              "text": "Đều là hàng hóa thông thường"
+            },
+            {
+              "letter": "C",
+              "text": "Thay thế"
+            },
+            {
+              "letter": "D",
+              "text": "Đều là hàng hóa thứ cấp => ĐÁP ÁN ĐÚNG:"
+            },
+            {
+              "letter": "C",
+              "text": "Thay thế 📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT: - Khi giá hàng hóa X tăng (P_X ↑), người tiêu dùng sẽ giảm lượng cầu đối với X và chuyển sang mua hàng hóa Y để thay thế. - Điều này khiến lượng cầu hàng hóa Y tăng lên ở mọi mức giá, làm đường cầu hàng hóa Y dịch chuyển sang phải (từ D1 sang D2). - Do đó, X và Y có mối quan hệ thay thế (Substitutes, độ co giãn chéo E_XY > 0). Hình 29: Đồ thị thể hiện sự dịch chuyển đường cầu D1 -> D2 của hàng hóa Y khi giá hàng hóa X tăng"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "text": "Cả 2 quốc gia X và Y đều sản xuất được 2 sản phẩm là M và N. Theo lý thuyết Lợi thế so sánh (tương đối) của Ricardo, quốc gia X có lợi thế so sánh trong sản xuất sản phẩm M so với quốc gia Y khi:",
+          "correctAnswer": null,
+          "explanationHTML": "<div style=\"border-left: 4px solid #1e40af; background-color: #eff6ff; padding: 12px; margin-top: 12px; border-radius: 4px; font-size: 0.9em; color: #1e3a8a;\"><strong>💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:</strong><br>💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG<br>• Chi phí tuyệt đối (Adam Smith): So sánh chi phí thực tế/số giờ lao động trực tiếp để sản xuất 1 sản phẩm.</div>",
+          "options": [
+            {
+              "letter": "A",
+              "text": "chi phí sản xuất ra M và N của X đều thấp hơn so với của Y"
+            },
+            {
+              "letter": "B",
+              "text": "chi phí cơ hội trong sản xuất sản phẩm M của X cao hơn so với của Y"
+            },
+            {
+              "letter": "C",
+              "text": "chi phí cơ hội trong sản xuất sản phẩm N của Y thấp hơn so với của X"
+            },
+            {
+              "letter": "D",
+              "text": "chi phí cơ hội trong sản xuất sản phẩm M của X thấp hơn so với của Y => ĐÁP ÁN ĐÚNG:"
+            },
+            {
+              "letter": "D",
+              "text": "chi phí cơ hội trong sản xuất sản phẩm M của X thấp hơn so với của Y 📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT: - Theo lý thuyết Lợi thế so sánh của David Ricardo, một quốc gia có lợi thế so sánh trong việc sản xuất một sản phẩm khi quốc gia đó có chi phí cơ hội (Opportunity Cost) để sản xuất ra sản phẩm đó thấp hơn so với quốc gia khá"
+            },
+            {
+              "letter": "C",
+              "text": "- Do đó, quốc gia X có lợi thế so sánh về sản phẩm M khi chi phí cơ hội sản xuất M của X thấp hơn của Y."
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "text": "Đâu là biện pháp giúp cải thiện cán cân thương mại của một quốc gia?",
+          "correctAnswer": null,
+          "explanationHTML": "<div style=\"border-left: 4px solid #1e40af; background-color: #eff6ff; padding: 12px; margin-top: 12px; border-radius: 4px; font-size: 0.9em; color: #1e3a8a;\"><strong>💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:</strong><br>💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG<br>• Giảm giá đồng nội tệ (phá giá tiền tệ) cũng giúp kích thích xuất khẩu và hạn chế nhập khẩu.</div>",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Giảm thuế nhập khẩu"
+            },
+            {
+              "letter": "B",
+              "text": "Giảm xuất khẩu"
+            },
+            {
+              "letter": "C",
+              "text": "Tăng giá trị đồng nội tệ"
+            },
+            {
+              "letter": "D",
+              "text": "Tăng thuế nhập khẩu => ĐÁP ÁN ĐÚNG:"
+            },
+            {
+              "letter": "D",
+              "text": "Tăng thuế nhập khẩu 📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT: - Cán cân thương mại NX = Xuất khẩu (EX) - Nhập khẩu (IM). - Tăng thuế nhập khẩu sẽ làm tăng giá hàng hóa nhập khẩu, khiến người tiêu dùng trong nước giảm mua hàng ngoại (IM ↓). - Nhập khẩu IM giảm làm tăng xuất khẩu ròng NX, giúp cải thiện cán cân thương mại (giảm thâm hụt hoặc tăng thặng dư)."
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "text": "Điều nào dưới đây phát biểu đúng về lạm phát chi phí đẩy?",
+          "correctAnswer": null,
+          "explanationHTML": "<div style=\"border-left: 4px solid #1e40af; background-color: #eff6ff; padding: 12px; margin-top: 12px; border-radius: 4px; font-size: 0.9em; color: #1e3a8a;\"><strong>💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:</strong><br>💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG<br>• Lạm phát cầu kéo (Demand-pull inflation): Do tổng cầu AD tăng quá mức.</div>",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Việt Nam chưa từng trải qua lạm phát chi phí đẩy"
+            },
+            {
+              "letter": "B",
+              "text": "Lạm phát chi phí đẩy xảy ra khi Chính phủ in quá nhiều tiền ra nền kinh tế"
+            },
+            {
+              "letter": "C",
+              "text": "Lạm phát chi phí đẩy bắt đầu từ một sự gia tăng trong tổng cầu đẩy mức giá tăng lên cao hơn"
+            },
+            {
+              "letter": "D",
+              "text": "Lạm phát chi phí đẩy có thể được bắt đầu với việc tăng lên trong giá cả các nguyên vật liệu => ĐÁP ÁN ĐÚNG:"
+            },
+            {
+              "letter": "D",
+              "text": "Lạm phát chi phí đẩy có thể được bắt đầu với việc tăng lên trong giá cả các nguyên vật liệu 📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT: - Lạm phát chi phí đẩy (Cost-push inflation) xảy ra do sự gia tăng chi phí sản xuất (như giá nguyên nhiên vật liệu, tiền lương công nhân, thuế...) - Sự gia tăng chi phí đẩy đường tổng cung ngắn hạn (AS) dịch chuyển sang trái, gây ra hiện tượng vừa lạm phát vừa suy thoái (Stagflation: P ↑ và Y ↓)."
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "text": "Một người tiêu dùng uống bia với tổng lợi ích thu được khi uống 1, 2, 3, 4, 5 cốc bia lần lượt như sau: 10, 18, 24, 28, 30. Lợi ích cận biên thu được từ cốc bia thứ 3 là?",
+          "correctAnswer": null,
+          "explanationHTML": "<div style=\"border-left: 4px solid #1e40af; background-color: #eff6ff; padding: 12px; margin-top: 12px; border-radius: 4px; font-size: 0.9em; color: #1e3a8a;\"><strong>💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:</strong><br>💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG<br>• Bảng tính MU từng cốc: Cốc 1 = 10; Cốc 2 = 8; Cốc 3 = 6; Cốc 4 = 4; Cốc 5 = 2. (Minh họa quy luật lợi ích cận biên giảm dần).</div>",
+          "options": [
+            {
+              "letter": "A",
+              "text": "2"
+            },
+            {
+              "letter": "B",
+              "text": "4"
+            },
+            {
+              "letter": "C",
+              "text": "6"
+            },
+            {
+              "letter": "D",
+              "text": "10 => ĐÁP ÁN ĐÚNG:"
+            },
+            {
+              "letter": "C",
+              "text": "6 📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT: - Lợi ích cận biên MU_n = TU_n - TU_(n-1). - Với cốc thứ 3: MU_3 = TU_3 - TU_2 = 24 - 18 = 6 đơn vị lợi ích."
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "text": "Năng suất biên (sản phẩm biên, MPL) của lao động là gì?",
+          "correctAnswer": null,
+          "explanationHTML": "<div style=\"border-left: 4px solid #1e40af; background-color: #eff6ff; padding: 12px; margin-top: 12px; border-radius: 4px; font-size: 0.9em; color: #1e3a8a;\"><strong>💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:</strong><br>💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG<br>• Năng suất trung bình AP_L = Q / L: Là sản lượng bình quân trên 1 đơn vị lao động.</div>",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Sản lượng tăng thêm khi sử dụng thêm một đơn vị lao động"
+            },
+            {
+              "letter": "B",
+              "text": "Sản lượng bình quân trên một lao động"
+            },
+            {
+              "letter": "C",
+              "text": "Sản lượng bình quân tăng thêm khi sử dụng thêm một đơn vị lao động"
+            },
+            {
+              "letter": "D",
+              "text": "Không ý nào đúng => ĐÁP ÁN ĐÚNG:"
+            },
+            {
+              "letter": "A",
+              "text": "Sản lượng tăng thêm khi sử dụng thêm một đơn vị lao động 📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT: - Năng suất cận biên của lao động MP_L = ΔQ / ΔL = dQ / dL. - Phản ánh lượng sản lượng tăng thêm khi doanh nghiệp thuê thêm 1 đơn vị lao động (giữ nguyên các yếu tố khác như vốn)."
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "text": "Giả sử một người tiêu dùng có thu nhập I = 200.000 đồng để mua hai hàng hóa X và Y với giá tương ứng Px = 5.000 đồng/sản phẩm và Py = 10.000 đồng/sản phẩm. Biết hàm lợi ích của người tiêu dùng là TUX,Y = XY. Khi lựa chọn kết hợp tối ưu giữa hai hàng hóa, hãy tính tổng lợi ích tối đa mà người tiêu dùng đạt được?",
+          "correctAnswer": null,
+          "explanationHTML": "<div style=\"border-left: 4px solid #1e40af; background-color: #eff6ff; padding: 12px; margin-top: 12px; border-radius: 4px; font-size: 0.9em; color: #1e3a8a;\"><strong>💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:</strong><br>💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG<br>• Phương trình đường ngân sách: 5X + 10Y = 200 <=> Y = 20 - 0.5X.</div>",
+          "options": [
+            {
+              "letter": "A",
+              "text": "600 đơn vị lợi ích"
+            },
+            {
+              "letter": "B",
+              "text": "500 đơn vị lợi ích"
+            },
+            {
+              "letter": "C",
+              "text": "300 đơn vị lợi ích"
+            },
+            {
+              "letter": "D",
+              "text": "200 đơn vị lợi ích => ĐÁP ÁN ĐÚNG:"
+            },
+            {
+              "letter": "D",
+              "text": "200 đơn vị lợi ích 📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT: - Tính MU_X = Y và MU_Y = X. - Điều kiện tối ưu: MU_X / P_X = MU_Y / P_Y <=> Y / 5.000 = X / 10.000 <=> X = 2Y. - Thay vào phương trình ngân sách: 5.000X + 10.000Y = 200.000 - <=> 5.000(2Y) + 10.000Y = 200.000 <=> 20.000Y = 200.000 => Y = 10 sản phẩm. - Suy ra X = 2(10) = 20 sản phẩm. - Tổng lợi ích tối đa: TU_max = X * Y = 20 * 10 = 200 đơn vị lợi ích."
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "text": "Đặc điểm nào sau đây KHÔNG phải là đặc điểm của thị trường cạnh tranh hoàn hảo?",
+          "correctAnswer": null,
+          "explanationHTML": "<div style=\"border-left: 4px solid #1e40af; background-color: #eff6ff; padding: 12px; margin-top: 12px; border-radius: 4px; font-size: 0.9em; color: #1e3a8a;\"><strong>💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:</strong><br>💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG<br>• Trong thị trường cạnh tranh hoàn hảo: P = MR = AR = d.</div>",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Không có sự phân biệt giữa đường cầu cá nhân của doanh nghiệp (d) với đường cầu của thị trường (D)"
+            },
+            {
+              "letter": "B",
+              "text": "Có vô số người mua và người bán tham gia thị trường"
+            },
+            {
+              "letter": "C",
+              "text": "Các sản phẩm trên thị trường là hoàn toàn đồng nhất và người mua có đầy đủ thông tin về sản phẩm"
+            },
+            {
+              "letter": "D",
+              "text": "Việc gia nhập và rút lui khỏi thị trường là hoàn toàn tự do => ĐÁP ÁN ĐÚNG:"
+            },
+            {
+              "letter": "A",
+              "text": "Không có sự phân biệt giữa đường cầu cá nhân của doanh nghiệp (d) với đường cầu của thị trường (D) 📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT: - Trong thị trường cạnh tranh hoàn hảo: - - Đường cầu cá nhân của doanh nghiệp (d) là đường nằm ngang hoàn toàn co giãn tại mức giá thị trường P. - - Đường cầu của toàn bộ thị trường (D) là đường dốc xuống từ trái sang phải. - Do đó, đường d và đường D hoàn toàn phân biệt nhau. Nhận định A là sai."
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "text": "Lạm phát có thể được đo lường bằng tất cả các chỉ số sau đây trừ:",
+          "correctAnswer": null,
+          "explanationHTML": "<div style=\"border-left: 4px solid #1e40af; background-color: #eff6ff; padding: 12px; margin-top: 12px; border-radius: 4px; font-size: 0.9em; color: #1e3a8a;\"><strong>💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:</strong><br>💡 NỘI DUNG TƯƠNG TỰ & KIẾN THỨC MỞ RỘNG<br>• Công thức tính tỷ lệ lạm phát theo CPI: π_t = [(CPI_t - CPI_(t-1)) / CPI_(t-1)] * 100%.<br>BẢNG TỔNG HỢP ĐÁP ÁN NHANH (CÂU 24 - CÂU 37)<br>Câu<br>Đáp án<br>Câu<br>Đáp án<br>Câu<br>Đáp án<br>Câu<br>Đáp án<br>24<br>B<br>25<br>C<br>26<br>D<br>27<br>D<br>28<br>D<br>29<br>C<br>30<br>D<br>31<br>D</div>",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Chỉ số giá hàng hóa thành phẩm"
+            },
+            {
+              "letter": "B",
+              "text": "Chỉ số giá cả sản xuất (PPI)"
+            },
+            {
+              "letter": "C",
+              "text": "Chỉ số giá tiêu dùng (CPI)"
+            },
+            {
+              "letter": "D",
+              "text": "Chỉ số điều chỉnh GDP (D) => ĐÁP ÁN ĐÚNG:"
+            },
+            {
+              "letter": "A",
+              "text": "Chỉ số giá hàng hóa thành phẩm 📝 LỜI GIẢI CHI TIẾT & CĂN CỨ LÝ THUYẾT: - Các chỉ số đo lường lạm phát chính thống trong kinh tế học bao gồm: - 1. Chỉ số giá tiêu dùng (CPI - Consumer Price Index). - 2. Chỉ số giá sản xuất (PPI - Producer Price Index). - 3. Chỉ số giảm phát / điều chỉnh GDP (GDP Deflator). - Chỉ số giá hàng hóa thành phẩm không nằm trong các chỉ số đo lường lạm phát tiêu chuẩn."
             }
           ]
         },
