@@ -226,6 +226,7 @@ function renderQuizQuestions() {
                 <span class="q-badge">Câu ${q.id}</span>
             </div>
             <div class="question-text">${q.text}</div>
+            ${q.image ? `<div class="question-image" style="margin: 15px 0; text-align: center;"><img src="${q.image}" alt="Hình ảnh câu hỏi" style="max-width: 100%; max-height: 300px; border-radius: 8px; border: 1px solid #e2e8f0; box-shadow: 0 4px 6px rgba(0,0,0,0.05);"></div>` : ''}
             <div class="options-list">
                 ${q.options.map(opt => `
                     <div class="option-item" id="opt-${idx}-${opt.letter}" 
@@ -236,8 +237,7 @@ function renderQuizQuestions() {
                 `).join('')}
             </div>
             <div class="explanation" id="explain-${idx}">
-                <span class="explanation-label">💡 Giải thích:</span>
-                ${q.explanation || ''}
+                ${q.explanationHTML ? q.explanationHTML : `<span class="explanation-label">💡 Giải thích:</span> ${q.explanation || ''}`}
             </div>
         </div>
     `).join('');
@@ -511,6 +511,7 @@ function filterAnswers(chapterFilter) {
                     <div class="answer-question-text">
                         <strong>Câu ${q.id}:</strong> ${q.text}
                     </div>
+                    ${q.image ? `<div style="margin: 10px 0;"><img src="${q.image}" alt="Hình ảnh câu hỏi" style="max-width: 100%; max-height: 200px; border-radius: 8px;"></div>` : ''}
                     <div class="answer-options">
                         ${q.options.map(opt => `
                             <div class="answer-option ${opt.letter === q.correctAnswer ? 'correct' : ''}">
@@ -519,9 +520,9 @@ function filterAnswers(chapterFilter) {
                             </div>
                         `).join('')}
                     </div>
-                    ${q.explanation ? `
-                        <div class="answer-explanation">
-                            💡 ${q.explanation}
+                    ${(q.explanationHTML || q.explanation) ? `
+                        <div class="answer-explanation" style="${q.explanationHTML ? 'background: none; border: none; padding: 0;' : ''}">
+                            ${q.explanationHTML ? q.explanationHTML : `💡 ${q.explanation}`}
                         </div>
                     ` : ''}
                 </div>

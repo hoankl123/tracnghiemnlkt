@@ -1,0 +1,608 @@
+CHƯƠNG 5: LÝ THUYẾT VỀ THỊ TRƯỜNG SẢN PHẨM
+
+5.1. Câu hỏi trắc nghiệm
+
+Đáp án ghi dưới mỗi câu là lời giải tự làm, tài liệu gốc không đánh dấu đáp án. Các câu 28, 32 đến 38 và một phần câu 39, 41 không có trong ảnh chụp.
+
+1. Trong nền kinh tế thị trường, mục tiêu cơ bản của doanh nghiệp là gì?
+
+a.  Cung cấp sản phẩm phục vụ cho xã hội
+
+b.  Tìm kiếm lợi nhuận
+
+c.  Tạo việc làm cho người lao động
+
+d.  Giảm giá thành sản phẩm
+
+Đáp án: b
+
+2. Nếu 30 đơn vị của một hàng hoá được sản xuất ra với chi phí cố định là 600.000 VNĐ, chi phí biến đổi bình quân của việc sản xuất một đơn vị hàng hoá này là bao nhiêu?
+
+a.  15.000 VNĐ
+
+b.  20.000 VNĐ
+
+c.  25.000 VNĐ
+
+d.  Không đủ thông tin để trả lời
+
+Đáp án: d. Đề chỉ cho FC nên chỉ tính được AFC = 20.000, không tính được AVC.
+
+3. Nếu tổng chi phí sản xuất 10 đơn vị sản phẩm là 100 đô la và chi phí cận biên của đơn vị sản phẩm thứ 11 là 21 đô la, khi đó kết luận nào sau đây là đúng?
+
+a.  Tổng chi phí bình quân của 11 sản phẩm là 21 đô la
+
+b.  Tổng chi phí biến đổi của 11 đơn vị sản phẩm là 212 đô la
+
+c.  Tổng chi phí cố định là 79 đô la
+
+d.  Tổng chi phí bình quân của 11 sản phẩm là 11 đô la
+
+Đáp án: d. TC(11) = 100 + 21 = 121, nên ATC = 121/11 = 11.
+
+4. Giá hoà vốn đối với một doanh nghiệp cạnh tranh hoàn hảo được xác định bằng đại lượng nào sau đây?
+
+a.  Chi phí biến đổi bình quân tối thiểu
+
+b.  Tổng chi phí bình quân tối thiểu
+
+c.  Chi phí cận biên tối thiểu
+
+d.  Không có điểm nào ở trên
+
+Đáp án: b
+
+5. Điều kiện nào sau đây là đúng tại mức sản lượng mà ở đó tổng chi phí bình quân tính trên một đơn vị sản phẩm đạt trị số nhỏ nhất?
+
+a.  MC = AVC
+
+b.  AVC = AFC
+
+c.  ATC = AFC
+
+d.  MC = ATC
+
+Đáp án: d
+
+6. Điều nào dưới đây đúng với tất cả các cấu trúc thị trường?
+
+a.  Sản phẩm có sự phân biệt
+
+b.  Tối đa hóa lợi nhuận tại mức sản lượng có P > ATCmin và MR = MC
+
+c.  Việc gia nhập và rút lui khỏi thị trường là hoàn toàn tự do
+
+d.  Việc gia nhập và rút lui khỏi thị trường là rất khó
+
+Đáp án: b
+
+7. Doanh thu cận biên được hiểu là gì?
+
+a.  Là doanh thu mà doanh nghiệp nhận được từ một đơn vị hàng hóa bán thêm
+
+b.  Là lợi nhuận bổ sung mà doanh nghiệp thu được sau khi trừ đi chi phí biên
+
+c.  Là giá bán của doanh nghiệp độc quyền bán
+
+d.  Là giá bán của doanh nghiệp độc quyền mua
+
+Đáp án: a
+
+8. Đường cung ngắn hạn của doanh nghiệp trong thị trường cạnh tranh hoàn hảo được xác định như thế nào trên đồ thị?
+
+a.  Toàn bộ đường chi phí cận biên
+
+b.  Đường chi phí cận biên phía trên điểm cực tiểu của đường tổng chi phí bình quân
+
+c.  Đường chi phí cận biên phía trên điểm đóng cửa sản xuất
+
+d.  Toàn bộ đường biến phí bình quân phía trên điểm đóng cửa sản xuất
+
+Đáp án: c
+
+9. Giá cả hàng hóa của doanh nghiệp hoạt động trong thị trường cạnh tranh hoàn hảo bằng đại lượng nào?
+
+a.  Chi phí biến đổi bình quân tối thiểu
+
+b.  Tổng chi phí bình quân tối thiểu
+
+c.  Doanh thu cận biên
+
+d.  Tổng chi phí cố định
+
+Đáp án: c
+
+10. Phát biểu nào là đúng trong thị trường cạnh tranh hoàn hảo?
+
+a.  Độ dốc của đường TR chính là MR
+
+b.  TR gia tăng khi bán thêm 1 sản phẩm mới chính là MR
+
+c.  TR tăng thêm khi bán thêm một sản phẩm chính là giá bán
+
+d.  Cả 3 câu đều đúng
+
+Đáp án: d
+
+11. Đặc điểm nào sau đây không phải của thị trường cạnh tranh hoàn hảo?
+
+a.  Có vô số người bán và vô số người mua
+
+b.  Thông tin thị trường là phổ biến
+
+c.  Rào cản gia nhập thị trường là rất lớn
+
+d.  Sản phẩm là đồng nhất
+
+Đáp án: c
+
+12. Hãng tham gia vào thị trường cạnh tranh hoàn hảo có đặc điểm gì?
+
+a.  Tỷ suất lợi nhuận của hãng là rất nhỏ
+
+b.  Hãng là bên chấp nhận giá
+
+c.  Hãng luôn bán hàng hóa với giá thấp
+
+d.  Chi phí sản xuất của hãng là không cao
+
+Đáp án: b
+
+13. Nếu một hãng hoạt động trong thị trường cạnh tranh hoàn hảo, doanh thu trong ngắn hạn có thể bù đắp được chi phí biến đổi và một phần chi phí cố định thì nó đang hoạt động tại phần nào của đường chi phí cận biên?
+
+
+
+Hình 5.1
+
+a.  Nằm trên điểm A
+
+b.  Nằm dưới điểm A
+
+c.  Nằm trên điểm C
+
+d.  Nằm giữa điểm B và điểm C
+
+Đáp án: d. Bù được biến phí và một phần định phí nghĩa là AVCmin < P < ATCmin, tức đoạn MC giữa C và B.
+
+14. Một hãng cạnh tranh hoàn hảo có hàm chi phí là TC = Q² + Q + 169. Hãng sẽ đóng cửa sản xuất khi giá bằng bao nhiêu?
+
+a.  2
+
+b.  3
+
+c.  4
+
+d.  1
+
+Đáp án: d. AVC = Q + 1, nên AVC nhỏ nhất bằng 1.
+
+15. Một hãng cạnh tranh hoàn hảo có hàm tổng chi phí TC = 0,2Q² + 4Q + 10. Đường cung ngắn hạn của hãng là?
+
+a.  Ps = 0,2Q + 2
+
+b.  Ps = 0,2Q + 4
+
+c.  Ps = 0,4Q + 2
+
+d.  Ps = 0,4Q + 4
+
+Đáp án: d. Đường cung là MC = 0,4Q + 4.
+
+16. Thị trường cạnh tranh hoàn hảo có đặc điểm nào sau đây?
+
+a.  Các doanh nghiệp tự định giá
+
+b.  Chỉ có một người bán
+
+c.  Vô số người mua và người bán
+
+d.  Rào cản gia nhập và rút lui khỏi thị trường là rất lớn
+
+Đáp án: c
+
+17. Đối với một doanh nghiệp trong thị trường cạnh tranh hoàn hảo, doanh thu cận biên (MR) bằng đại lượng nào sau đây?
+
+a.  Tổng doanh thu
+
+b.  Số lượng hàng hóa đã bán
+
+c.  Tổng chi phí bình quân
+
+d.  Giá bán của hàng hóa
+
+Đáp án: d
+
+Sử dụng đồ thị ở hình 5.2 thể hiện các chi phí sản xuất và doanh thu của Doanh nghiệp A trong thị trường cạnh tranh hoàn hảo dưới đây để trả lời câu 18 và 19.
+
+
+
+Hình 5.2
+
+Ghi chú: phần dưới của hình (sát trục hoành) bị khuất trong ảnh chụp nên được vẽ lại theo suy đoán. Một giá trị trên trục tung dưới mức 35 không đọc được nên để trống.
+
+18. Doanh nghiệp A tối đa hóa lợi nhuận tại lượng hàng hóa bán ra là bao nhiêu?
+
+a.  200
+
+b.  500
+
+c.  700
+
+d.  800
+
+Đáp án: c. MC cắt MR ở nhánh đi lên tại Q = 700.
+
+19. Lợi nhuận tối đa mà Doanh nghiệp A thu được là?
+
+a.  1000 đô la
+
+b.  3500 đô la
+
+c.  28.000 đô la
+
+d.  32.000 đô la
+
+Đáp án: b. Lợi nhuận = (40 − 35) × 700 = 3500.
+
+20. Thị trường nào sau đây có đặc điểm tương đồng nhất với thị trường cạnh tranh hoàn hảo?
+
+a.  Dịch vụ cung ứng điện
+
+b.  Dịch vụ truyền hình cáp
+
+c.  Hàng nông sản
+
+d.  Sách giáo khoa tiểu học
+
+Đáp án: c
+
+21. Nếu một hãng có đường cầu nằm ngang, thì điều gì xảy ra?
+
+a.  Hãng luôn kiếm được lợi nhuận bằng không
+
+b.  Doanh thu cận biên bằng giá sản phẩm
+
+c.  Hãng sẽ giảm giá để bán được nhiều hơn
+
+d.  Hãng có khả năng đặt giá cho sản phẩm của mình
+
+Đáp án: b
+
+22. Đâu là điều kiện cần để một hãng cạnh tranh hoàn hảo bắt đầu có lợi nhuận?
+
+a.  Doanh thu đạt tối đa
+
+b.  Tổng chi phí bình quân đạt tối thiểu
+
+c.  Chi phí cận biên lớn hơn tổng chi phí bình quân tối thiểu
+
+d.  Chi phí cận biên lớn hơn chi phí cố định bình quân
+
+Đáp án: c. Hãng có lãi khi P = MC lớn hơn ATC tối thiểu.
+
+23. Việc gia nhập và rút lui khỏi thị trường cạnh tranh hoàn hảo là:
+
+a.  Hoàn toàn tự do
+
+b.  Rất khó
+
+c.  Tương đối dễ dàng
+
+d.  Tương đối khó
+
+Đáp án: a
+
+24. Đặc điểm nào sau đây không phải của thị trường cạnh tranh hoàn hảo?
+
+a.  Các sản phẩm trên thị trường là hoàn toàn đồng nhất
+
+b.  Có sự phân biệt giữa đường cầu của thị trường và đường cầu đối với từng doanh nghiệp
+
+c.  Có rào cản trong việc tham gia hay rút khỏi thị trường
+
+d.  Cả người mua và người bán đều biết rất rõ tất cả các thông tin trên thị trường
+
+Đáp án: c
+
+25. Độc quyền được coi là không có hiệu quả, bởi vì sao?
+
+a.  Giá bán và sản lượng sản xuất thấp hơn so với mức tối ưu cho xã hội
+
+b.  Giá bán cao hơn và sản lượng thấp hơn so với mức tối ưu cho xã hội
+
+c.  Giá bán và sản lượng cao hơn so với mức tối ưu cho xã hội
+
+d.  Giá bán thấp hơn và sản lượng cao hơn so với mức tối ưu cho xã hội
+
+Đáp án: b
+
+26. Giá bán tối đa hóa lợi nhuận của hãng trong thị trường độc quyền bán tăng khi nào?
+
+a.  Tổng chi phí sản xuất giảm
+
+b.  Tổng doanh thu tăng
+
+c.  Chi phí cận biên tăng
+
+d.  Doanh thu cận biên giảm
+
+Đáp án: c. MC tăng làm sản lượng tối ưu giảm, nên giá trên đường cầu tăng.
+
+27. Cho hàm tổng chi phí của hãng trong doanh nghiệp độc quyền là TC = Q² + 2Q + 3. Hàm cầu của hãng P = 8 – 2Q với Q: nghìn sản phẩm, P: triệu đồng/sản phẩm. Tính giá bán và lợi nhuận tối đa?
+
+a.  P = 6, TPr = 0
+
+b.  P = 1, TPr = 0
+
+c.  P = 6, TPr = 1
+
+d.  P = 1, TPr = 6
+
+Đáp án: a. MR = 8 − 4Q, MC = 2Q + 2, giải ra Q = 1, P = 6; TR = 6 và TC = 6 nên lợi nhuận bằng 0.
+
+28. (Câu này không có trong ảnh chụp.)
+
+29. Nếu một nhà độc quyền đang sản xuất tại mức sản lượng tại đó chi phí cận biên lớn hơn doanh thu cận biên, nhà độc quyền nên?
+
+a.  Giảm sản lượng
+
+b.  Tăng sản lượng
+
+c.  Giữ nguyên sản lượng
+
+d.  Tăng giá của hàng hoá
+
+Đáp án: a
+
+30. Một nhà độc quyền có hàm cầu về sản phẩm của mình là P = 500 – Q. Hàm chi phí bình quân ATC = Q + 4. Giá và sản lượng của nhà độc quyền để tối đa hoá lợi nhuận là bao nhiêu?
+
+a.  P = 376, Q = 124
+
+b.  P = 367, Q = 124
+
+c.  P = 124, Q = 376
+
+d.  P = 376, Q = 142
+
+Đáp án: a. TC = Q² + 4Q nên MC = 2Q + 4; MR = 500 − 2Q; giải ra Q = 124, P = 376.
+
+31. Nhà độc quyền muốn tối đa hóa lợi nhuận sẽ chọn giá bán và sản lượng tại điểm nào sau đây?
+
+
+
+Hình 5.3
+
+a.  A
+
+b.  B
+
+c.  C
+
+d.  (phương án này bị khuất trong ảnh chụp)
+
+Đáp án: b. Sản lượng xác định tại MR = MC (điểm A), còn giá lấy trên đường cầu ở đúng sản lượng đó (điểm B).
+
+32 đến 38. (Các câu này không có trong ảnh chụp.)
+
+39. (Đề bài và phương án a bị khuất trong ảnh chụp.)
+
+b.  … bảo hộ (chỉ thấy phần cuối)
+
+c.  Do doanh nghiệp có quyền kiểm soát các yếu tố đầu vào
+
+d.  Do việc gia nhập và rút lui khỏi thị trường là hoàn toàn tự do
+
+Đáp án: chưa chốt được vì không thấy đề. Nếu đề hỏi đâu không phải nguyên nhân dẫn đến độc quyền thì chọn d.
+
+Sử dụng đồ thị thể hiện các chi phí, doanh thu cận biên của nhà độc quyền và đường cầu của thị trường dưới đây để trả lời Câu 40 và 41.
+
+
+
+Hình 5.4
+
+40. Nhà độc quyền tối đa hóa lợi nhuận tại lượng hàng hóa bán ra là bao nhiêu?
+
+a.  10
+
+b.  20
+
+c.  30
+
+d.  40
+
+Đáp án: b. MR cắt MC tại Q = 20.
+
+41. Đâu là phần lợi nhuận mà doanh nghiệp thu được?
+
+a.  400
+
+b.  2.000
+
+c.  2.700
+
+d.  (phương án này bị khuất trong ảnh chụp)
+
+Đáp án: a. Tại Q = 20, giá bằng 100 và ATC bằng 80, nên lợi nhuận = (100 − 80) × 20 = 400.
+
+Bảng đáp án nhanh
+
+Câu
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+Đáp án
+
+b
+
+d
+
+d
+
+b
+
+d
+
+b
+
+a
+
+c
+
+c
+
+d
+
+c
+
+b
+
+d
+
+d
+
+d
+
+c
+
+
+
+Câu
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+29
+
+30
+
+31
+
+40
+
+41
+
+Đáp án
+
+d
+
+c
+
+b
+
+c
+
+b
+
+c
+
+a
+
+c
+
+b
+
+c
+
+a
+
+a
+
+a
+
+b
+
+b
+
+a
+
+Bài tập tự luận
+
+Bài 23: (phần đầu đề, gồm hàm chi phí, bị khuất trong ảnh chụp) … bằng $, Q tính bằng sản phẩm.
+
+1.  Viết phương trình biểu diễn FC, VC, AFC, AVC, ATC và MC?
+
+2.  Xác định mức giá và sản lượng hòa vốn của doanh nghiệp?
+
+3.  Nếu giá trên thị trường là 15$, doanh nghiệp nên tiếp tục sản xuất hay đóng cửa? Vì sao?
+
+4.  Nếu giá thị trường là 49$, doanh nghiệp nên sản xuất bao nhiêu sản phẩm để tối đa hóa lợi nhuận?
+
+5.  Tính lợi nhuận doanh nghiệp thu được ở ý 4?
+
+Đáp án: chưa giải được vì thiếu hàm chi phí.
+
+Bài 24: Một doanh nghiệp độc quyền có hàm cầu về sản phẩm là P = 186 − Q và hàm tổng chi phí TC = 0,1Q² + 10Q + 2.400.
+
+1. Xác định sản lượng, giá bán, lợi nhuận khi doanh nghiệp theo đuổi mục tiêu:
+
+a.  Tối đa hoá lợi nhuận? Khi đó độ co dãn cầu theo giá là bao nhiêu?
+
+b.  Tối đa hoá doanh thu?
+
+2. Nếu doanh nghiệp phải nộp một khoản thuế cố định T = 1000$ thì thuế này có ảnh hưởng gì đến sản lượng tối ưu, giá bán và lợi nhuận của doanh nghiệp? Giải thích tại sao?
+
+3. Nếu nhà nước đánh thuế 22$/sản phẩm bán ra thì sản lượng, giá bán và lợi nhuận của doanh nghiệp là bao nhiêu? Tính tổng tiền thuế doanh nghiệp phải nộp trong trường hợp này?
+
+4. Nếu doanh nghiệp có thể nhập khẩu sản phẩm cùng loại từ nước ngoài với giá nhập tại doanh nghiệp là Pw = 76$ thì doanh nghiệp sẽ nhập bao nhiêu sản phẩm và bán ra với giá nào để tối đa hoá lợi nhuận? Tính lợi nhuận thu được?
+
+Đáp án tóm tắt:
+
+1a.  MR = 186 − 2Q, MC = 0,2Q + 10. Giải MR = MC được Q = 80, P = 106. Lợi nhuận = 8.480 − 3.840 = 4.640$. Độ co dãn cầu theo giá = −1 × 106/80 = −1,325.
+
+1b.  MR = 0 cho Q = 93, P = 93, TR = 8.649. Lợi nhuận = 8.649 − 4.194,9 = 4.454,1$.
+
+2.  Thuế cố định không làm đổi MC, nên Q = 80 và P = 106 giữ nguyên. Lợi nhuận giảm đúng 1.000, còn 3.640$.
+
+3.  MC mới = 0,2Q + 32. Giải ra Q = 70, P = 116. Tổng thuế = 22 × 70 = 1.540$. Lợi nhuận = 8.120 − 3.590 − 1.540 = 2.990$.
+
+4.  Tại mức tối ưu Q = 80, chi phí cận biên tự sản xuất chỉ 26$, thấp hơn giá nhập 76$. Theo số liệu này doanh nghiệp không nhập khẩu, vẫn giữ Q = 80, P = 106, lợi nhuận 4.640$. Kết quả này hơi lạ so với dạng bài quen thuộc, nên kiểm tra lại số trong đề gốc.
+

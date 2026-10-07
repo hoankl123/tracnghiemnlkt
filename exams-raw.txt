@@ -1,0 +1,1318 @@
+HỌC VIỆN NÔNG NGHIỆP VIỆT NAM - KHOA KINH TẾ & QUẢN LÝBẢN GIẢI CHI TIẾT & BÀI TẬP TƯƠNG TỰ ĐỀ THI TRẮC NGHIỆM NGUYÊN LÝ KINH TẾ(Tài liệu đáp án chuẩn hóa & mở rộng kiến thức từ Mã đề 829 và Mã đề 495 - File de1.docx)
+
+MỤC LỤC TÀI LIỆU
+
+
+
+(Mục tự động cập nhật khi mở trên Microsoft Word hoặc Google Docs)
+
+PHẦN 1: LỜI GIẢI CHI TIẾT & LÝ THUYẾT MỞ RỘNG - MÃ ĐỀ 829
+
+Câu 1. Một người tiêu dùng có thu nhập I = 200 triệu đồng dùng để mua hai hàng hóa X và Y với giá Px = 10 triệu, Py = 5 triệu, hàm tổng lợi ích TU = 20XY. Xác định kết hợp tối ưu?
+
+A. X = 10; Y = 20    B. X = 20; Y = 10    C. X = 16; Y = 8    D. X = 8; Y = 16
+
+► Đáp án đúng: A. X = 10; Y = 20
+
+Giải thích chi tiết: Lợi ích cận biên MUx = ∂TU/∂X = 20Y; MUy = ∂TU/∂Y = 20X.Điều kiện tối ưu tiêu dùng: MUx/Px = MUy/Py <=> 20Y/10 = 20X/5 <=> 2Y = 4X <=> Y = 2X.Thay vào phương trình ngân sách: Px.X + Py.Y = I <=> 10X + 5(2X) = 200 <=> 20X = 200 <=> X = 10 (sản phẩm), Y = 20 (sản phẩm).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Dạng bài Tối ưu hóa tiêu dùng với hàm TU = k.X^a.Y^b: Cặp tiêu dùng tối ưu luôn chia đều ngân sách cho hai hàng hóa nếu số mũ bằng nhau (a=b=1). Chi tiêu cho X = I/2 = 100 triệu => X = 10; Chi tiêu cho Y = I/2 = 100 triệu => Y = 20.• Bài tập tương tự: Nếu I = 120 triệu, Px = 12 triệu, Py = 6 triệu, TU = 50XY => Tối ưu X = 5, Y = 10.
+
+
+
+Câu 2. Nếu X và Y là 2 hàng hóa thay thế thì độ co giãn chéo của cầu Edx,Py có đặc điểm gì?
+
+A. EDx,Py > 0    B. EDx,Py = 0    C. EDx,Py < 0    D. Không đáp án nào đúng
+
+► Đáp án đúng: A. EDx,Py > 0
+
+Giải thích chi tiết: Độ co giãn chéo Edx,Py đo lường phần trăm thay đổi lượng cầu hàng hóa X khi giá hàng hóa Y thay đổi 1%.Khi X và Y là hai hàng hóa thay thế nhau (như thịt bò và thịt gà), giá Py tăng sẽ làm người tiêu dùng chuyển sang mua X nhiều hơn, dẫn đến lượng cầu Qx tăng => Edx,Py > 0.(Lưu ý: Nếu X và Y bổ sung thì Edx,Py < 0; nếu độc lập thì Edx,Py = 0).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Lý thuyết trọng tâm: Phân loại hàng hóa theo độ co giãn chéo (Exy): Exy > 0 (Thay thế), Exy < 0 (Bổ sung), Exy = 0 (Độc lập). Phân loại theo độ co giãn thu nhập (Ei): Ei < 0 (Thứ cấp), Ei > 0 (Thông thường), 0 < Ei < 1 (Thiết yếu), Ei > 1 (Xa xỉ).
+
+
+
+Câu 3. Yếu tố sản xuất cố định là gì?
+
+A. Các yếu tố không thể di chuyển được    B. Các yếu tố có thể mua chỉ ở một mức giá cố địnhC. Các yếu tố có thể mua gắn với chi phí biến đổi    D. Các yếu tố không phụ thuộc vào mức sản lượng đầu ra
+
+► Đáp án đúng: D. Các yếu tố không phụ thuộc vào mức sản lượng đầu ra
+
+Giải thích chi tiết: Trong ngắn hạn, yếu tố sản xuất cố định (như nhà xưởng, máy móc, trang thiết bị) là những yếu tố mà số lượng không thể thay đổi ngay lập tức và chi phí của chúng (Fixed Cost - FC) giữ nguyên, không phụ thuộc vào mức sản lượng đầu ra Q.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Trong ngắn hạn có cả chi phí cố định FC và chi phí biến đổi VC. Trong dài hạn, mọi yếu tố sản xuất đều biến đổi (FC = 0, TC = VC).
+
+
+
+Câu 4. Giá hàng hóa thông thường không đổi, khi thu nhập của người tiêu dùng tăng, đường ngân sách sẽ như thế nào?
+
+A. Có độ dốc giảm xuống    B. Dịch chuyển song song sang phải    C. Có độ dốc tăng lên    D. Dịch chuyển song song sang trái
+
+► Đáp án đúng: B. Dịch chuyển song song sang phải
+
+Giải thích chi tiết: Phương trình đường ngân sách: X.Px + Y.Py = I <=> Y = -(Px/Py).X + I/Py.Độ dốc của đường ngân sách là -(Px/Py) chỉ phụ thuộc vào tỷ giá của hai hàng hóa. Khi thu nhập I tăng (giá Px, Py không đổi), độ dốc không đổi nhưng tung độ góc I/Py tăng lên, làm đường ngân sách dịch chuyển song song sang phải.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Dịch chuyển đường ngân sách: Thu nhập I tăng => dịch song song sang phải; Thu nhập I giảm => dịch song song sang trái.Xoay đường ngân sách: Giá Px giảm => đường ngân sách xoay ra ngoài quanh giao điểm trục tung; Giá Px tăng => xoay vào trong.
+
+
+
+Câu 5. Doanh nghiệp VinaTao độc quyền có hàm cầu PD = 40 – 2Q và hàm tổng chi phí TC = 0.1Q² + 5Q + 20. Giá P và lượng Q bằng bao nhiêu khi hãng tối đa hóa doanh thu?
+
+A. P = 20, Q = 20    B. P = 15, Q = 15    C. P = 20, Q = 10    D. P = 10, Q = 20
+
+► Đáp án đúng: C. P = 20, Q = 10
+
+Giải thích chi tiết: Hàm tổng doanh thu: TR = P.Q = (40 - 2Q).Q = 40Q - 2Q².Doanh thu cận biên: MR = dTR/dQ = 40 - 4Q.Để tối đa hóa doanh thu (TR max), cho MR = 0 <=> 40 - 4Q = 0 <=> Q = 10 (nghìn chiếc).Thay Q = 10 vào hàm cầu: P = 40 - 2(10) = 20 (triệu đồng/chiếc).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• So sánh 2 mục tiêu của hãng độc quyền:1. Tối đa hóa doanh thu (TR max): Cho MR = 0 => Q = 10, P = 20.2. Tối đa hóa lợi nhuận (Profit max): Cho MR = MC => 40 - 4Q = 0.2Q + 5 => 4.2Q = 35 => Q = 8.33, P = 23.33.
+
+
+
+Câu 6. Khi giá tăng lên 1%, lượng cầu giảm đi 2.5%. Điều này chỉ ra rằng?
+
+A. Cầu ít co giãn theo giá    B. Cầu co giãn đơn vị    C. Cầu co giãn hoàn toàn theo giá    D. Cầu co giãn nhiều theo giá
+
+► Đáp án đúng: D. Cầu co giãn nhiều theo giá
+
+Giải thích chi tiết: Độ co giãn của cầu theo giá: Ed = (%ΔQd) / (%ΔP) = (-2.5%) / (+1%) = -2.5.Vì |Ed| = 2.5 > 1, phần trăm thay đổi của lượng cầu lớn hơn phần trăm thay đổi của giá, nên cầu co giãn nhiều (co giãn mạnh) theo giá.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Quy tắc co giãn theo giá:• |Ed| > 1: Cầu co giãn nhiều (đường cầu dốc ít). Tăng giá làm tổng doanh thu TR giảm.• |Ed| < 1: Cầu co giãn ít (đường cầu dốc nhiều). Tăng giá làm tổng doanh thu TR tăng.• |Ed| = 1: Cầu co giãn đơn vị. Giá thay đổi không làm TR thay đổi.
+
+
+
+Câu 7. Trong thị trường độc quyền, chính sách thuế theo sản lượng của chính phủ sẽ dẫn đến điều gì?
+
+A. Sản lượng tăng, giá giảm    B. Sản lượng và giá cân bằng không đổi    C. Giá tăng, sản lượng tăng    D. Giá tăng, sản lượng giảm
+
+► Đáp án đúng: D. Giá tăng, sản lượng giảm
+
+Giải thích chi tiết: Khi chính phủ đánh thuế t đồng/sản phẩm, chi phí biên mới của nhà độc quyền là MC' = MC + t (đường MC dịch chuyển lên trên).Điểm cân bằng mới xác định bởi MR = MC' sẽ cho sản lượng giao dịch Q' nhỏ hơn sản lượng ban đầu (Q giảm) và giá bán P' cao hơn giá ban đầu (P tăng).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Tác động của thuế theo sản lượng: Làm chi phí cận biên MC tăng => Sản lượng Q giảm, Giá P tăng ở cả thị trường CTHH và Độc quyền. Thuế cố định (lump-sum tax) không làm thay đổi MC nên Q và P không đổi.
+
+
+
+Câu 8. Khi đưa ra lựa chọn kinh tế tối ưu, các cá nhân căn cứ vào điều gì?
+
+A. Cầu thị trường    B. Nhu cầu của bản thân    C. Nguồn lực    D. Chi phí cơ hội
+
+► Đáp án đúng: D. Chi phí cơ hội
+
+Giải thích chi tiết: Theo Nguyên lý 2 của Kinh tế học: Chi phí của một thứ là cái mà bạn phải từ bỏ để có được nó (Chi phí cơ hội). Các cá nhân duy lý khi đưa ra lựa chọn kinh tế luôn so sánh giữa lợi ích biên và chi phí cơ hội biên để đạt quyết định tối ưu.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Mười nguyên lý kinh tế học cốt lõi:1. Con người đối mặt sự đánh đổi.2. Chi phí cơ hội là cái phải từ bỏ.3. Con người duy lý suy nghĩ tại điểm cận biên.4. Con người phản ứng với các kích thích.
+
+
+
+Câu 9. Thị trường có QD = -5P + 30, QS = 10P - 15. Tính lượng dư thừa và thiếu hụt tại P = 3.5 và P = 2.5?
+
+A. Dư thừa = 6.5; Thiếu hụt = 6.5    B. Dư thừa = 5.5; Thiếu hụt = 5.5    C. Dư thừa = 7.5; Thiếu hụt = 7.5    D. Dư thừa = 4.5; Thiếu hụt = 4.5
+
+► Đáp án đúng: C. Dư thừa = 7,5; Thiếu hụt = 7,5
+
+Giải thích chi tiết: • Tại P = 3.5: QD = -5(3.5) + 30 = 12.5; QS = 10(3.5) - 15 = 20. Vì QS > QD nên thị trường DƯ THỪA = QS - QD = 20 - 12.5 = 7.5.• Tại P = 2.5: QD = -5(2.5) + 30 = 17.5; QS = 10(2.5) - 15 = 10. Vì QD > QS nên thị trường THIẾU HỤT = QD - QS = 17.5 - 10 = 7.5.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Giá cân bằng thị trường: Cho QD = QS <=> -5P + 30 = 10P - 15 <=> 15P = 45 <=> Pe = 3. Giá P > Pe gây dư thừa; P < Pe gây thiếu hụt.
+
+
+
+Câu 10. Nếu tổng chi phí sản xuất 6 đơn vị là 48$ và chi phí cận biên đơn vị thứ 7 là 15$ thì kết luận nào đúng?
+
+A. Chi phí cố định là 8    B. Tổng chi phí trung bình của 7 đơn vị là 9    C. Chi phí cố định là 33    D. Chi phí biến đổi trung bình của 7 đơn vị là 9
+
+► Đáp án đúng: B. Tổng chi phí trung bình của 7 đơn vị là 9
+
+Giải thích chi tiết: TC(6) = 48$; MC(7) = 15$.Tổng chi phí của 7 đơn vị: TC(7) = TC(6) + MC(7) = 48 + 15 = 63$.Tổng chi phí trung bình của 7 đơn vị: ATC(7) = TC(7) / 7 = 63 / 7 = 9$.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Công thức quan trọng: TC(Q) = TC(Q-1) + MC(Q); ATC(Q) = TC(Q) / Q; MC(Q) = dTC/dQ.
+
+
+
+Câu 11. Để xác định một quốc gia có lợi thế so sánh trong sản xuất một sản phẩm cần so sánh chỉ tiêu nào với quốc gia khác?
+
+A. Chi phí cơ hội để sản xuất ra sản phẩm đó    B. Chi phí cố định    C. Chi phí sản xuất    D. Chi phí biến đổi
+
+► Đáp án đúng: A. Chi phí cơ hội để sản xuất ra sản phẩm hàng hóa đó
+
+Giải thích chi tiết: Theo lý thuyết Lợi thế so sánh của David Ricardo: Một quốc gia có lợi thế so sánh trong việc sản xuất một loại hàng hóa nếu quốc gia đó có chi phí cơ hội để sản xuất hàng hóa đó thấp hơn so với quốc gia khác.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Lợi thế tuyệt đối (Adam Smith): So sánh chi phí sản xuất trực tiếp (hoặc năng suất trực tiếp).Lợi thế so sánh (David Ricardo): So sánh chi phí cơ hội.
+
+
+
+Câu 12. Luật cung chỉ ra điều gì?
+
+A. Sự tăng lên của nhu cầu dẫn tới gia tăng trong cung    B. Người sản xuất bán ít hơn khi giá cao hơnC. Mối quan hệ nghịch giữa lượng cung và giá    D. Người sản xuất sẵn sàng cung ứng nhiều hàng hóa hơn khi giá cao hơn
+
+► Đáp án đúng: D. Người sản xuất sẵn sàng cung ứng nhiều hàng hoá hơn khi giá cả cao hơn
+
+Giải thích chi tiết: Luật cung quy định: Với các yếu tố khác không đổi, giữa giá cả (P) và lượng cung (Qs) của một hàng hóa có mối quan hệ thuận chiều (đồng biến). Khi giá P tăng, người sản xuất tăng lượng cung Qs và ngược lại.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Luật cầu: Mối quan hệ nghịch biến giữa P và Qd.Luật cung: Mối quan hệ thuận biến giữa P và Qs.
+
+
+
+Câu 13. Các nhà kinh tế thường cho rằng chính sách giá trần gây ra hệ quả gì?
+
+A. Gây mất không cho xã hội    B. Làm tăng giá sản phẩm    C. Gây ra sự dư thừa hàng hóa    D. Làm tăng hiệu quả kinh tế
+
+► Đáp án đúng: A. Gây mất không cho xã hội
+
+Giải thích chi tiết: Giá trần (Price Ceiling) do Chính phủ quy định thường thấp hơn giá cân bằng thị trường nhằm bảo vệ người tiêu dùng. Hệ quả là làm nảy sinh tình trạng thiếu hụt hàng hóa (Qd > Qs) và tạo ra khoản mất không (Deadweight Loss - DWL) cho xã hội.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Giá trần (Pc < Pe): Gây thiếu hụt hàng hóa, thị trường đen, giảm thặng dư xã hội.Giá sàn (Pf > Pe): Gây dư thừa hàng hóa, gánh nặng ngân sách mua dư thừa.
+
+
+
+Câu 14. Tổng chi phí sản xuất 10 chai nước mắm là 100.000đ và chi phí cận biên chai thứ 11 là 21.000đ. Điều nào đúng?
+
+A. Tổng chi phí biến đổi 11 chai là 121.000đ    B. Tổng chi phí bình quân 12 chai là 12.000đC. Chi phí biên chai thứ 10 nhỏ hơn 21.000đ    D. Tổng chi phí bình quân của 11 chai là 11.000 đồng
+
+► Đáp án đúng: D. Tổng chi phí bình quân của 11 chai là 11.000 đồng
+
+Giải thích chi tiết: TC(10) = 100.000đ; MC(11) = 21.000đ.Tổng chi phí của 11 chai: TC(11) = TC(10) + MC(11) = 100.000 + 21.000 = 121.000đ.Tổng chi phí bình quân của 11 chai: ATC(11) = TC(11) / 11 = 121.000 / 11 = 11.000đ/chai.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Bài tập tương tự: Chi phí 5 đơn vị là 500$, chi phí biên đơn vị thứ 6 là 100$ => ATC(6) = (500 + 100)/6 = 100$.
+
+
+
+Câu 15. Đâu là nguyên nhân dẫn tới lạm phát chi phí đẩy?
+
+A. Do chi phí sản xuất tăng kéo giá hàng hoá đầu ra tăng theo    B. Do nhiều người tham gia nền kinh tếC. Do chính phủ in quá nhiều tiền    D. Do tổng cầu hàng hoá dịch vụ tăng mạnh
+
+► Đáp án đúng: A. Do chi phí sản xuất tăng kéo giá hàng hoá đầu ra tăng theo
+
+Giải thích chi tiết: Lạm phát chi phí đẩy (Cost-push inflation) xảy ra khi giá các yếu tố đầu vào sản xuất (như nguyên nhiên vật liệu, tiền lương, thuế) tăng lên làm đường tổng cung ngắn hạn (SRAS) dịch chuyển sang trái, làm giảm sản lượng và đẩy mức giá chung tăng.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Phân biệt nguyên nhân lạm phát:• Lạm phát cầu kéo (Demand-pull): Do tổng cầu AD tăng mạnh vượt sản lượng tiềm năng.• Lạm phát chi phí đẩy (Cost-push): Do chi phí đầu vào tăng làm SRAS giảm.
+
+
+
+Câu 16. Nếu tất cả các yếu tố đầu vào tăng 10% và sản lượng đầu ra tăng nhỏ hơn 10%, đây là trường hợp gì?
+
+A. Hiệu suất không đổi theo quy mô    B. Hiệu suất giảm theo quy mô    C. Hiệu suất tăng theo quy mô    D. Tổng chi phí bình quân tăng
+
+► Đáp án đúng: B. Hiệu suất giảm theo quy mô
+
+Giải thích chi tiết: Khái niệm Hiệu suất theo quy mô (Returns to Scale):• Hiệu suất tăng theo quy mô: Đầu vào tăng t%, sản lượng tăng > t%.• Hiệu suất không đổi theo quy mô: Đầu vào tăng t%, sản lượng tăng đúng t%.• Hiệu suất giảm theo quy mô: Đầu vào tăng t%, sản lượng tăng < t% (ở đây tăng 10% đầu vào nhưng sản lượng tăng < 10%).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Mối quan hệ hàm sản xuất Cobb-Douglas Q = A.K^a.L^b: a + b > 1 (Hiệu suất tăng), a + b = 1 (Hiệu suất không đổi), a + b < 1 (Hiệu suất giảm).
+
+
+
+Câu 17. Thất nghiệp tự nhiên là gì?
+
+A. Thất nghiệp tự nguyện tại mức lương cao hơn cân bằng    B. Thất nghiệp không tự nguyện tại mức lương cao hơn cân bằngC. Thất nghiệp tự nguyện tại mức lương cân bằng của thị trường lao động    D. Thất nghiệp không tự nguyện tại mức lương cân bằng
+
+► Đáp án đúng: C. Là thất nghiệp tự nguyện tại mức lương cân bằng của thị trường lao động
+
+Giải thích chi tiết: Tỷ lệ thất nghiệp tự nhiên (Natural Rate of Unemployment - Un) là mức thất nghiệp tồn tại ngay cả khi thị trường lao động ở trạng thái cân bằng. Nó bao gồm thất nghiệp cơ học (frictional) và thất nghiệp cơ cấu (structural).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Công thức thất nghiệp: Un = Thất nghiệp cơ học + Thất nghiệp cơ cấu.Thất nghiệp thực tế u = Un + Thất nghiệp chu kỳ (cyclical). khi u = Un thì nền kinh tế đạt sản lượng tiềm năng Yp.
+
+
+
+Câu 18. Độ co giãn của cầu theo giá Ed = 0, nhận định nào đúng về hình dạng đường cầu?
+
+A. Đường cầu thẳng đứng    B. Đường cầu nằm ngang    C. Đường cầu có độ dốc lớn    D. Đường cầu có độ dốc nhỏ
+
+► Đáp án đúng: A. Đường cầu thẳng đứng
+
+Giải thích chi tiết: Khi Ed = 0, cầu hoàn toàn không co giãn theo giá (Perfectly Inelastic Demand). Dù giá cả thay đổi thế nào thì lượng cầu vẫn giữ nguyên một mức cố định, đồ thị biểu diễn là một đường thẳng đứng vuông góc với trục hoành.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Hình dạng đường cầu theo độ co giãn:• Ed = 0: Đường cầu thẳng đứng.• Ed = -∞: Đường cầu nằm ngang.• Ed = -1: Đường cầu dạng hyperbol hoặc dốc 45 độ.
+
+
+
+Câu 19. Chính sách thuế thu nhập cá nhân của Chính phủ nhằm mục tiêu gì?
+
+A. Tăng hiệu quả sử dụng nguồn lực    B. Cắt một phần thu nhập người cao trợ cấp người nghèoC. Chia lại chiếc bánh để to lên    D. Tạo động lực cho người nghèo
+
+► Đáp án đúng: B. Cắt một phần thu nhập của người có thu nhập cao vào ngân sách của Chính phủ và sử dụng ngân sách để trợ cấp cho người nghèo
+
+Giải thích chi tiết: Chính sách thuế thu nhập cá nhân lũy tiến là công cụ công bằng xã hội của Chính phủ nhằm điều tiết, phân phối lại thu nhập từ nhóm người có thu nhập cao sang người có thu nhập thấp thông qua trợ cấp và phúc lợi công cộng.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Mục tiêu kinh tế vĩ mô của Chính phủ: Tăng trưởng kinh tế, Tạ việc làm, Ổn định giá cả (kiềm chế lạm phát), Cán cân đối ngoại và Công bằng xã hội.
+
+
+
+Câu 20. Sinh viên có 3 phương án làm thêm: A. Gia sư (150k/h), B. Bán hàng (50k/h), C. Trợ giảng (100k/h). Chi phí cơ hội lựa chọn phương án C là bao nhiêu?
+
+A. 200.000 đồng/giờ    B. 150.000 đồng/giờ    C. 300.000 đồng/giờ    D. 50.000 đồng/giờ
+
+► Đáp án đúng: B. 150.000 đồng/giờ
+
+Giải thích chi tiết: Chi phí cơ hội của một lựa chọn là giá trị của phương án tốt nhất tiếp theo bị bỏ qua. Khi chọn C (100k/h), hai phương án bị bỏ qua là A (150k/h) và B (50k/h). Phương án tốt nhất bị bỏ qua là A với mức thu nhập 150.000 đồng/giờ.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Bài tập tương tự: Bạn chọn đi xem phim (lợi ích 200k) thay vì làm thêm bài tập (lợi ích 100k) hoặc đi làm thêm (lợi ích 180k). Chi phí cơ hội của đi xem phim là 180k.
+
+
+
+Câu 21. 'Để hạn chế doanh nghiệp thao túng thị trường, Mỹ ban hành luật chống độc quyền năm 1890' là nội dung của nguyên lý nào?
+
+A. Chính phủ đại diện cao nhất    B. Đôi khi Chính phủ có thể cải thiện các kết quả của thị trườngC. Giá tăng khi in nhiều tiền    D. Thị trường là cách thức tốt
+
+► Đáp án đúng: B. Đôi khi Chính phủ có thể cải thiện các kết quả của thị trường
+
+Giải thích chi tiết: Đây là nội dung của Nguyên lý 7 trong Mười nguyên lý kinh tế học của N. Gregory Mankiw: Khi thị trường thất bại (do độc quyền hoặc ngoại ứng), sự can thiệp của Chính phủ có thể làm tăng hiệu quả kinh tế và cải thiện kết quả thị trường.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Nguyên lý 6: Thị trường thường là phương thức tốt để tổ chức hoạt động kinh tế.Nguyên lý 7: Đôi khi Chính phủ có thể cải thiện kết quả thị trường.
+
+
+
+Câu 22. Để tính tốc độ tăng trưởng kinh tế, các nhà kinh tế học sử dụng chỉ tiêu nào?
+
+A. GDP danh nghĩa    B. Thu nhập bình quân    C. GNP danh nghĩa    D. Tổng sản phẩm quốc nội thực tế
+
+► Đáp án đúng: D. Tổng sản phẩm quốc nội thực tế
+
+Giải thích chi tiết: Tốc độ tăng trưởng kinh tế g (%) = [(Real GDP_t - Real GDP_t-1) / Real GDP_t-1] * 100%. Sử dụng GDP thực tế để loại bỏ ảnh hưởng của biến động giá cả (lạm phát), phản ánh đúng sự gia tăng thực sự về lượng hàng hóa và dịch vụ.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Phân biệt GDP danh nghĩa và thực tế:• GDP danh nghĩa (Nominal GDP): Tính theo giá hiện hành của năm nghiên cứu.• GDP thực tế (Real GDP): Tính theo giá cố định của năm gốc (base year).• Chỉ số giảm phát GDP = (Nominal GDP / Real GDP) * 100.
+
+
+
+Câu 23. Khi thu nhập tăng dẫn đến giảm cầu về mì tôm Hảo Hảo. Mì tôm Hảo Hảo thuộc loại hàng hóa gì?
+
+A. Hàng hoá thứ cấp    B. Hàng hoá thông thường    C. Hàng hoá thiết yếu    D. Hàng hoá xa xỉ
+
+► Đáp án đúng: A. Hàng hoá thứ cấp
+
+Giải thích chi tiết: Hàng hóa thứ cấp (Inferior Goods) là loại hàng hóa có lượng cầu giảm khi thu nhập của người tiêu dùng tăng lên (độ co giãn cầu theo thu nhập Ei < 0). Khi thu nhập tăng, người dân chuyển sang tiêu dùng các sản phẩm cao cấp hơn.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Quan hệ Thu nhập và Cầu:• Ei > 0: Hàng hóa thông thường (Normal goods).• Ei < 0: Hàng hóa thứ cấp/chất lượng thấp (Inferior goods).
+
+
+
+Câu 24. Trong mô hình AD-AS, tổng cung dài hạn (LRAS) tăng dẫn đến điều gì?
+
+A. Sản lượng tăng và mức giá tăng    B. Sản lượng không đổi và mức giá tăngC. Tổng sản lượng tăng và mức giá chung của nền kinh tế giảm    D. Tổng sản lượng và mức giá chung tăng
+
+► Đáp án đúng: C. Tổng sản lượng tăng và mức giá chung của nền kinh tế giảm
+
+Giải thích chi tiết: Khi đường tổng cung dài hạn LRAS dịch chuyển sang phải (do tăng vốn, lao động hoặc tiến bộ công nghệ), giao điểm cân bằng mới với đường AD có sản lượng tăng lên (Y tăng) và mức giá chung giảm xuống (P giảm).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Sự tăng trưởng kinh tế trong dài hạn được thể hiện bằng sự dịch chuyển ra bên ngoài của đường LRAS và đường PPF.
+
+
+
+Câu 25. Theo lý thuyết Lợi thế so sánh của Ricardo, quốc gia X có lợi thế so sánh trong sản xuất M so với Y khi nào?
+
+A. Chi phí cơ hội N của Y thấp hơn X    B. Chi phí cơ hội M của X cao hơn YC. Chi phí cơ hội trong sản xuất sản phẩm M của X thấp hơn so với của Y    D. Chi phí sản xuất M và N của X đều thấp hơn Y
+
+► Đáp án đúng: C. Chi phí cơ hội trong sản xuất sản phẩm M của X thấp hơn so với của Y
+
+Giải thích chi tiết: Một quốc gia có lợi thế so sánh trong việc sản xuất một sản phẩm khi quốc gia đó có chi phí cơ hội để sản xuất ra sản phẩm đó thấp hơn so với quốc gia khác.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Nếu X có lợi thế so sánh ở sản phẩm M thì chắc chắn Y sẽ có lợi thế so sánh ở sản phẩm N.
+
+
+
+Câu 26. Doanh nghiệp sẽ trở thành độc quyền tự nhiên khi nào?
+
+A. Doanh nghiệp có tính kinh tế theo quy mô    B. Được nhận trợ cấp chính phủC. Kiểm soát yếu tố đầu vào    D. Có độc quyền phát minh
+
+► Đáp án đúng: A. Doanh nghiệp có tính kinh tế theo quy mô
+
+Giải thích chi tiết: Độc quyền tự nhiên (Natural Monopoly) xuất hiện khi một doanh nghiệp duy nhất có thể cung cấp hàng hóa/dịch vụ cho toàn bộ thị trường với chi phí thấp hơn nhiều so với hai hay nhiều doanh nghiệp do có tính kinh tế theo quy mô (Economies of Scale - đường ATC giảm liên tục trên toàn dải sản lượng).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Các nguyên nhân dẫn đến độc quyền: Độc quyền tự nhiên (tính kinh tế theo quy mô), Bằng sáng chế/Pháp lý, Kiểm soát nguồn tài nguyên khan hiếm.
+
+
+
+Câu 27. Đâu là biện pháp giúp cải thiện cán cân thương mại (NX = X - M) của một quốc gia?
+
+A. Giảm thuế nhập khẩu    B. Tăng thuế nhập khẩu    C. Tăng giá trị đồng nội tệ    D. Giảm xuất khẩu
+
+► Đáp án đúng: B. Tăng thuế nhập khẩu
+
+Giải thích chi tiết: Cán cân thương mại NX = Xuất khẩu (X) - Nhập khẩu (M). Để cải thiện NX (tăng NX), quốc gia cần tăng xuất khẩu X hoặc giảm nhập khẩu M. Tăng thuế nhập khẩu sẽ làm tăng giá hàng nhập khẩu, giảm lượng hàng nhập khẩu M => NX tăng.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Phá giá đồng nội tệ (giảm giá trị đồng nội tệ) làm hàng xuất khẩu rẻ hơn và hàng nhập khẩu đắt hơn => Cải thiện cán cân thương mại NX.
+
+
+
+Câu 28. Đường giới hạn khả năng sản xuất (PPF) dịch chuyển ra bên ngoài khi nào?
+
+A. Nhu cầu người tiêu dùng tăng    B. Chi phí sản xuất tăng    C. Giá cả hàng hóa tăng    D. Lượng vốn sản xuất tăng
+
+► Đáp án đúng: D. Lượng vốn sản xuất tăng
+
+Giải thích chi tiết: Đường PPF dịch chuyển ra bên ngoài khi năng lực sản xuất của nền kinh tế tăng lên, được kích thích bởi: sự gia tăng lực lượng lao động, tăng lượng vốn đầu tư sản xuất, phát hiện tài nguyên mới hoặc tiến bộ khoa học công nghệ.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Tăng nhu cầu hay thay đổi giá cả chỉ làm di chuyển các điểm trên đường PPF chứ không làm dịch chuyển đường PPF.
+
+
+
+Câu 29. Điều nào sau đây KHÔNG làm dịch chuyển đường cầu đối với thịt lợn?
+
+A. Nhiều người sử dụng thịt lợn hơn    B. Thị hiếu thịt lợn thay đổiC. Giá hàng hoá thay thế cho thịt lợn tăng    D. Giá thịt lợn giảm xuống
+
+► Đáp án đúng: D. Giá thịt lợn giảm xuống
+
+Giải thích chi tiết: Sự thay đổi của chính giá hàng hóa thịt lợn (P) chỉ gây ra sự DI CHUYỂN dọc theo đường cầu (thay đổi lượng cầu Qd). Các yếu tố ngoài giá (thu nhập, thị hiếu, giá hàng hóa liên quan, quy mô người tiêu dùng) mới làm DỊCH CHUYỂN đường cầu.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Phân biệt Di chuyển và Dịch chuyển:• Di chuyển (Movement along Demand curve): Do P thay đổi => Lượng cầu Qd thay đổi.• Dịch chuyển (Shift of Demand curve): Do yếu tố ngoài P thay đổi => Cầu D thay đổi.
+
+
+
+Câu 30. Hãng độc quyền P = 55 - 2Q, TC = Q*(Q - 5) + 100. Tính mức lợi nhuận thu được khi tối đa hóa lợi nhuận?
+
+A. 350    B. 150    C. 200    D. 500
+
+► Đáp án đúng: C. 200
+
+Giải thích chi tiết: TC = Q² - 5Q + 100 => MC = 2Q - 5.TR = P.Q = (55 - 2Q)Q = 55Q - 2Q² => MR = 55 - 4Q.Tối đa hóa lợi nhuận: MR = MC <=> 55 - 4Q = 2Q - 5 <=> 6Q = 60 <=> Q = 10.Giá bán P = 55 - 2(10) = 35.TR = 35 * 10 = 350; TC = 10² - 5(10) + 100 = 150.Lợi nhuận π = TR - TC = 350 - 150 = 200.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Bài tập tương tự: Hàm P = 100 - Q, TC = Q² + 20Q + 50 => MR = 100 - 2Q, MC = 2Q + 20 => MR = MC <=> 4Q = 80 => Q = 20, P = 80. Lợi nhuận = 80*20 - (400 + 400 + 50) = 1600 - 850 = 750.
+
+
+
+Câu 31. Cầu về một hàng hoá P = 100 - 0.4Q. Độ co giãn của cầu theo giá tại mức giá P1 = 50 là bao nhiêu?
+
+A. Edp = -1.5    B. Edp = -1    C. Edp = -3.25    D. Edp = -2.5
+
+► Đáp án đúng: B. Edp = -1
+
+Giải thích chi tiết: P = 100 - 0.4Q <=> 0.4Q = 100 - P <=> Q = 250 - 2.5P.Đạo hàm dQ/dP = -2.5.Tại P = 50 => Q = 250 - 2.5(50) = 125.Độ co giãn điểm: Edp = (dQ/dP) * (P/Q) = (-2.5) * (50 / 125) = -1.0.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Tại điểm trung điểm của đường cầu tuyến tính, độ co giãn luôn bằng -1. Tung độ góc là 100, mức giá P = 50 chính là trung điểm => Ed = -1.
+
+
+
+Câu 32. Để thoát khỏi trạng thái suy thoái, Chính phủ áp dụng chính sách tiền tệ mở rộng thông qua công cụ nào?
+
+A. Mở rộng chi tiêu chính phủ, giảm thuế    B. Tăng cung tiền, giảm lãi suấtC. Thắt chặt chi tiêu chính phủ, tăng thuế    D. Giảm cung tiền, tăng lãi suất
+
+► Đáp án đúng: B. Tăng cung tiền, giảm lãi suất
+
+Giải thích chi tiết: Chính sách tiền tệ mở rộng (Expansionary Monetary Policy) được thực hiện bởi Ngân hàng Trung ương bằng cách tăng cung tiền (MS), hạ lãi suất chiết khấu, giảm tỷ lệ dự trữ bắt buộc hoặc mua vào tín phiếu kho bạc => Giảm lãi suất thị trường r, kích thích đầu tư I và tiêu dùng C, làm tổng cầu AD tăng.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Chính sách tài khóa mở rộng: Tăng G, Giảm T (do Chính phủ thực hiện).Chính sách tiền tệ mở rộng: Tăng Cung tiền MS, Giảm lãi suất r (do NHTW thực hiện).
+
+
+
+Câu 33. Hãng sản xuất cung ứng mức sản lượng đạt mục tiêu tối đa hóa lợi nhuận khi nào?
+
+A. Chi phí cố định bằng chi phí biến đổi    B. Doanh thu trung bình bằng tổng chi phí bình quânC. Doanh thu cận biên bằng chi phí cận biên    D. Doanh thu cận biên bằng mức giá
+
+► Đáp án đúng: C. Doanh thu cận biên bằng chi phí cận biên
+
+Giải thích chi tiết: Nguyên tắc tối đa hóa lợi nhuận áp dụng cho mọi doanh nghiệp ở bất kỳ cấu trúc thị trường nào là sản xuất tại mức sản lượng mà tại đó Doanh thu cận biên bằng Chi phí cận biên (MR = MC).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Đặc biệt: Trong thị trường Cạnh tranh hoàn hảo do P = MR nên điều kiện tối đa hóa lợi nhuận trở thành P = MC.
+
+
+
+Câu 34. Doanh nghiệp Titina CTHH có TC = Q² + 10Q + 50. Nếu giá thị trường là 150 nghìn đồng/lọ thì sản lượng tối ưu là bao nhiêu?
+
+A. 70 nghìn sản phẩm    B. 50 nghìn sản phẩm    C. 60 nghìn sản phẩm    D. 40 nghìn sản phẩm
+
+► Đáp án đúng: A. 70 nghìn sản phẩm
+
+Giải thích chi tiết: Hàm chi phí biên: MC = dTC/dQ = 2Q + 10.Vì doanh nghiệp hoạt động trong thị trường cạnh tranh hoàn hảo nên P = MR = 150.Điều kiện tối đa hóa lợi nhuận: P = MC <=> 150 = 2Q + 10 <=> 2Q = 140 <=> Q = 70 (nghìn sản phẩm).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Tính lợi nhuận thu được: TR = P.Q = 150 * 70 = 10.500; TC = 70² + 10(70) + 50 = 4900 + 700 + 50 = 5.650 => Lợi nhuận = 10.500 - 5.650 = 4.850 nghìn đồng.
+
+
+
+Câu 35. Trong một thị trường cạnh tranh hoàn hảo, doanh nghiệp có đặc điểm gì?
+
+A. Sản xuất mức sản lượng cao nhất    B. Cần cố gắng đổi mới sản phẩmC. Đối diện với đường cầu hoàn toàn co giãn theo giá của nó    D. Có thể tác động đến giá thị trường
+
+► Đáp án đúng: C. Đối diện với đường cầu hoàn toàn co giãn theo giá của nó
+
+Giải thích chi tiết: Doanh nghiệp cạnh tranh hoàn hảo là người chấp nhận giá (Price Taker), sản lượng bán ra của hãng rất nhỏ so với thị trường nên hãng có thể bán bất kỳ sản lượng nào ở mức giá thị trường P0. Đường cầu của riêng hãng là một đường nằm ngang (hoàn toàn co giãn, Ed = -∞).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Đường cầu đối với doanh nghiệp:• Cạnh tranh hoàn hảo: Nằm ngang (Hoàn toàn co giãn, P = MR = AR).• Độc quyền: Dốc xuống trùng đường cầu thị trường (P > MR).
+
+
+
+Câu 36. Hãy xác định hàm tổng chi phí biết chi phí cố định FC = 89 và AVC = Q + 67?
+
+A. TC = Q² + 67Q + 89    B. TC = Q² + 156Q + 89    C. TC = Q² + 67Q    D. TC = Q + 156
+
+► Đáp án đúng: A. TC = Q² + 67Q + 89
+
+Giải thích chi tiết: Chi phí biến đổi: VC = AVC * Q = (Q + 67) * Q = Q² + 67Q.Tổng chi phí: TC = VC + FC = Q² + 67Q + 89.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Công thức mối quan hệ chi phí: TC = FC + VC; AVC = VC / Q; ATC = TC / Q = AFC + AVC.
+
+
+
+Câu 37. Nếu tổng chi phí sản xuất 1 sản phẩm là 250 triệu và 2 sản phẩm là 270 triệu, chi phí cận biên của sản phẩm thứ hai bằng bao nhiêu?
+
+A. 20 triệu đồng    B. 60 triệu đồng    C. 40 triệu đồng    D. 10 triệu đồng
+
+► Đáp án đúng: A. 20 triệu đồng
+
+Giải thích chi tiết: Chi phí cận biên của sản phẩm thứ 2: MC(2) = TC(2) - TC(1) = 270 - 250 = 20 triệu đồng.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Ý nghĩa chi phí cận biên MC: Chi phí tăng thêm khi sản xuất thêm 1 đơn vị sản phẩm.
+
+
+
+Câu 38. Điều nào dưới đây thuộc đối tượng nghiên cứu của kinh tế vĩ mô?
+
+A. Kế hoạch chuyển nhà máy Intel    B. Xác định mức lương tối thiểu nhân công SamsungC. Vấn đề thất nghiệp của quốc gia do ảnh hưởng của Covid-19    D. Quyết định mua hàng hóa dịch vụ cá nhân
+
+► Đáp án đúng: C. Vấn đề thất nghiệp của quốc gia do ảnh hưởng của Covid-19
+
+Giải thích chi tiết: Kinh tế vĩ mô (Macroeconomics) nghiên cứu các hiện tượng tổng thể của toàn bộ nền kinh tế như tăng trưởng GDP, lạm phát, thất nghiệp, cán cân thanh toán và các chính sách kinh tế của Chính phủ.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Phân biệt Vi mô và Vĩ mô:• Vi mô: Nghiên cứu hành vi cá nhân, hộ gia đình, doanh nghiệp, giá cả một mặt hàng cụ thể.• Vĩ mô: Nghiên cứu tổng thể nền kinh tế, tỷ lệ thất nghiệp quốc gia, lạm phát, GDP.
+
+
+
+Câu 39. Xác định hàm năng suất bình quân của vốn APK khi biết hàm sản xuất Q = 10K³ + 100K² + 1000K?
+
+A. APK = 10K² + 100K + 1000    B. APK = 30K² + 100K + 1000C. APK = 30K² + 200K + 1000    D. APK = K² + 10K + 100
+
+► Đáp án đúng: A. APK = 10K² + 100K + 1000
+
+Giải thích chi tiết: Năng suất bình quân của vốn: APK = Q / K = (10K³ + 100K² + 1000K) / K = 10K² + 100K + 1000.(Lưu ý: Năng suất cận biên MPK = dQ/dK = 30K² + 200K + 1000).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Phân biệt AP và MP:• Năng suất trung bình: AP = Q / X.• Năng suất cận biên: MP = dQ / dX.
+
+
+
+Câu 40. Đường ngân sách biểu thị điều gì?
+
+A. Kết hợp hàng hóa mua được khi giá thay đổi    B. Kết hợp hàng hóa mua được khi thu nhập thay đổiC. Kết hợp hàng hóa mua được khi thu nhập không đổi    D. Các kết hợp hàng hóa mà người tiêu dùng có thể mua với giá cả sản phẩm cho trước và thu nhập không đổi
+
+► Đáp án đúng: D. Các kết hợp hàng hóa mà người tiêu dùng có thể mua với giá cả sản phẩm cho trước và thu nhập không đổi
+
+Giải thích chi tiết: Đường ngân sách (Budget Line) tập hợp tất cả các phối hợp hàng hóa mà người tiêu dùng có thể mua được khi sử dụng hết toàn bộ thu nhập hiện có với mức giá cả các hàng hóa đã cho trước.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Phương trình đường ngân sách: X.Px + Y.Py = I. Tập hợp các giỏ hàng hóa mua vừa hết tiền nằm trên đường ngân sách.
+
+
+
+Câu 41. Độ dốc của đường bàng quan cho biết điều gì?
+
+A. Tỷ lệ thay thế cận biên giữa hai hàng hóa    B. Sự ưa thích có tính chất bắc cầuC. Sự ưa thích là hoàn chỉnh    D. Tỷ lệ thay thế kỹ thuật biên
+
+► Đáp án đúng: A. Tỷ lệ thay thế cận biên giữa hai hàng hóa
+
+Giải thích chi tiết: Độ dốc của đường bàng quan tại một điểm bằng dY/dX = -MUx/MUy = -MRSxy (Tỷ lệ thay thế cận biên của hàng hóa X cho hàng hóa Y). Nó cho biết số lượng hàng hóa Y mà người tiêu dùng sẵn sàng giảm bớt để lấy thêm 1 đơn vị hàng hóa X mà tổng hữu dụng không đổi.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Độ dốc đường ngân sách: -(Px/Py).Độ dốc đường bàng quan: -MRSxy = -(MUx/MUy).Tại điểm tiêu dùng tối ưu: Độ dốc đường ngân sách = Độ dốc đường bàng quan <=> Px/Py = MUx/MUy.
+
+
+
+Câu 42. Minh có 30$ mua vé xem phim ($6) và vé xe buýt ($2). Kết hợp nào KHÔNG tương ứng với thu nhập thực tế?
+
+A. 3 vé phim, 6 vé buýt    B. 5 vé phim, 0 vé buýt    C. 5 vé phim, 15 vé buýt    D. 4 vé phim, 3 vé buýt
+
+► Đáp án đúng: C. 5 vé xem phim và 15 vé xe buýt
+
+Giải thích chi tiết: Phương trình ngân sách: 6.Phim + 2.Buýt = 30$.Kiểm tra phương án C: 6(5) + 2(15) = 30 + 30 = 60$ > 30$ => Nằm ngoài khả năng ngân sách của Minh.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Tất cả các kết hợp A (18+12=30), B (30+0=30), D (24+6=30) đều mua vừa hết 30$.
+
+
+
+Câu 43. Chính phủ sử dụng chính sách tài khóa mở rộng kích cầu làm thay đổi lạm phát và thất nghiệp như thế nào trong ngắn hạn?
+
+A. Tăng; tăng    B. Giảm; tăng    C. Tăng; giảm    D. Giảm; giảm
+
+► Đáp án đúng: C. Tăng; giảm
+
+Giải thích chi tiết: Theo đường cong Phillips trong ngắn hạn: Khi Chính phủ mở rộng tài khóa (tăng G, giảm T) làm tổng cầu AD tăng => Sản lượng Y tăng làm thất nghiệp giảm, nhưng đồng thời tạo áp lực làm mức giá chung P tăng (lạm phát tăng).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Sự đánh đổi trong ngắn hạn giữa Lạm phát và Thất nghiệp (Đường cong Phillips ngắn hạn SRPC): Giảm thất nghiệp phải chấp nhận tăng lạm phát và ngược lại.
+
+
+
+Câu 44. Nhận định nào đúng nếu đường MC nằm trên đường AVC khi sản lượng tăng?
+
+A. AFC sẽ tăng    B. AVC sẽ giảm    C. AVC sẽ tăng    D. Không ý nào đúng
+
+► Đáp án đúng: C. AVC sẽ tăng
+
+Giải thích chi tiết: Mối quan hệ giữa giá trị cận biên và giá trị trung bình: Khi giá trị cận biên lớn hơn giá trị trung bình (MC > AVC), giá trị trung bình AVC sẽ bị kéo tăng lên khi sản lượng Q tăng.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Mối quan hệ MC và AVC/ATC:• MC < AVC => AVC giảm.• MC > AVC => AVC tăng.• MC = AVC => AVC đạt cực tiểu (điểm cực tiểu của đường AVC).
+
+
+
+Câu 45. Nhìn vào đồ thị mô tả đường cầu về hàng hóa X, Y (X dốc hơn Y). Nhận định nào đúng?
+
+A. X và Y bổ sung    B. X và Y thay thế    C. Hàng hóa X ít co giãn theo giá hơn hàng hóa Y    D. Hàng hóa Y ít co giãn theo giá hơn X
+
+► Đáp án đúng: C. Hàng hóa X ít co giãn theo giá hơn hàng hóa Y
+
+Giải thích chi tiết: Đường cầu càng dốc biểu thị cầu càng ít co giãn theo giá. Vì đường cầu X dốc hơn đường cầu Y nên hàng hóa X ít co giãn theo giá hơn hàng hóa Y.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Mức độ co giãn trên đồ thị: Đường cầu nằm ngang = hoàn toàn co giãn; Đường cầu thẳng đứng = hoàn toàn không co giãn; Dốc nhiều = ít co giãn; Dốc ít = co giãn nhiều.
+
+
+
+Câu 46. Lạm phát xuất hiện do nguyên nhân nào sau đây?
+
+A. Tổng cầu giảm quá mức    B. Chính phủ in quá ít tiền    C. Giảm thiểu chi phí sản xuất    D. Gia tăng chi phí sản xuất
+
+► Đáp án đúng: D. Gia tăng chi phí sản xuất
+
+Giải thích chi tiết: Gia tăng chi phí sản xuất làm giảm tổng cung ngắn hạn (SRAS dịch trái), dẫn đến lạm phát chi phí đẩy.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Nguyên lý 9: Giá cả tăng khi Chính phủ in quá nhiều tiền (lạm phát tiền tệ).
+
+
+
+Câu 47. Chính phủ sử dụng chính sách tiền tệ thắt chặt để giảm tổng cầu, kết quả ngắn hạn sẽ làm thay đổi lạm phát và thất nghiệp ra sao?
+
+A. Giảm; giảm    B. Tăng; tăng    C. Giảm; tăng    D. Tăng; giảm
+
+► Đáp án đúng: C. Giảm; tăng
+
+Giải thích chi tiết: Chính sách tiền tệ thắt chặt làm giảm tổng cầu AD => Mức giá chung P giảm (lạm phát giảm), sản lượng Y giảm làm tỷ lệ thất nghiệp u tăng lên.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Sự di chuyển dọc đường cong Phillips ngắn hạn: Lạm phát giảm đi kèm với thất nghiệp tăng.
+
+
+
+Câu 48. GDP thực tế được tính bằng chỉ tiêu nào?
+
+A. Sản lượng năm gốc ở giá hiện tại    B. Sản lượng hiện tại ở giá hiện tạiC. Mức sản lượng hiện tại ở mức giá của năm gốc    D. Không phương án nào đúng
+
+► Đáp án đúng: C. Mức sản lượng hiện tại ở mức giá của năm gốc
+
+Giải thích chi tiết: GDP thực tế (Real GDP) = ∑ (Sản lượng năm hiện hành Q_t * Giá cả năm gốc P_0).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• GDP danh nghĩa (Nominal GDP) = ∑ (Sản lượng năm hiện hành Q_t * Giá cả năm hiện hành P_t).
+
+
+
+Câu 49. Nghị quyết 11/NQ-CP thực hiện cắt giảm đầu tư công thuộc chính sách nào?
+
+A. Chính sách tài khóa    B. Chính sách kinh tế đối ngoại    C. Chính sách tiền tệ    D. Chính sách thu nhập
+
+► Đáp án đúng: A. Chính sách tài khóa
+
+Giải thích chi tiết: Cắt giảm đầu tư công (giảm chi tiêu Chính phủ G) là một công cụ trực tiếp của Chính sách tài khóa thắt chặt nhằm kiềm chế lạm phát và ổn định kinh tế vĩ mô.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Hai công cụ chủ yếu của Chính sách tài khóa: Chi tiêu Chính phủ (G) và Thuế (T).
+
+
+
+Câu 50. Doanh thu biên (MR) được định nghĩa là gì?
+
+A. Độ dốc đường cầu    B. Doanh thu tăng thêm khi giá thay đổi    C. Độ dốc đường TC    D. Phần doanh thu tăng thêm trong tổng doanh thu khi bán thêm một đơn vị sản phẩm
+
+► Đáp án đúng: D. Phần doanh thu tăng thêm trong tổng doanh thu khi bán thêm một đơn vị sản phẩm
+
+Giải thích chi tiết: Doanh thu biên MR (Marginal Revenue) = ΔTR / ΔQ = dTR/dQ, là phần tổng doanh thu tăng thêm khi doanh nghiệp sản xuất và bán thêm 1 đơn vị sản phẩm.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Phân biệt AR và MR: AR = TR / Q = P (Doanh thu trung bình chính là giá bán). MR = dTR/dQ.
+
+
+
+PHẦN 2: LỜI GIẢI CHI TIẾT & LÝ THUYẾT MỞ RỘNG - MÃ ĐỀ 495
+
+Câu 1. Ý nào dưới đây thể hiện đúng mối quan hệ giữa MC và ATC?
+
+A. Khi MC > ATC, tăng sản lượng thì ATC không đổi    B. Khi MC > ATC, tăng sản lượng thì ATC giảmC. Khi MC > ATC, tăng sản lượng thì ATC đạt giá trị nhỏ nhất    D. Khi MC > ATC, tăng sản lượng thì ATC tăng
+
+► Đáp án đúng: D. Khi MC > ATC, tăng sản lượng thì ATC tăng
+
+Giải thích chi tiết: Quy tắc quan hệ giữa cận biên và trung bình: Khi giá trị cận biên lớn hơn giá trị trung bình (MC > ATC), nó sẽ kéo giá trị trung bình tăng lên. Do đó khi MC > ATC, tăng sản lượng Q sẽ làm ATC tăng.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Mối quan hệ đường MC và đường ATC:• Khi MC < ATC: ATC giảm theo Q.• Khi MC = ATC: ATC đạt giá trị cực tiểu (ATC min).• Khi MC > ATC: ATC tăng theo Q.
+
+
+
+Câu 2. Đâu là dấu hiệu nhận biết nền kinh tế đạt trạng thái cân bằng tối ưu vĩ mô?
+
+A. Sản lượng thực tế bằng sản lượng tiềm năng, tỷ lệ thất nghiệp thực tế bằng tỷ lệ thất nghiệp tự nhiênB. Sản lượng thực tế thấp hơn sản lượng tiềm năngC. Sản lượng thực tế cao hơn sản lượng tiềm năngD. Sản lượng thực tế cao hơn sản lượng tiềm năng và thất nghiệp cao hơn
+
+► Đáp án đúng: A. Sản lượng thực tế bằng mức sản lượng tiềm năng, tỷ lệ thất nghiệp thực tế bằng tỷ lệ thất nghiệp tự nhiên
+
+Giải thích chi tiết: Nền kinh tế đạt trạng thái toàn dụng nhân công và cân bằng tối ưu khi sản lượng thực tế Y bằng đúng mức sản lượng tiềm năng Yp (Full employment output), lúc đó tỷ lệ thất nghiệp thực tế u bằng đúng tỷ lệ thất nghiệp tự nhiên Un (không có thất nghiệp chu kỳ).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Khoảng cách sản lượng (Output Gap):• Y < Yp: Suy thoái (Thất nghiệp u > Un).• Y = Yp: Cân bằng toàn dụng (u = Un).• Y > Yp: Dư thừa/Lạm phát (u < Un).
+
+
+
+Câu 3. Sự dịch chuyển của đường cầu một hàng hóa xuất hiện khi nào?
+
+A. Giá cả hàng hóa đó thay đổi    B. Đường cung của hàng hóa đó dịch chuyểnC. Bất kỳ yếu tố nào ảnh hưởng đến cầu hàng hóa ngoại trừ giá của hàng hóa đó    D. Giá của hàng hóa đầu vào
+
+► Đáp án đúng: C. Bất kỳ yếu tố nào ảnh hưởng đến cầu hàng hóa ngoại trừ giá của hàng hóa đó
+
+Giải thích chi tiết: Đường cầu dịch chuyển (Shift) khi các yếu tố ngoài giá của chính hàng hóa đó thay đổi, bao gồm: thu nhập người tiêu dùng (I), giá hàng hóa liên quan (Py), thị hiếu (T), quy mô dân số (N) và kỳ vọng (E).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Phân biệt di chuyển dọc đường cầu (khi chính giá P thay đổi) và dịch chuyển toàn bộ đường cầu (khi các yếu tố khác ngoài P thay đổi).
+
+
+
+Câu 4. Thúy tiêu dùng 2 hàng hoá hoa tươi và nước ngọt và đang ở điểm tiêu dùng tối ưu. MU hoa tươi = 10, MU nước ngọt = 5. Nếu giá hoa tươi là 0.5$ thì giá nước ngọt là bao nhiêu?
+
+A. 0.5$    B. 0.1$    C. 0.25$    D. 1$
+
+► Đáp án đúng: C. 0.25$
+
+Giải thích chi tiết: Nguyên tắc tiêu dùng tối ưu: MUx/Px = MUy/Py.Thay số: MU_hoa / P_hoa = MU_nước / P_nước <=> 10 / 0.5 = 5 / P_nước <=> 20 = 5 / P_nước <=> P_nước = 5 / 20 = 0.25$.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Bài tập tương tự: MUx = 30, MUy = 15, Py = 2$ => Px = (MUx / MUy) * Py = (30/15) * 2 = 4$.
+
+
+
+Câu 5. Ý nào KHÔNG thể hiện đúng lựa chọn của người sản xuất trong quyết định sử dụng 2 yếu tố đầu vào Vốn (K) và Lao động (L)?
+
+A. Sản xuất tại tiếp điểm của đường đồng phí và đường đồng lượngB. Sản xuất với chi phí nhất định để đạt sản lượng cao nhấtC. Sản xuất ra sản lượng nhất định với chi phí thấp nhấtD. Sản xuất với mức chi phí thấp nhất có thể
+
+► Đáp án đúng: D. Sản xuất với mức chi phí thấp nhất có thể
+
+Giải thích chi tiết: Quyết định tối ưu của nhà sản xuất phải gắn liền với ràng buộc cụ thể:1. Tối đa hóa sản lượng với một mức chi phí cho trước (Ràng buộc đường đồng phí).2. Tối thiểu hóa chi phí để sản xuất một mức sản lượng cho trước (Ràng buộc đường đồng lượng).Ý D phát biểu 'chi phí thấp nhất có thể' một cách chung chung mà không có ràng buộc về sản lượng là không chính xác.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Điều kiện tối ưu sản xuất: MPL / PL = MPK / PK và tiếp điểm giữa đường đồng lượng và đường đồng phí.
+
+
+
+Câu 6. Tỷ lệ thay thế kỹ thuật biên (MRTS) đo lường điều gì?
+
+A. Độ dốc của đường đồng lượng    B. Độ dốc đường đồng phí    C. Độ dốc đường đẳng ích    D. Độ dốc đường PPF
+
+► Đáp án đúng: A. Độ dốc của đường đồng lượng
+
+Giải thích chi tiết: Tỷ lệ thay thế kỹ thuật biên MRTS (Marginal Rate of Technical Substitution) của vốn cho lao động đo lường độ dốc của đường đồng lượng (Isoquant curve), bằng -dK/dL = MPL / MPK.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• So sánh các độ dốc:• Đường đồng lượng (Isoquant): Độ dốc = MRTS = -MPL/MPK.• Đường đồng phí (Isocost): Độ dốc = -PL/PK.• Đường bàng quan (Indifference): Độ dốc = MRS = -MUx/MUy.• Đường ngân sách (Budget): Độ dốc = -Px/Py.
+
+
+
+Câu 7. Cung cầu hàng hóa: PS = Q + 5; PD = 20 – 0.5Q. Nếu chính phủ ấn định giá P = 18 và mua toàn bộ dư thừa thì Chính phủ chi bao nhiêu tiền?
+
+A. 126    B. 108    C. 180    D. 162
+
+► Đáp án đúng: D. 162
+
+Giải thích chi tiết: Chuyển phương trình dạng Q theo P:• Hàm cung: PS = Q + 5 <=> QS = P - 5. Tại P = 18 => QS = 18 - 5 = 13.• Hàm cầu: PD = 20 - 0.5Q <=> 0.5Q = 20 - P <=> QD = 40 - 2P. Tại P = 18 => QD = 40 - 2(18) = 4.Lượng dư thừa trên thị trường = QS - QD = 13 - 4 = 9 sản phẩm.Số tiền Chính phủ mua toàn bộ 9 sản phẩm dư thừa với giá P = 18: Chi phí = 9 * 18 = 162$.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Bài tập tương tự: Giá sàn Pf = 18 làm dư thừa 9 đơn vị. Ngân sách chính phủ tiêu tốn = Pf * Q_dư_thừa = 18 * 9 = 162.
+
+
+
+Câu 8. 'Mỗi quốc gia phải đánh đổi giữa tăng trưởng kinh tế và bảo vệ môi trường' thuộc nguyên lý nào?
+
+A. Con người đối mặt với sự đánh đổi    B. Chi phí là cái phải từ bỏC. Thương mại làm mọi người giàu hơn    D. Con người phản ứng với kích thích
+
+► Đáp án đúng: A. Con người đối mặt với sự đánh đổi
+
+Giải thích chi tiết: Nguyên lý 1 trong Mười nguyên lý kinh tế học: Con người (và cả xã hội/quốc gia) luôn phải đối mặt với sự đánh đổi giữa các mục tiêu kinh tế cạnh tranh nhau (như tăng trưởng sản lượng vs. môi trường sạch).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Sự đánh đổi điển hình của xã hội: Đánh đổi giữa Tăng trưởng (Hiệu quả) và Phân phối (Công bằng).
+
+
+
+Câu 9. GDP danh nghĩa 2018=250, 2019=270 tỉ USD. GDP thực tế 2018=210, 2019=220 tỉ USD. Tốc độ tăng trưởng kinh tế 2019 là bao nhiêu?
+
+A. 8.0%    B. 7.4%    C. 4.5%    D. 4.8%
+
+► Đáp án đúng: D. 4.8%
+
+Giải thích chi tiết: Tốc độ tăng trưởng kinh tế tính theo GDP thực tế:g(2019) = [(Real GDP_2019 - Real GDP_2018) / Real GDP_2018] * 100%g(2019) = [(220 - 210) / 210] * 100% = (10 / 210) * 100% = 4.76% ≈ 4.8%.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Lưu ý: Không dùng GDP danh nghĩa để tính tốc độ tăng trưởng kinh tế vì nó bị ảnh hưởng bởi lạm phát giá cả.
+
+
+
+Câu 10. Khoản nào dưới đây KHÔNG thuộc chi phí cơ hội cho kỳ nghỉ mát của bạn?
+
+A. Số tiền chi xem biểu diễn cá heo    B. Chi phí vé máy bayC. Thu nhập có thể kiếm được nếu ở nhà làm việc    D. Số tiền bạn chi cho ăn uống
+
+► Đáp án đúng: D. Số tiền bạn chi cho ăn uống
+
+Giải thích chi tiết: Chi phí ăn uống cơ bản là khoản chi bắt buộc cho cuộc sống dù bạn ở nhà hay đi nghỉ mát. Chỉ phần chênh lệch chi phí ăn uống đắt đỏ hơn ở nơi nghỉ mát mới tính vào chi phí cơ hội. Các khoản chi vé máy bay, vé vui chơi và thu nhập bị mất là chi phí cơ hội trực tiếp.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Cách xác định chi phí cơ hội của việc học Đại học: Học phí + Tiền sách vở + Thu nhập bỏ lỡ do không đi làm (Không tính tiền ăn ở vì dù học hay không vẫn phải ăn ở).
+
+
+
+Câu 11. Đặc điểm của mô hình kinh tế kế hoạch hóa tập trung là gì?
+
+A. Phối hợp các hoạt động kinh tế bằng việc lập kế hoạch tập trung    B. Yếu tố sản xuất thuộc sở hữu tư nhânC. Cơ chế vận hành do thị trường quyết định    D. Sử dụng giá cả thị trường
+
+► Đáp án đúng: A. Phối hợp các hoạt động kinh tế bằng việc lập kế hoạch tập trung
+
+Giải thích chi tiết: Trong nền kinh tế kế hoạch hóa tập trung (chỉ huy), Chính phủ/Nhà nước sở hữu hầu hết tư liệu sản xuất và đưa ra mọi quyết định kinh tế cơ bản (sản xuất cái gì, như thế nào, cho ai) thông qua các chỉ tiêu kế hoạch tập trung.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Ba mô hình kinh tế chính: Nền kinh tế kế hoạch hóa tập trung, Nền kinh tế thị trường tự do, Nền kinh tế hỗn hợp.
+
+
+
+Câu 12. Hàm cầu QD = 130 – 2P; hàm cung QS = 2P – 30. Tổng doanh thu tại mức giá cân bằng là bao nhiêu?
+
+A. 4200    B. 2000    C. 1200    D. 3000
+
+► Đáp án đúng: B. 2000
+
+Giải thích chi tiết: Cân bằng thị trường: QD = QS <=> 130 - 2P = 2P - 30 <=> 4P = 160 <=> Pe = 40.Thay Pe = 40 vào hàm cầu: Qe = 130 - 2(40) = 50.Tổng doanh thu tại điểm cân bằng: TR = Pe * Qe = 40 * 50 = 2000.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Bài tập tương tự: QD = 100 - P, QS = 2P - 20 => Cân bằng 3P = 120 => Pe = 40, Qe = 60 => Doanh thu TR = 2400.
+
+
+
+Câu 13. Bạn xem phim 3 giờ, chi phí 200.000đ (150k vé + 50k bỏng ngô). Nếu đi làm thêm thu nhập 30.000đ/giờ. Chi phí cơ hội đi xem phim là bao nhiêu?
+
+A. 290.000 VNĐ    B. 90.000 VNĐ    C. 140.000 VNĐ    D. 30.000 VNĐ
+
+► Đáp án đúng: A. 290.000 VNĐ
+
+Giải thích chi tiết: Chi phí cơ hội toàn bộ của việc đi xem phim bao gồm:1. Chi phí tiền mặt trực tiếp: 200.000 VNĐ.2. Chi phí thời gian cơ hội (thu nhập bị bỏ lỡ): 3 giờ * 30.000 VNĐ/giờ = 90.000 VNĐ.Tổng chi phí cơ hội = 200.000 + 90.000 = 290.000 VNĐ.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Công thức Chi phí cơ hội thực tế = Chi phí bằng tiền trực tiếp + Thu nhập/Lợi ích bỏ lỡ từ phương án tốt nhất.
+
+
+
+Câu 14. Khi thu nhập tăng lên, cầu về sản phẩm X giảm mạnh. Kết luận sản phẩm X là loại hàng hóa nào?
+
+A. Hàng hóa thông thường    B. Hàng hóa thiết yếu    C. Hàng hóa chất lượng thấp    D. Hàng hóa xa xỉ
+
+► Đáp án đúng: C. Hàng hóa chất lượng thấp
+
+Giải thích chi tiết: Hàng hóa chất lượng thấp (thứ cấp - Inferior Goods) có mối quan hệ nghịch biến giữa Thu nhập và Cầu. Thu nhập tăng làm cầu giảm và ngược lại.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Ví dụ hàng hóa thứ cấp: Bữa ăn giá rẻ, vé xe buýt, xe máy cũ, mì tôm.
+
+
+
+Câu 15. Ý nào KHÔNG thể hiện đúng mối quan hệ giữa MPx và APx?
+
+A. Nếu MPx > APx thì khi tăng X thì APx tăngB. Nếu MPx = APx thì khi tăng X thì APx giảmC. Nếu MPx = APx thì APx là lớn nhấtD. Nếu MPx < APx thì khi tăng X thì APx giảm
+
+► Đáp án đúng: B. Nếu MPx = APx thì khi tăng lượng đầu vào X thì APx giảm
+
+Giải thích chi tiết: Mối quan hệ chuẩn giữa MPx và APx:• Khi MPx > APx => APx đang tăng.• Khi MPx = APx => APx đạt giá trị CỰC ĐẠI (APx max).• Khi MPx < APx => APx đang giảm.Tại điểm MPx = APx, APx đạt đỉnh nên khi tăng nhẹ X tại điểm đó APx sẽ bắt đầu giảm chứ không phải ngay tại điều kiện MPx = APx làm APx giảm.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Đường MPx luôn cắt đường APx tại điểm cực đại của đường APx (APx max).
+
+
+
+Câu 16. Nếu cầu tăng và cung giảm thì giá cân bằng sẽ thay đổi như thế nào?
+
+A. Luôn luôn tăng    B. Luôn luôn giảm    C. Giảm nếu cầu tăng nhiều hơn    D. Giảm nếu cầu tăng ít hơn
+
+► Đáp án đúng: A. Luôn luôn tăng
+
+Giải thích chi tiết: • Cầu tăng làm giá tăng (P ↑).• Cung giảm cũng làm giá tăng (P ↑).Kết hợp cả hai tác động: Giá cân bằng chắc chắn LUÔN LUÔN TĂNG. (Về sản lượng cân bằng Q thì chưa xác định, phụ thuộc vào tốc độ dịch chuyển tương đối).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Quy tắc tác động kép Cung - Cầu:• Cầu tăng + Cung tăng => Q tăng chắc chắn, P chưa xác định.• Cầu tăng + Cung giảm => P tăng chắc chắn, Q chưa xác định.
+
+
+
+Câu 17. Để xác định quốc gia có lợi thế so sánh trong sản xuất một sản phẩm cần so sánh chỉ tiêu nào?
+
+A. Chi phí biến đổi    B. Chi phí cố định    C. Chi phí cơ hội để sản xuất ra sản phẩm đó    D. Chi phí sản xuất
+
+► Đáp án đúng: C. Chi phí cơ hội để sản xuất ra sản phẩm hàng hóa đó
+
+Giải thích chi tiết: Lợi thế so sánh căn cứ vào việc so sánh chi phí cơ hội sản xuất giữa các quốc gia.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Lặp lại kiến thức câu 11 Mã 829.
+
+
+
+Câu 18. Hàm cầu Qd = 12 - 0.5P. Hàm doanh thu biên MR có dạng nào?
+
+A. MR = 4Q - 24    B. MR = Q - 12    C. MR = 24 - 4Q    D. MR = 12 - Q
+
+► Đáp án đúng: C. MR = 24 - 4Q
+
+Giải thích chi tiết: Chuyển hàm cầu dạng ngược P theo Q:Qd = 12 - 0.5P <=> 0.5P = 12 - Q <=> P = 24 - 2Q.Tổng doanh thu: TR = P.Q = (24 - 2Q)Q = 24Q - 2Q².Doanh thu biên: MR = dTR/dQ = 24 - 4Q.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Mẹo nhanh cho hàm cầu tuyến tính P = a - bQ => Hàm doanh thu biên MR = a - 2bQ (MR có cùng tung độ gốc a và độ dốc gấp đôi đường cầu).
+
+
+
+Câu 19. Năng suất trung bình (AP) của yếu tố đầu vào X bằng gì?
+
+A. Không ý nào đúng    B. Sản lượng tăng thêm khi dùng thêm 1 X    C. Sản phẩm biên bình quân    D. Bằng tổng sản lượng chia cho tổng đầu vào X
+
+► Đáp án đúng: D. Bằng tổng sản lượng chia cho tổng đầu vào X
+
+Giải thích chi tiết: Năng suất trung bình APx = Q / X (Tổng sản lượng đầu ra chia cho tổng số lượng yếu tố đầu vào X).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Phân biệt APx = Q / X với MPx = ΔQ / ΔX = dQ/dX.
+
+
+
+Câu 20. Cụm từ 'Không có những thứ như một bữa ăn trưa miễn phí' minh họa điều gì?
+
+A. Lạm phát tăng thế nào    B. Nhìn quá tốt không có thật    C. Rằng để có được một thứ, chúng ta phải từ bỏ cái gì khác    D. Không có gì miễn phí
+
+► Đáp án đúng: C. Rằng để có được một thứ, chúng ta phải từ bỏ cái gì khác
+
+Giải thích chi tiết: Thành ngữ kinh tế 'There is no such thing as a free lunch' thể hiện Nguyên lý 1: Mọi sự lựa chọn đều phải trả giá bằng chi phí cơ hội - để có được một lợi ích này, chúng ta buộc phải từ bỏ một lợi ích khác.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Ý nghĩa cốt lõi của môn Kinh tế học: Nghiên cứu sự lựa chọn tối ưu trong điều kiện các nguồn lực khan hiếm.
+
+
+
+Câu 21. 'Sự giảm giá của hàng hóa làm giảm tổng chi tiêu nếu độ co giãn của cầu theo .... là .... hơn 1'?
+
+A. giá; nhỏ    B. thu nhập; lớn    C. giá; lớn    D. thu nhập; nhỏ
+
+► Đáp án đúng: A. giá; nhỏ
+
+Giải thích chi tiết: Khi cầu ít co giãn theo giá (|Ed| < 1), tỷ lệ % giảm giá lớn hơn tỷ lệ % tăng của lượng cầu. Do đó, việc giảm giá P sẽ khiến tổng doanh thu / tổng chi tiêu TR = P.Q giảm đi.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Mối quan hệ giữa Giá cả, Độ co giãn Ed và Doanh thu TR:• |Ed| < 1 (co giãn ít): P giảm => TR giảm; P tăng => TR tăng.• |Ed| > 1 (co giãn nhiều): P giảm => TR tăng; P tăng => TR giảm.
+
+
+
+Câu 22. Chính phủ dùng chính sách tài khóa để chống suy thoái trong ngắn hạn như thế nào?
+
+A. Giảm cung tiền    B. Tăng thuế, giảm chi tiêu    C. Giảm thuế, tăng chi tiêu Chính phủ hoặc vừa giảm thuế và tăng chi tiêu Chính phủ    D. Tăng cung tiền
+
+► Đáp án đúng: C. Giảm thuế, tăng chi tiêu Chính phủ hoặc vừa giảm thuế và tăng chi tiêu Chính phủ
+
+Giải thích chi tiết: Để chống suy thoái (kích thích sản lượng Y), Chính phủ sử dụng Chính sách tài khóa mở rộng: Tăng chi tiêu công G hoặc Giảm thuế T nhằm làm tăng tổng cầu AD.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Biện pháp tài khóa thắt chặt (chống lạm phát nóng): Tăng thuế T, Giảm chi tiêu G.
+
+
+
+Câu 23. Tổng sản phẩm quốc nội (GDP) là gì?
+
+A. Tổng giá trị hàng hóa và dịch vụ tạo ra trên lãnh thổ một nước trong một thời kỳ nhất định    B. Giá trị tạo ra tại một ngày    C. Tổng giá trị của công dân sản xuất    D. Không ý nào đúng
+
+► Đáp án đúng: A. Tổng giá trị hàng hóa và dịch vụ tạo ra trên lãnh thổ một nước trong một thời kỳ nhất định
+
+Giải thích chi tiết: GDP (Gross Domestic Product) là tổng giá trị thị trường của tất cả các hàng hóa và dịch vụ cuối cùng được sản xuất ra trong phạm vi lãnh thổ một quốc gia trong một khoảng thời gian nhất định (thường là 1 năm hoặc 1 quý).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Phân biệt GDP và GNP:• GDP: Tính theo lãnh thổ địa lý (sản xuất TRONG nước).• GNP / GNI: Tính theo sở hữu công dân (do CÔNG DÂN nước đó tạo ra).
+
+
+
+Câu 38. 'Điểm tiêu dùng tối ưu' trong việc lựa chọn 2 hàng hóa A và B xảy ra khi nào?
+
+A. Mua đơn vị cuối A thỏa mãn như B    B. Đồng tiền cuối làm tăng thỏa mãn    C. Mua A giống B    D. Lợi ích cận biên tính trên một đơn vị giá cả hàng hóa A bằng với lợi ích cận biên tính trên một đơn vị giá cả hàng hóa B
+
+► Đáp án đúng: D. Lợi ích cận biên tính trên một đơn vị giá cả hàng hóa A bằng với lợi ích cận biên tính trên một đơn vị giá cả hàng hóa B
+
+Giải thích chi tiết: Nguyên tắc tối đa hóa hữu dụng trong giới hạn ngân sách: MUa / Pa = MUb / Pb và A.Pa + B.Pb = I. Lợi ích cận biên thu được từ đồng tiền cuối cùng chi cho hàng hóa A phải bằng lợi ích cận biên từ đồng tiền cuối cùng chi cho B.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Nếu MUa/Pa > MUb/Pb: Người tiêu dùng sẽ tăng mua A và giảm mua B để tiến về điểm cân bằng.
+
+
+
+Câu 39. Điểm tối đa hóa lợi nhuận của doanh nghiệp cạnh tranh hoàn hảo thỏa mãn điều kiện nào?
+
+A. ATC = MC    B. AVC = MC    C. P = MC    D. AFC = MC
+
+► Đáp án đúng: C. P = MC
+
+Giải thích chi tiết: Doanh nghiệp CTHH chấp nhận giá thị trường P = MR. Do đó điều kiện tối đa hóa lợi nhuận chung MR = MC trở thành P = MC.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Hàm cung ngắn hạn của doanh nghiệp CTHH chính là phần đường chi phí cận biên MC nằm phía trên điểm cực tiểu của đường AVC (MC ≥ AVC_min).
+
+
+
+Câu 40. Các yếu tố khác không đổi, khi giá trị kim ngạch xuất khẩu của quốc gia tăng lên sẽ làm cán cân thương mại thay đổi như thế nào?
+
+A. Tăng    B. Có thể tăng, giảm hoặc không đổi    C. Không đổi    D. Giảm
+
+► Đáp án đúng: A. Tăng
+
+Giải thích chi tiết: Cán cân thương mại NX = Xuất khẩu (X) - Nhập khẩu (M). Khi kim ngạch xuất khẩu X tăng (M không đổi) thì cán cân thương mại NX tăng (tiến tới thặng dư thương mại).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• NX > 0: Thặng dư thương mại (Xuất siêu).NX < 0: Thâm hụt thương mại (Nhập siêu).NX = 0: Cán cân thương mại cân bằng.
+
+
+
+Câu 41. Hàm tổng chi phí hãng CTHH TC = Q*(Q + 3) + 100. Nếu giá thị trường P = 43 thì hãng sản xuất bao nhiêu để tối đa hóa lợi nhuận?
+
+A. 22    B. 20    C. 15    D. 11
+
+► Đáp án đúng: B. 20
+
+Giải thích chi tiết: TC = Q² + 3Q + 100 => Chi phí biên MC = dTC/dQ = 2Q + 3.Thị trường CTHH tối đa hóa lợi nhuận khi P = MC.<=> 43 = 2Q + 3 <=> 2Q = 40 <=> Q = 20 (sản phẩm).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Tính lợi nhuận thu được: TR = P.Q = 43 * 20 = 860. TC = 20² + 3(20) + 100 = 400 + 60 + 100 = 560. Lợi nhuận π = 860 - 560 = 300.
+
+
+
+Câu 42. Ý nào thể hiện đúng mối quan hệ giữa MC và AVC?
+
+A. Khi MC > AVC, tăng sản lượng thì AVC tăng    B. Khi MC > AVC, tăng sản lượng thì AVC cực tiểuC. Khi MC > AVC, tăng sản lượng thì AVC giảm    D. Khi MC > AVC, tăng sản lượng thì AVC không đổi
+
+► Đáp án đúng: A. Khi MC > AVC, tăng sản lượng thì AVC tăng
+
+Giải thích chi tiết: Tương tự ATC, khi chi phí cận biên MC lớn hơn chi phí biến đổi trung bình AVC (MC > AVC) thì việc tăng sản lượng Q sẽ kéo AVC tăng lên.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Điểm hòa vốn: P = ATC_min (nơi MC = ATC).Điểm đóng cửa: P = AVC_min (nơi MC = AVC).
+
+
+
+Câu 43. Yếu tố nào sau đây KHÔNG phải là một trong những yếu tố ảnh hưởng đến cung?
+
+A. Thu nhập của người tiêu dùng    B. Thuế và trợ cấp cho nhà sản xuấtC. Chi phí nguồn lực để sản xuất    D. Thay đổi về công nghệ kỹ thuật
+
+► Đáp án đúng: A. Thu nhập của người tiêu dùng
+
+Giải thích chi tiết: Thu nhập của người tiêu dùng (I) là yếu tố tác động trực tiếp làm dịch chuyển đường CẦU (Demand), không phải yếu tố ảnh hưởng đến CUNG (Supply) của nhà sản xuất.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Các yếu tố làm dịch chuyển đường cung S: Giá đầu vào, Công nghệ, Số lượng người bán, Kỳ vọng nhà sản xuất, Thuế/Trợ cấp.
+
+
+
+Câu 44. Câu nào KHÔNG đúng với độ co giãn của cầu theo giá?
+
+A. Có giá trị âm hoặc bằng 0    B. Càng lớn khi có nhiều hàng hóa thay thếC. Càng lớn khi đường cầu càng dốc    D. Thay đổi khi ở các mức giá khác nhau
+
+► Đáp án đúng: C. Càng lớn khi đường cầu càng dốc
+
+Giải thích chi tiết: Đường cầu càng dốc thì cầu càng ÍT co giãn (độ co giãn |Ed| nhỏ). Do đó phát biểu 'độ co giãn càng lớn khi đường cầu càng dốc' là KHÔNG đúng.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Đường cầu thẳng đứng (dốc nhất): Ed = 0 (hoàn toàn không co giãn).Đường cầu nằm ngang (thoải nhất): Ed = -∞ (hoàn toàn co giãn).
+
+
+
+Câu 45. Điều kiện chỉ ra điểm tối đa hoá lợi ích người tiêu dùng khi lựa chọn 2 hàng hoá X1 và X2?
+
+A. MU_X1 = MU_X2    B. Không có điều kiện nào trong các đáp ánC. MU_X1 / X1 = MU_X2 / X2    D. P_X1 = P_X2
+
+► Đáp án đúng: B. Không có điều kiện nào trong các đáp án
+
+Giải thích chi tiết: Điều kiện chuẩn tối đa hóa lợi ích người tiêu dùng: MU_X1 / P_X1 = MU_X2 / P_X2 và X1.P_X1 + X2.P_X2 = I. Cả 3 phương án A, C, D đều viết sai công thức (A thiếu giá P, C chia cho lượng X thay vì P, D cho 2 giá bằng nhau).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Chú ý phân biệt kỹ công thức: MUx / Px = MUy / Py (chia cho GIÁ P chứ không chia cho LƯỢNG X).
+
+
+
+Câu 46. Nhà độc quyền có đường cầu Q = 12 - P, AVC = Q, FC = 0. Để tối đa hoá doanh thu, nhà độc quyền bán tại Q và P là bao nhiêu?
+
+A. Q = 6; P = 6    B. Q = 7; P = 5    C. Q = 9; P = 3    D. Q = 8; P = 4
+
+► Đáp án đúng: A. Q = 6; P = 6
+
+Giải thích chi tiết: Hàm cầu ngược: Q = 12 - P <=> P = 12 - Q.Tổng doanh thu: TR = P.Q = (12 - Q)Q = 12Q - Q².Doanh thu biên: MR = dTR/dQ = 12 - 2Q.Để tối đa hóa doanh thu (TR max), cho MR = 0 <=> 12 - 2Q = 0 <=> Q = 6.Thay Q = 6 vào hàm cầu: P = 12 - 6 = 6.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• So sánh nếu tối đa hóa LỢI NHUẬN (Profit max): TC = AVC * Q + FC = Q² => MC = 2Q.MR = MC <=> 12 - 2Q = 2Q <=> 4Q = 12 => Q = 3, P = 9.
+
+
+
+Câu 47. Khi Chính phủ áp đặt 'giá sàn' có hiệu lực thì điều gì xảy ra trên thị trường?
+
+A. Thiếu cung    B. Thiếu hụt    C. Có sự dư cung hàng hóa dịch vụ    D. Dư cầu
+
+► Đáp án đúng: C. Có sự dư cung hàng hóa dịch vụ
+
+Giải thích chi tiết: Giá sàn có hiệu lực được ấn định cao hơn giá cân bằng (Pf > Pe). Tại mức giá cao này, lượng cung của người bán vượt quá lượng cầu của người mua (QS > QD), gây ra hiện tượng dư cung (dư thừa) hàng hóa.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Giá trần (Pc < Pe): Gây dư cầu (thiếu hụt hàng hóa).Giá sàn (Pf > Pe): Gây dư cung (dư thừa hàng hóa).
+
+
+
+Câu 48. Năng suất cận biên của lao động MP = 34 - 0.25L. Giá sữa P = 8.000đ/hộp, lương công nhân W = 200.000đ. Doanh nghiệp nên thuê bao nhiêu công nhân?
+
+A. 41    B. 25    C. 36    D. 45
+
+► Đáp án đúng: C. 36
+
+Giải thích chi tiết: Giá trị sản phẩm cận biên của lao động VMPL = P * MPL.Điều kiện tối đa hóa lợi nhuận khi sử dụng lao động: VMPL = W (Giá trị sản phẩm cận biên bằng mức tiền lương).<=> 8.000 * (34 - 0.25L) = 200.000<=> 34 - 0.25L = 200.000 / 8.000 = 25<=> 0.25L = 34 - 25 = 9 <=> L = 9 / 0.25 = 36 (lao động).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Bài tập tương tự: MP = 50 - 0.5L, P = 10.000, W = 300.000 => 10.000*(50 - 0.5L) = 300.000 => 50 - 0.5L = 30 => 0.5L = 20 => L = 40.
+
+
+
+Câu 49. Dân số 40 triệu người, 18 triệu có việc làm, 2 triệu thất nghiệp. Tỷ lệ thất nghiệp của nước này là bao nhiêu?
+
+A. 10%    B. 8%    C. 5%    D. 11%
+
+► Đáp án đúng: A. 10%
+
+Giải thích chi tiết: Lực lượng lao động (Labor Force - LF) = Số người có việc + Số người thất nghiệp = 18 + 2 = 20 triệu người.Tỷ lệ thất nghiệp u (%) = (Số người thất nghiệp / Lực lượng lao động) * 100%u = (2 / 20) * 100% = 10%.
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Lưu ý: Mẫu số của tỷ lệ thất nghiệp là LỰC LƯỢNG LAO ĐỘNG (20 triệu), KHÔNG PHẢI tổng dân số (40 triệu).
+
+
+
+Câu 50. Nếu nhà độc quyền muốn đạt mục tiêu tối đa hóa lợi nhuận thì áp dụng biện pháp nào?
+
+A. MC = AR    B. VC = P    C. Chọn mức sản lượng tại đó có doanh thu biên bằng chi phí biên (MR = MC)    D. MC = P
+
+► Đáp án đúng: C. Chọn mức sản lượng tại đó có doanh thu biên bằng chi phí biên (MR = MC)
+
+Giải thích chi tiết: Đứng trước bất kỳ thị trường nào, để tối đa hóa lợi nhuận, quy tắc chung bất biến là doanh nghiệp phải lựa chọn sản lượng Q tại đó Doanh thu cận biên bằng Chi phí cận biên (MR = MC).
+
+💡 NỘI DUNG & DẠNG BÀI TƯƠNG TỰ:• Tổng kết các nguyên tắc tối đa hóa:• Tối đa hóa lợi ích người tiêu dùng: MUx/Px = MUy/Py.• Tối đa hóa lợi nhuận doanh nghiệp: MR = MC.• Tối đa hóa doanh thu: MR = 0.
+
+
+
+PHẦN 3: BẢNG TỔNG HỢP ĐÁP ÁN NHANH ĐỂ TRA CỨU
+
+Bảng đối chiếu đáp án nhanh 100 câu trắc nghiệm của 2 Mã đề thi trắc nghiệm Nguyên lý Kinh tế:
+
+1. Bảng Đáp Án Mã Đề 829:
+
+Câu
+
++0
+
++1
+
++2
+
++3
+
++4
+
++5
+
++6
+
++7
+
++8
+
++9
+
+1-10
+
+A
+
+A
+
+D
+
+B
+
+C
+
+D
+
+D
+
+D
+
+C
+
+B
+
+11-20
+
+A
+
+D
+
+A
+
+D
+
+A
+
+B
+
+C
+
+A
+
+B
+
+B
+
+21-30
+
+B
+
+D
+
+A
+
+C
+
+C
+
+A
+
+B
+
+D
+
+D
+
+C
+
+31-40
+
+B
+
+B
+
+C
+
+A
+
+C
+
+A
+
+A
+
+C
+
+A
+
+D
+
+41-50
+
+A
+
+C
+
+C
+
+C
+
+C
+
+D
+
+C
+
+C
+
+A
+
+D
+
+
+
+2. Bảng Đáp Án Mã Đề 495:
+
+Câu
+
++0
+
++1
+
++2
+
++3
+
++4
+
++5
+
++6
+
++7
+
++8
+
++9
+
+1-10
+
+D
+
+A
+
+C
+
+C
+
+D
+
+A
+
+D
+
+A
+
+D
+
+D
+
+11-20
+
+A
+
+B
+
+A
+
+C
+
+B
+
+A
+
+C
+
+C
+
+D
+
+C
+
+21-30
+
+A
+
+C
+
+A
+
+A
+
+A
+
+D
+
+B
+
+A
+
+A
+
+C
+
+31-40
+
+B
+
+A
+
+B
+
+A
+
+C
+
+A
+
+A
+
+D
+
+C
+
+A
+
+41-50
+
+B
+
+A
+
+A
+
+C
+
+B
+
+A
+
+C
+
+C
+
+A
+
+C
+
